@@ -1,0 +1,948 @@
+Municipi,Municipi forma indexada,Cap de municipi,Cap de municipi indexada,Codi municipi,Codi municipi INE,Comarca,Codi comarca,Abreviatura comarca,Província,Codi província,UTM X,UTM Y,Longitud,Latitud
+Alcover,Alcover,Alcover,Alcover,430056,43005,Alt Camp,1,ACA,Tarragona,43,346608.3,4569560.26,1.168858284,41.2629114
+Alió,Alió,Alió,Alió,430108,43010,Alt Camp,1,ACA,Tarragona,43,358194.2,4572851.75,1.30634069,41.29466394
+Bràfim,Bràfim,Bràfim,Bràfim,430347,43034,Alt Camp,1,ACA,Tarragona,43,361065.59,4569918.14,1.341290393,41.26874906
+Cabra del Camp,Cabra del Camp,Cabra del Camp,Cabra del Camp,430363,43036,Alt Camp,1,ACA,Tarragona,43,355954.7487,4584072.446,1.276943289,41.39529428
+Figuerola del Camp,Figuerola del Camp,Figuerola del Camp,Figuerola del Camp,430593,43059,Alt Camp,1,ACA,Tarragona,43,354900.34,4581444.17,1.264965381,41.37144108
+Mont-ral,Mont-ral,Mont-ral,Mont-ral,430918,43091,Alt Camp,1,ACA,Tarragona,43,340641.473,4572345.67,1.096936669,41.28683328
+Montferri,Montferri,Montferri,Montferri,430897,43089,Alt Camp,1,ACA,Tarragona,43,363110.4477,4569536.238,1.365779712,41.26565945
+Nulles,Nulles,Nulles,Nulles,430982,43098,Alt Camp,1,ACA,Tarragona,43,357162.5327,4567834.99,1.295200025,41.24931205
+Puigpelat,Puigpelat,Puigpelat,Puigpelat,431191,43119,Alt Camp,1,ACA,Tarragona,43,357372.7744,4571226.676,1.296914752,41.27988736
+Querol,Querol,Querol,Querol,431205,43120,Alt Camp,1,ACA,Tarragona,43,366050.536,4586948.277,1.397024653,41.42293329
+Rodonyà,Rodonyà,Rodonyà,Rodonyà,431325,43132,Alt Camp,1,ACA,Tarragona,43,365927.4,4571057.41,1.399061774,41.2798289
+Aiguamúrcia,Aiguamúrcia,Santes Creus,Santes Creus,430017,43001,Alt Camp,1,ACA,Tarragona,43,363069.03,4578511.98,1.363265165,41.34647074
+Vallmoll,Vallmoll,Vallmoll,Vallmoll,431606,43160,Alt Camp,1,ACA,Tarragona,43,353278.24,4567149.43,1.249025345,41.24244387
+Valls,Valls,Valls,Valls,431613,43161,Alt Camp,1,ACA,Tarragona,43,353265.06,4571784.7,1.247752539,41.28417563
+Vila-rodona,Vila-rodona,Vila-rodona,Vila-rodona,431704,43170,Alt Camp,1,ACA,Tarragona,43,362563.43,4574564.01,1.358117024,41.31083706
+Vilabella,Vilabella,Vilabella,Vilabella,431652,43165,Alt Camp,1,ACA,Tarragona,43,360068.1881,4567503.521,1.329941491,41.24683568
+el Milà,"Milà, el",el Milà,"Milà, el",430831,43083,Alt Camp,1,ACA,Tarragona,43,349738.0919,4567828.403,1.20662969,41.24790686
+el Pla de Santa Maria,"Pla de Santa Maria, el",el Pla de Santa Maria,"Pla de Santa Maria, el",431080,43108,Alt Camp,1,ACA,Tarragona,43,356885.36,4580758.72,1.288852863,41.36562491
+el Pont d'Armentera,"Pont d'Armentera, el",el Pont d'Armentera,"Pont d'Armentera, el",431135,43113,Alt Camp,1,ACA,Tarragona,43,363108.5798,4582643.154,1.362805361,41.38367447
+el Rourell,"Rourell, el",el Rourell,"Rourell, el",431346,43134,Alt Camp,1,ACA,Tarragona,43,350661.1572,4565155.48,1.218295132,41.22401222
+els Garidells,"Garidells, els",els Garidells,"Garidells, els",430666,43066,Alt Camp,1,ACA,Tarragona,43,353007.2658,4563258.987,1.246729151,41.20736643
+la Masó,"Masó, la",la Masó,"Masó, la",430803,43080,Alt Camp,1,ACA,Tarragona,43,351063.7406,4566355.005,1.222803463,41.23488639
+la Riba,"Riba, la",la Riba,"Riba, la",431248,43124,Alt Camp,1,ACA,Tarragona,43,347505.76,4575688.03,1.178031912,41.31825095
+Agullana,Agullana,Agullana,Agullana,170010,17001,Alt Empordà,2,AEM,Girona,17,487380.18,4693512.8,2.846670142,42.3938047
+Albanyà,Albanyà,Albanyà,Albanyà,170031,17003,Alt Empordà,2,AEM,Girona,17,476902.62,4683592.38,2.719766852,42.30422037
+Avinyonet de Puigventós,Avinyonet de Puigventós,Avinyonet de Puigventós,Avinyonet de Puigventós,170123,17012,Alt Empordà,2,AEM,Girona,17,492963.4651,4677485.917,2.914701715,42.24953483
+Biure,Biure,Biure,Biure,172348,17234,Alt Empordà,2,AEM,Girona,17,491350.1766,4687272.45,2.894998835,42.33765799
+Boadella i les Escaules,Boadella i les Escaules,Boadella d'Empordà,Boadella d'Empordà,170293,17029,Alt Empordà,2,AEM,Girona,17,488158.3927,4686417.291,2.856271057,42.32991431
+Borrassà,Borrassà,Borrassà,Borrassà,170268,17026,Alt Empordà,2,AEM,Girona,17,493918.45,4674515.96,2.926309348,42.22279457
+Bàscara,Bàscara,Bàscara,Bàscara,170160,17016,Alt Empordà,2,AEM,Girona,17,492601.81,4667515.63,2.910444572,42.15973575
+Cabanelles,Cabanelles,Cabanelles,Cabanelles,170314,17031,Alt Empordà,2,AEM,Girona,17,485121.9085,4675423.248,2.819698027,42.23084785
+Cabanes,Cabanes,Cabanes,Cabanes,170307,17030,Alt Empordà,2,AEM,Girona,17,498210.1398,4683863.272,2.978283233,42.30700041
+Cadaqués,Cadaqués,Cadaqués,Cadaqués,170329,17032,Alt Empordà,2,AEM,Girona,17,522743.5539,4681799.864,3.275869869,42.28808721
+"Saus, Camallera i Llampaies","Saus, Camallera i Llampaies",Camallera,Camallera,171870,17187,Alt Empordà,2,AEM,Girona,17,497004.36,4663448.29,2.963758519,42.1231327
+Cantallops,Cantallops,Cantallops,Cantallops,170412,17041,Alt Empordà,2,AEM,Girona,17,493856.09,4696635.71,2.925318506,42.42200791
+Capmany,Capmany,Capmany,Capmany,170427,17042,Alt Empordà,2,AEM,Girona,17,493497.61,4691138.09,2.921023161,42.37249324
+Castelló d'Empúries,Castelló d'Empúries,Castelló d'Empúries,Castelló d'Empúries,170470,17047,Alt Empordà,2,AEM,Girona,17,506139.49,4678460.94,3.074434461,42.25832371
+Cistella,Cistella,Cistella,Cistella,170519,17051,Alt Empordà,2,AEM,Girona,17,487405.03,4679619.6,2.847275069,42.26868136
+Colera,Colera,Colera,Colera,170545,17054,Alt Empordà,2,AEM,Girona,17,512406.8393,4694627.675,3.150766201,42.4038487
+Darnius,Darnius,Darnius,Darnius,170600,17060,Alt Empordà,2,AEM,Girona,17,486163.78,4690711.21,2.831958326,42.36855278
+Espolla,Espolla,Espolla,Espolla,170643,17064,Alt Empordà,2,AEM,Girona,17,500071.25,4693199.43,3.000865645,42.391085
+Figueres,Figueres,Figueres,Figueres,170669,17066,Alt Empordà,2,AEM,Girona,17,496766.9091,4679450.458,2.960796851,42.26725302
+Fortià,Fortià,Fortià,Fortià,170741,17074,Alt Empordà,2,AEM,Girona,17,503358.25,4676647.51,3.040704541,42.24200839
+Garriguella,Garriguella,Garriguella,Garriguella,170773,17077,Alt Empordà,2,AEM,Girona,17,505294.41,4687782.32,3.064274139,42.34228001
+Garrigàs,Garrigàs,Garrigàs,Garrigàs,170754,17075,Alt Empordà,2,AEM,Girona,17,496208.4343,4671253.208,2.954078557,42.19342359
+Lladó,Lladó,Lladó,Lladó,170887,17088,Alt Empordà,2,AEM,Girona,17,484639.54,4677285.02,2.813803126,42.24760608
+Llançà,Llançà,Llançà,Llançà,170926,17092,Alt Empordà,2,AEM,Girona,17,513311.79,4690844.92,3.161675555,42.36976614
+Llers,Llers,Llers,Llers,170932,17093,Alt Empordà,2,AEM,Girona,17,492774.97,4682579.7,2.912353205,42.29540888
+Pedret i Marzà,Pedret i Marzà,Marzà,Marzà,171292,17129,Alt Empordà,2,AEM,Girona,17,505564.6843,4684287.274,3.067521597,42.31080123
+Masarac i Vilarnadal,Masarac i Vilarnadal,Masarac,Masarac,171002,17100,Alt Empordà,2,AEM,Girona,17,497757.77,4688718.025,2.972775685,42.35072187
+Maçanet de Cabrenys,Maçanet de Cabrenys,Maçanet de Cabrenys,Maçanet de Cabrenys,171024,17102,Alt Empordà,2,AEM,Girona,17,479262.1,4692658.44,2.7480676,42.38593602
+Mollet de Peralada,Mollet de Peralada,Mollet de Peralada,Mollet de Peralada,171061,17106,Alt Empordà,2,AEM,Girona,17,499981.42,4689726.72,2.999774376,42.35980952
+Navata,Navata,Navata,Navata,171117,17111,Alt Empordà,2,AEM,Girona,17,488502.6193,4674631.358,2.860683132,42.22377295
+Ordis,Ordis,Ordis,Ordis,171156,17115,Alt Empordà,2,AEM,Girona,17,492302.9237,4674053.656,2.90674003,42.21861666
+Palau-saverdera,Palau-saverdera,Palau-saverdera,Palau-saverdera,171208,17120,Alt Empordà,2,AEM,Girona,17,512363.96,4683989.54,3.150017098,42.30804154
+Pau,Pau,Pau,Pau,171289,17128,Alt Empordà,2,AEM,Girona,17,509573.12,4684848.37,3.116168969,42.31581559
+Peralada,Peralada,Peralada,Peralada,171328,17132,Alt Empordà,2,AEM,Girona,17,500670.81,4684000.86,3.008139245,42.30824132
+Pont de Molins,Pont de Molins,Pont de Molins,Pont de Molins,171352,17135,Alt Empordà,2,AEM,Girona,17,493876.2857,4684708.559,2.925690703,42.3145912
+Pontós,Pontós,Pontós,Pontós,171365,17136,Alt Empordà,2,AEM,Girona,17,493110.48,4670504.13,2.916566672,42.18665597
+Portbou,Portbou,Portbou,Portbou,171387,17138,Alt Empordà,2,AEM,Girona,17,513047.44,4697073.22,3.158606152,42.42586273
+Rabós,Rabós,Rabós,Rabós,171432,17143,Alt Empordà,2,AEM,Girona,17,502348.3002,4691865.094,3.028524999,42.37906435
+Riumors,Riumors,Riumors,Riumors,171518,17151,Alt Empordà,2,AEM,Girona,17,503476.17,4675014.48,3.042124039,42.22730033
+Roses,Roses,Roses,Roses,171523,17152,Alt Empordà,2,AEM,Girona,17,514671.54,4678903.03,3.17788689,42.26219149
+Sant Climent Sescebes,Sant Climent Sescebes,Sant Climent Sescebes,Sant Climent Sescebes,171582,17158,Alt Empordà,2,AEM,Girona,17,498394.6864,4690723.163,2.980503302,42.36878192
+Sant Llorenç de la Muga,Sant Llorenç de la Muga,Sant Llorenç de la Muga,Sant Llorenç de la Muga,171714,17171,Alt Empordà,2,AEM,Girona,17,482659.0544,4685326.289,2.789555289,42.31998555
+Sant Miquel de Fluvià,Sant Miquel de Fluvià,Sant Miquel de Fluvià,Sant Miquel de Fluvià,171753,17175,Alt Empordà,2,AEM,Girona,17,499314.83,4668869.93,2.991704388,42.17196777
+Sant Mori,Sant Mori,Sant Mori,Sant Mori,171766,17176,Alt Empordà,2,AEM,Girona,17,499237.2031,4666850.061,2.990767175,42.15377593
+Sant Pere Pescador,Sant Pere Pescador,Sant Pere Pescador,Sant Pere Pescador,171788,17178,Alt Empordà,2,AEM,Girona,17,506767.7061,4670670.65,3.081960079,42.18815677
+Palau de Santa Eulàlia,Palau de Santa Eulàlia,Santa Eulàlia,Santa Eulàlia,171194,17119,Alt Empordà,2,AEM,Girona,17,497077.3731,4669019.643,2.964613902,42.17331099
+Santa Llogaia d'Àlguema,Santa Llogaia d'Àlguema,Santa Llogaia d'Àlguema,Santa Llogaia d'Àlguema,171827,17182,Alt Empordà,2,AEM,Girona,17,496040.9426,4675684.072,2.952019792,42.23332858
+Siurana,Siurana,Siurana,Siurana,170524,17052,Alt Empordà,2,AEM,Girona,17,499513.81,4673034.38,2.994110033,42.20947449
+Terrades,Terrades,Terrades,Terrades,171962,17196,Alt Empordà,2,AEM,Girona,17,486796.08,4684252.13,2.839785356,42.31039267
+Torroella de Fluvià,Torroella de Fluvià,Torroella de Fluvià,Torroella de Fluvià,171984,17198,Alt Empordà,2,AEM,Girona,17,503383.6454,4669193.919,3.040968953,42.17487873
+Ventalló,Ventalló,Ventalló,Ventalló,172109,17210,Alt Empordà,2,AEM,Girona,17,502220.6589,4666306.234,3.026876583,42.14887521
+Vila-sacra,Vila-sacra,Vila-sacra,Vila-sacra,172305,17230,Alt Empordà,2,AEM,Girona,17,501495.41,4679255.07,3.018132233,42.26549857
+Vilabertran,Vilabertran,Vilabertran,Vilabertran,172142,17214,Alt Empordà,2,AEM,Girona,17,498479.66,4681164.46,2.981560473,42.28269494
+Viladamat,Viladamat,Viladamat,Viladamat,172174,17217,Alt Empordà,2,AEM,Girona,17,506179.4,4664596.71,3.074770992,42.13345727
+Vilafant,Vilafant,Vilafant,Vilafant,172214,17221,Alt Empordà,2,AEM,Girona,17,494850.2588,4677200.914,2.937576321,42.24698274
+Vilajuïga,Vilajuïga,Vilajuïga,Vilajuïga,172235,17223,Alt Empordà,2,AEM,Girona,17,507659.37,4685922.45,3.092960052,42.32551009
+Vilamacolum,Vilamacolum,Vilamacolum,Vilamacolum,172253,17225,Alt Empordà,2,AEM,Girona,17,504689.65,4671587.74,3.056801259,42.19643164
+Vilamalla,Vilamalla,Vilamalla,Vilamalla,172266,17226,Alt Empordà,2,AEM,Girona,17,497563.12,4673946.3,2.970474501,42.21768389
+Vilamaniscle,Vilamaniscle,Vilamaniscle,Vilamaniscle,172272,17227,Alt Empordà,2,AEM,Girona,17,505579.77,4691433.35,3.067773732,42.37515955
+Vilanant,Vilanant,Vilanant,Vilanant,172288,17228,Alt Empordà,2,AEM,Girona,17,490818.01,4678050.39,2.888685182,42.25459633
+Vilaür,Vilaür,Vilaür,Vilaür,172229,17222,Alt Empordà,2,AEM,Girona,17,496288.7995,4665722.269,2.955087148,42.14361013
+el Far d'Empordà,"Far d'Empordà, el",el Far d'Empordà,"Far d'Empordà, el",170059,17005,Alt Empordà,2,AEM,Girona,17,499689.4528,4677720.557,2.996235357,42.25167972
+el Port de la Selva,"Port de la Selva, el",el Port de la Selva,"Port de la Selva, el",171404,17140,Alt Empordà,2,AEM,Girona,17,516864.4223,4687373.208,3.204721567,42.33843075
+l'Armentera,"Armentera, l'",l'Armentera,"Armentera, l'",170118,17011,Alt Empordà,2,AEM,Girona,17,506155.24,4668887.41,3.074523974,42.1721013
+l'Escala,"Escala, l'",l'Escala,"Escala, l'",170622,17062,Alt Empordà,2,AEM,Girona,17,510952.0438,4663640.211,3.132502105,42.12479045
+la Jonquera,"Jonquera, la",la Jonquera,"Jonquera, la",170865,17086,Alt Empordà,2,AEM,Girona,17,489654.5363,4696130.741,2.874256251,42.41741552
+la Selva de Mar,"Selva de Mar, la",la Selva de Mar,"Selva de Mar, la",171886,17188,Alt Empordà,2,AEM,Girona,17,515364.54,4685821.6,3.186472926,42.32448789
+la Vajol,"Vajol, la",la Vajol,"Vajol, la",170144,17014,Alt Empordà,2,AEM,Girona,17,483557.6079,4694630.81,2.800194482,42.40380195
+Avinyonet del Penedès,Avinyonet del Penedès,Avinyó Nou,Avinyó Nou,080137,08013,Alt Penedès,3,APE,Barcelona,08,397733.9,4579557.25,1.777332142,41.36103069
+Gelida,Gelida,Gelida,Gelida,080919,08091,Alt Penedès,3,APE,Barcelona,08,405076.15,4588311.48,1.863724449,41.44076893
+Font-rubí,Font-rubí,Guardiola de Font-rubí,Guardiola de Font-rubí,080850,08085,Alt Penedès,3,APE,Barcelona,08,387322.8404,4585617.43,1.651764519,41.41421386
+Torrelavit,Torrelavit,Lavit,Lavit,082877,08287,Alt Penedès,3,APE,Barcelona,08,393880.3966,4589094.263,1.729599364,41.44641656
+Olesa de Bonesvalls,Olesa de Bonesvalls,Olesa de Bonesvalls,Olesa de Bonesvalls,081461,08146,Alt Penedès,3,APE,Barcelona,08,403842.42,4578448.15,1.850525294,41.35179497
+Pacs del Penedès,Pacs del Penedès,Pacs del Penedès,Pacs del Penedès,081542,08154,Alt Penedès,3,APE,Barcelona,08,388714.93,4579798.14,1.669486163,41.36200398
+Pontons,Pontons,Pontons,Pontons,081688,08168,Alt Penedès,3,APE,Barcelona,08,376048.0247,4585959.241,1.5168274,41.41563199
+Puigdàlber,Puigdàlber,Puigdàlber,Puigdàlber,081748,08174,Alt Penedès,3,APE,Barcelona,08,391413.7,4584465.86,1.700907912,41.40440678
+Sant Cugat Sesgarrigues,Sant Cugat Sesgarrigues,Sant Cugat Sesgarrigues,Sant Cugat Sesgarrigues,082068,08206,Alt Penedès,3,APE,Barcelona,08,395689.7937,4579957.436,1.752830001,41.36437236
+Mediona,Mediona,Sant Joan de Mediona,Sant Joan de Mediona,081228,08122,Alt Penedès,3,APE,Barcelona,08,384050.6653,4592694.917,1.611263745,41.47748045
+Sant Llorenç d'Hortons,Sant Llorenç d'Hortons,Sant Llorenç d'Hortons,Sant Llorenç d'Hortons,082227,08222,Alt Penedès,3,APE,Barcelona,08,401839.76,4591280.2,1.824508661,41.46711499
+Sant Martí Sarroca,Sant Martí Sarroca,Sant Martí Sarroca,Sant Martí Sarroca,082270,08227,Alt Penedès,3,APE,Barcelona,08,383908.1962,4582401.676,1.611534615,41.38477015
+Olèrdola,Olèrdola,Sant Miquel d'Olèrdola,Sant Miquel d'Olèrdola,081458,08145,Alt Penedès,3,APE,Barcelona,08,393116.34,4575085.81,1.722925638,41.3201636
+Subirats,Subirats,Sant Pau d'Ordal,Sant Pau d'Ordal,082732,08273,Alt Penedès,3,APE,Barcelona,08,399345.37,4582030.69,1.796183728,41.38350871
+Sant Pere de Riudebitlles,Sant Pere de Riudebitlles,Sant Pere de Riudebitlles,Sant Pere de Riudebitlles,082325,08232,Alt Penedès,3,APE,Barcelona,08,391670.5793,4589971.827,1.702993774,41.45402406
+Sant Quintí de Mediona,Sant Quintí de Mediona,Sant Quintí de Mediona,Sant Quintí de Mediona,082362,08236,Alt Penedès,3,APE,Barcelona,08,388341.7653,4590928.326,1.662971905,41.46218118
+Sant Sadurní d'Anoia,Sant Sadurní d'Anoia,Sant Sadurní d'Anoia,Sant Sadurní d'Anoia,082401,08240,Alt Penedès,3,APE,Barcelona,08,398602.0565,4586548.056,1.786538997,41.42409689
+Santa Fe del Penedès,Santa Fe del Penedès,Santa Fe del Penedès,Santa Fe del Penedès,082495,08249,Alt Penedès,3,APE,Barcelona,08,393056.18,4582235.87,1.720947074,41.38454505
+Torrelles de Foix,Torrelles de Foix,Torrelles de Foix,Torrelles de Foix,082883,08288,Alt Penedès,3,APE,Barcelona,08,380336.96,4582853,1.568745858,41.388311
+Vilafranca del Penedès,Vilafranca del Penedès,Vilafranca del Penedès,Vilafranca del Penedès,083054,08305,Alt Penedès,3,APE,Barcelona,08,391088.41,4578030.19,1.698173458,41.34640752
+Vilobí del Penedès,Vilobí del Penedès,Vilobí del Penedès,Vilobí del Penedès,083041,08304,Alt Penedès,3,APE,Barcelona,08,388094.68,4582824.36,1.661513802,41.3891697
+el Pla del Penedès,"Pla del Penedès, el",el Pla del Penedès,"Pla del Penedès, el",081640,08164,Alt Penedès,3,APE,Barcelona,08,392441.61,4585905.52,1.712946612,41.41750955
+Santa Margarida i els Monjos,Santa Margarida i els Monjos,els Monjos,"Monjos, els",082515,08251,Alt Penedès,3,APE,Barcelona,08,388141.73,4575408.13,1.663443522,41.32239144
+Castellet i la Gornal,Castellet i la Gornal,la Gornal,"Gornal, la",080581,08058,Alt Penedès,3,APE,Barcelona,08,381949.37,4567943.92,1.590921193,41.25429298
+la Granada,"Granada, la",la Granada,"Granada, la",080945,08094,Alt Penedès,3,APE,Barcelona,08,392876.94,4581558.34,1.718923634,41.37841979
+Castellví de la Marca,Castellví de la Marca,la Múnia,"Múnia, la",080654,08065,Alt Penedès,3,APE,Barcelona,08,384448.43,4575954.67,1.619221713,41.32679226
+les Cabanyes,"Cabanyes, les",les Cabanyes,"Cabanyes, les",080272,08027,Alt Penedès,3,APE,Barcelona,08,390374.1959,4580825.162,1.689133527,41.37148025
+Alàs i Cerc,Alàs i Cerc,Alàs,Alàs,250058,25005,Alt Urgell,4,AUR,Lleida,25,377139.8971,4689870.953,1.508278479,42.35140371
+les Valls de Valira,"Valls de Valira, les",Anserall,Anserall,252398,25239,Alt Urgell,4,AUR,Lleida,25,372932.817,4693013.25,1.456522869,42.37901739
+Cava,Cava,Ansovell,Ansovell,250714,25071,Alt Urgell,4,AUR,Lleida,25,383356.9046,4686872.261,1.584345925,42.32536247
+Arsèguel,Arsèguel,Arsèguel,Arsèguel,250328,25032,Alt Urgell,4,AUR,Lleida,25,383261.4814,4689631.891,1.582630187,42.35019416
+Bassella,Bassella,Bassella,Bassella,250447,25044,Alt Urgell,4,AUR,Lleida,25,358826.0706,4651852.759,1.295229079,42.00604184
+Cabó,Cabó,Cabó,Cabó,250616,25061,Alt Urgell,4,AUR,Lleida,25,355376.9763,4677788.02,1.247172145,42.23889201
+Coll de Nargó,Coll de Nargó,Coll de Nargó,Coll de Nargó,250772,25077,Alt Urgell,4,AUR,Lleida,25,360896.3,4670547.24,1.315770473,42.17470995
+Estamariu,Estamariu,Estamariu,Estamariu,250886,25088,Alt Urgell,4,AUR,Lleida,25,378367.5709,4692255.413,1.522676662,42.37306417
+Fígols i Alinyà,Fígols i Alinyà,Fígols,Fígols,259084,25908,Alt Urgell,4,AUR,Lleida,25,362922.31,4673634.69,1.33956335,42.20286242
+Montferrer i Castellbò,Montferrer i Castellbò,Montferrer,Montferrer,251403,25140,Alt Urgell,4,AUR,Lleida,25,370529.03,4688912.74,1.428255324,42.34170497
+les Valls d'Aguilar,"Valls d'Aguilar, les",Noves de Segre,Noves de Segre,259062,25906,Alt Urgell,4,AUR,Lleida,25,363302.36,4683774.31,1.341775398,42.29421091
+Oliana,Oliana,Oliana,Oliana,251497,25149,Alt Urgell,4,AUR,Lleida,25,360567.3232,4658356.201,1.314700495,42.06490075
+Organyà,Organyà,Organyà,Organyà,251556,25155,Alt Urgell,4,AUR,Lleida,25,362031.23,4674566.66,1.32855282,42.21109576
+Peramola,Peramola,Peramola,Peramola,251654,25165,Alt Urgell,4,AUR,Lleida,25,356669.6306,4657575.701,1.267801318,42.05717298
+la Vansa i Fórnols,"Vansa i Fórnols, la",Sorribes de la Vansa,Sorribes de la Vansa,259097,25909,Alt Urgell,4,AUR,Lleida,25,374610.743,4676829.184,1.480406563,42.23358473
+Josa i Tuixén,Josa i Tuixén,Tuixent,Tuixent,259101,25910,Alt Urgell,4,AUR,Lleida,25,381654.94,4676401.11,1.565835825,42.23082968
+Ribera d'Urgellet,Ribera d'Urgellet,el Pla de Sant Tirs,"Pla de Sant Tirs, el",251850,25185,Alt Urgell,4,AUR,Lleida,25,366769.26,4685723.15,1.383365637,42.31235585
+el Pont de Bar,"Pont de Bar, el",el Pont de Bar,"Pont de Bar, el",250306,25030,Alt Urgell,4,AUR,Lleida,25,385158.2589,4692059.801,1.605169559,42.37233601
+la Seu d'Urgell,"Seu d'Urgell, la",la Seu d'Urgell,"Seu d'Urgell, la",252038,25203,Alt Urgell,4,AUR,Lleida,25,373342.92,4690689.42,1.46201318,42.35816328
+la Vall de Boí,"Vall de Boí, la",Barruera,Barruera,250432,25043,Alta Ribagorça,5,ARI,Lleida,25,319338.4672,4708233.195,0.801124657,42.50537846
+Vilaller,Vilaller,Vilaller,Vilaller,252458,25245,Alta Ribagorça,5,ARI,Lleida,25,312241.3021,4705234.369,0.715791498,42.47670343
+el Pont de Suert,"Pont de Suert, el",el Pont de Suert,"Pont de Suert, el",251734,25173,Alta Ribagorça,5,ARI,Lleida,25,314047.09,4697513.06,0.740242992,42.4076554
+Argençola,Argençola,Argençola,Argençola,080082,08008,Anoia,6,ANO,Barcelona,08,370288.5362,4606295.424,1.443554697,41.59783259
+Bellprat,Bellprat,Bellprat,Bellprat,080214,08021,Anoia,6,ANO,Barcelona,08,369328.3708,4597352.281,1.433983011,41.5171521
+Calaf,Calaf,Calaf,Calaf,080312,08031,Anoia,6,ANO,Barcelona,08,376166.095,4621316.66,1.510944003,41.73401913
+Calonge de Segarra,Calonge de Segarra,Calonge de Segarra,Calonge de Segarra,080364,08036,Anoia,6,ANO,Barcelona,08,373816,4624697,1.481977441,41.76408573
+Orpí,Orpí,Can Bou,Can Bou,081521,08152,Anoia,6,ANO,Barcelona,08,383774.9169,4598382.445,1.606864529,41.52865549
+Cabrera d'Anoia,Cabrera d'Anoia,Canaletes,Canaletes,080288,08028,Anoia,6,ANO,Barcelona,08,391786.3,4592610.69,1.70390571,41.47780316
+Capellades,Capellades,Capellades,Capellades,080446,08044,Anoia,6,ANO,Barcelona,08,390385.65,4598557.19,1.686051806,41.53116161
+Carme,Carme,Carme,Carme,080484,08048,Anoia,6,ANO,Barcelona,08,384886.6288,4598755.79,1.620114914,41.53217802
+Castellfollit de Riubregós,Castellfollit de Riubregós,Castellfollit de Riubregós,Castellfollit de Riubregós,080608,08060,Anoia,6,ANO,Barcelona,08,370203.64,4626104.31,1.438227878,41.77617438
+Castellolí,Castellolí,Castellolí,Castellolí,080636,08063,Anoia,6,ANO,Barcelona,08,391718.6,4605998.87,1.700683894,41.59835563
+Copons,Copons,Copons,Copons,080713,08071,Anoia,6,ANO,Barcelona,08,376626.73,4610546.07,1.518707744,41.63711085
+Igualada,Igualada,Igualada,Igualada,081022,08102,Anoia,6,ANO,Barcelona,08,384728.5402,4603922.633,1.617228953,41.57868135
+Jorba,Jorba,Jorba,Jorba,081038,08103,Anoia,6,ANO,Barcelona,08,378953.9182,4606595.974,1.54743913,41.60189937
+Masquefa,Masquefa,Masquefa,Masquefa,081192,08119,Anoia,6,ANO,Barcelona,08,400767.1349,4595190.33,1.811022748,41.50219584
+Montmaneu,Montmaneu,Montmaneu,Montmaneu,081332,08133,Anoia,6,ANO,Barcelona,08,367933.1845,4609429.441,1.414611522,41.6256647
+Piera,Piera,Piera,Piera,081614,08161,Anoia,6,ANO,Barcelona,08,395077.7282,4596987.392,1.742556235,41.51765402
+Pujalt,Pujalt,Pujalt,Pujalt,081764,08176,Anoia,6,ANO,Barcelona,08,368636.97,4619576.64,1.420825073,41.71714385
+Rubió,Rubió,Rubió,Rubió,081859,08185,Anoia,6,ANO,Barcelona,08,380909.7993,4611289.261,1.569969141,41.64445396
+Sant Martí Sesgueioles,Sant Martí Sesgueioles,Sant Martí Sesgueioles,Sant Martí Sesgueioles,082286,08228,Anoia,6,ANO,Barcelona,08,374221.03,4617828.43,1.488299494,41.70230578
+Sant Martí de Tous,Sant Martí de Tous,Sant Martí de Tous,Sant Martí de Tous,082264,08226,Anoia,6,ANO,Barcelona,08,376965.6,4601961.89,1.524537048,41.55986864
+Sant Pere Sallavinera,Sant Pere Sallavinera,Sant Pere Sallavinera,Sant Pere Sallavinera,081897,08189,Anoia,6,ANO,Barcelona,08,381529.1037,4621522.605,1.575371533,41.73669103
+Santa Margarida de Montbui,Santa Margarida de Montbui,Santa Margarida de Montbui,Santa Margarida de Montbui,082508,08250,Anoia,6,ANO,Barcelona,08,383932.34,4603544.01,1.607753847,41.57515673
+Santa Maria de Miralles,Santa Maria de Miralles,Santa Maria de Miralles,Santa Maria de Miralles,082573,08257,Anoia,6,ANO,Barcelona,08,376924.1196,4597321.53,1.524989672,41.5180786
+Vallbona d'Anoia,Vallbona d'Anoia,Vallbona d'Anoia,Vallbona d'Anoia,082922,08292,Anoia,6,ANO,Barcelona,08,392168.6878,4597149.417,1.70767214,41.51872664
+Veciana,Veciana,Veciana,Veciana,082975,08297,Anoia,6,ANO,Barcelona,08,374139.5382,4612701.492,1.488401284,41.6561298
+Vilanova del Camí,Vilanova del Camí,Vilanova del Camí,Vilanova del Camí,083020,08302,Anoia,6,ANO,Barcelona,08,386226.37,4603150.3,1.635338079,41.57194133
+el Bruc,"Bruc, el",el Bruc,"Bruc, el",080253,08025,Anoia,6,ANO,Barcelona,08,398631.5341,4603595.499,1.784022875,41.57762008
+els Hostalets de Pierola,"Hostalets de Pierola, els",els Hostalets de Pierola,"Hostalets de Pierola, els",081629,08162,Anoia,6,ANO,Barcelona,08,397342.3877,4598854.184,1.769372473,41.53475863
+els Prats de Rei,"Prats de Rei, els",els Prats de Rei,"Prats de Rei, els",081705,08170,Anoia,6,ANO,Barcelona,08,378672.38,4618098.57,1.541726998,41.7054294
+la Llacuna,"Llacuna, la",la Llacuna,"Llacuna, la",081043,08104,Anoia,6,ANO,Barcelona,08,377572.67,4592256.58,1.533788903,41.47257065
+la Pobla de Claramunt,"Pobla de Claramunt, la",la Pobla de Claramunt,"Pobla de Claramunt, la",081653,08165,Anoia,6,ANO,Barcelona,08,389484.6087,4601129.88,1.674780783,41.55420472
+la Torre de Claramunt,"Torre de Claramunt, la",la Torre de Claramunt,"Torre de Claramunt, la",082861,08286,Anoia,6,ANO,Barcelona,08,388077.6008,4598854.923,1.658337008,41.53352327
+Òdena,Òdena,Òdena,Òdena,081430,08143,Anoia,6,ANO,Barcelona,08,386874.96,4606961.21,1.642396633,41.6063498
+Aguilar de Segarra,Aguilar de Segarra,Aguilar de Segarra,Aguilar de Segarra,080023,08002,Bages,7,BAG,Barcelona,08,386239.932,4621721.368,1.631966008,41.73916911
+Artés,Artés,Artés,Artés,080109,08010,Bages,7,BAG,Barcelona,08,413058.86,4627899.53,1.953516241,41.79819381
+Avinyó,Avinyó,Avinyó,Avinyó,080121,08012,Bages,7,BAG,Barcelona,08,414625.04,4635160.52,1.971318448,41.86375268
+Balsareny,Balsareny,Balsareny,Balsareny,080180,08018,Bages,7,BAG,Barcelona,08,406776.6403,4635188.13,1.876765648,41.86311546
+Callús,Callús,Callús,Callús,080386,08038,Bages,7,BAG,Barcelona,08,398960.02,4626206.59,1.784135265,41.78127786
+Cardona,Cardona,Cardona,Cardona,080478,08047,Bages,7,BAG,Barcelona,08,390625.2,4640990.71,1.68113098,41.91329668
+Castellfollit del Boix,Castellfollit del Boix,Castellfollit del Boix,Castellfollit del Boix,080594,08059,Bages,7,BAG,Barcelona,08,390417.0201,4613614.792,1.683674881,41.66675844
+Castellgalí,Castellgalí,Castellgalí,Castellgalí,080615,08061,Bages,7,BAG,Barcelona,08,403422.3199,4614501.005,1.839720016,41.67642196
+Castellnou de Bages,Castellnou de Bages,Castellnou de Bages,Castellnou de Bages,080620,08062,Bages,7,BAG,Barcelona,08,403463.7096,4632030.377,1.837371486,41.83428246
+Fonollosa,Fonollosa,Fonollosa,Fonollosa,080847,08084,Bages,7,BAG,Barcelona,08,389335.62,4624363.01,1.668692236,41.76339325
+Gaià,Gaià,Gaià,Gaià,080902,08090,Bages,7,BAG,Barcelona,08,410907.6619,4641062.617,1.92564494,41.91649269
+Manresa,Manresa,Manresa,Manresa,081136,08113,Bages,7,BAG,Barcelona,08,402434.16,4619715.97,1.826997476,41.72326357
+Marganell,Marganell,Marganell,Marganell,082423,08242,Bages,7,BAG,Barcelona,08,399171.7596,4610622.369,1.789319151,41.64096728
+Monistrol de Montserrat,Monistrol de Montserrat,Monistrol de Montserrat,Monistrol de Montserrat,081271,08127,Bages,7,BAG,Barcelona,08,403553.74,4607081.62,1.842495088,41.60962346
+Mura,Mura,Mura,Mura,081398,08139,Bages,7,BAG,Barcelona,08,414813.5622,4616927.307,1.976205065,41.69957259
+Navarcles,Navarcles,Navarcles,Navarcles,081402,08140,Bages,7,BAG,Barcelona,08,408858.88,4622779.84,1.903756546,41.7516175
+Navàs,Navàs,Navàs,Navàs,081419,08141,Bages,7,BAG,Barcelona,08,407008.72,4639275.15,1.878918213,41.89994691
+Rajadell,Rajadell,Rajadell,Rajadell,081786,08178,Bages,7,BAG,Barcelona,08,392379.21,4620390.62,1.706016465,41.72804121
+Sallent,Sallent,Sallent,Sallent,081918,08191,Bages,7,BAG,Barcelona,08,408359.57,4630863.08,1.896504192,41.82435229
+Sant Feliu Sasserra,Sant Feliu Sasserra,Sant Feliu Sasserra,Sant Feliu Sasserra,082129,08212,Bages,7,BAG,Barcelona,08,418968.99,4644062.68,2.022428853,41.94437798
+Sant Fruitós de Bages,Sant Fruitós de Bages,Sant Fruitós de Bages,Sant Fruitós de Bages,082135,08213,Bages,7,BAG,Barcelona,08,406358.58,4622724.83,1.873697176,41.75083128
+Sant Joan de Vilatorrada,Sant Joan de Vilatorrada,Sant Joan de Vilatorrada,Sant Joan de Vilatorrada,082188,08218,Bages,7,BAG,Barcelona,08,400627.03,4622208.45,1.804859378,41.74548484
+Sant Mateu de Bages,Sant Mateu de Bages,Sant Mateu de Bages,Sant Mateu de Bages,082299,08229,Bages,7,BAG,Barcelona,08,394713.4325,4627975.318,1.732732068,41.79665276
+Sant Salvador de Guardiola,Sant Salvador de Guardiola,Sant Salvador de Guardiola,Sant Salvador de Guardiola,080983,08098,Bages,7,BAG,Barcelona,08,397369.68,4614921.05,1.766947392,41.67944747
+Sant Vicenç de Castellet,Sant Vicenç de Castellet,Sant Vicenç de Castellet,Sant Vicenç de Castellet,082628,08262,Bages,7,BAG,Barcelona,08,405417.61,4613263.58,1.863882735,41.66551791
+Santpedor,Santpedor,Santpedor,Santpedor,081923,08192,Bages,7,BAG,Barcelona,08,403538.915,4626342.31,1.839202199,41.78306992
+Súria,Súria,Súria,Súria,082747,08274,Bages,7,BAG,Barcelona,08,396561.7921,4631789.406,1.754309091,41.83124121
+Talamanca,Talamanca,Talamanca,Talamanca,082779,08277,Bages,7,BAG,Barcelona,08,414951.3813,4621210.162,1.977249747,41.73815732
+Castellbell i el Vilar,Castellbell i el Vilar,el Borràs,"Borràs, el",080538,08053,Bages,7,BAG,Barcelona,08,405365.5,4609319.37,1.863881187,41.62999235
+el Pont de Vilomara i Rocafort,"Pont de Vilomara i Rocafort, el",el Pont de Vilomara,"Pont de Vilomara, el",081825,08182,Bages,7,BAG,Barcelona,08,406030.97,4617081.03,1.870647966,41.69996822
+Alforja,Alforja,Alforja,Alforja,430094,43009,Baix Camp,8,BCA,Tarragona,43,330266.9231,4564085.513,0.975413192,41.21035935
+Almoster,Almoster,Almoster,Almoster,430115,43011,Baix Camp,8,BCA,Tarragona,43,341821.9477,4562424.351,1.113597785,41.19774418
+Arbolí,Arbolí,Arbolí,Arbolí,430154,43015,Baix Camp,8,BCA,Tarragona,43,328113.159,4567689.362,0.948724552,41.24234715
+Botarell,Botarell,Botarell,Botarell,430332,43033,Baix Camp,8,BCA,Tarragona,43,331216.5911,4555809.239,0.989014862,41.13605157
+Cambrils,Cambrils,Cambrils,Cambrils,430385,43038,Baix Camp,8,BCA,Tarragona,43,336323.8188,4548836.991,1.051688034,41.07432746
+Capafonts,Capafonts,Capafonts,Capafonts,430398,43039,Baix Camp,8,BCA,Tarragona,43,334849.5329,4573378.965,1.027527497,41.2949715
+Castellvell del Camp,Castellvell del Camp,Castellvell del Camp,Castellvell del Camp,430424,43042,Baix Camp,8,BCA,Tarragona,43,340328.56,4560616.71,1.096268921,41.18117702
+Colldejou,Colldejou,Colldejou,Colldejou,430458,43045,Baix Camp,8,BCA,Tarragona,43,322599.1651,4551953.401,0.887520569,41.09950399
+Duesaigües,Duesaigües,Duesaigües,Duesaigües,430537,43053,Baix Camp,8,BCA,Tarragona,43,326356.874,4557040.792,0.930800358,41.14611309
+Maspujols,Maspujols,Maspujols,Maspujols,430810,43081,Baix Camp,8,BCA,Tarragona,43,336097.6933,4560778.99,1.045809407,41.18179332
+Mont-roig del Camp,Mont-roig del Camp,Mont-roig del Camp,Mont-roig del Camp,430923,43092,Baix Camp,8,BCA,Tarragona,43,328469.6,4550563.39,0.957769917,41.08825086
+Montbrió del Camp,Montbrió del Camp,Montbrió del Camp,Montbrió del Camp,430884,43088,Baix Camp,8,BCA,Tarragona,43,332395.02,4554079.48,1.003519447,41.12072351
+Prades,Prades,Prades,Prades,431166,43116,Baix Camp,8,BCA,Tarragona,43,331571.27,4575081.62,0.98792525,41.30962174
+Pratdip,Pratdip,Pratdip,Pratdip,431188,43118,Baix Camp,8,BCA,Tarragona,43,321075.04,4546582.17,0.870944606,41.05081868
+Reus,Reus,Reus,Reus,431233,43123,Baix Camp,8,BCA,Tarragona,43,341313.61,4557699.36,1.108762995,41.15510545
+Riudecanyes,Riudecanyes,Riudecanyes,Riudecanyes,431270,43127,Baix Camp,8,BCA,Tarragona,43,328822.6791,4555211.267,0.960676325,41.1301671
+Riudecols,Riudecols,Riudecols,Riudecols,431286,43128,Baix Camp,8,BCA,Tarragona,43,330211.9822,4559438.611,0.976047452,41.16851499
+Riudoms,Riudoms,Riudoms,Riudoms,431299,43129,Baix Camp,8,BCA,Tarragona,43,336469.97,4556005.24,1.051519302,41.13889158
+Vandellòs i l'Hospitalet de l'Infant,Vandellòs i l'Hospitalet de l'Infant,Vandellòs,Vandellòs,431628,43162,Baix Camp,8,BCA,Tarragona,43,317656.0711,4543231.013,0.831280095,41.01989393
+Vilanova d'Escornalbou,Vilanova d'Escornalbou,Vilanova d'Escornalbou,Vilanova d'Escornalbou,431671,43167,Baix Camp,8,BCA,Tarragona,43,326758.39,4553338.71,0.936626812,41.1128721
+Vilaplana,Vilaplana,Vilaplana,Vilaplana,431690,43169,Baix Camp,8,BCA,Tarragona,43,335156.4453,4565995.207,1.033187166,41.22856192
+Vinyols i els Arcs,Vinyols i els Arcs,Vinyols,Vinyols,431785,43178,Baix Camp,8,BCA,Tarragona,43,335396.0004,4553239.078,1.03947161,41.11377139
+l'Albiol,"Albiol, l'",l'Albiol,"Albiol, l'",430038,43003,Baix Camp,8,BCA,Tarragona,43,339902.4765,4568498.363,1.089126795,41.25205057
+l'Aleixar,"Aleixar, l'",l'Aleixar,"Aleixar, l'",430075,43007,Baix Camp,8,BCA,Tarragona,43,336179.3608,4562980.782,1.046193119,41.20163188
+l'Argentera,"Argentera, l'",l'Argentera,"Argentera, l'",430173,43017,Baix Camp,8,BCA,Tarragona,43,324528.1148,4556127.779,0.909283103,41.13750071
+la Febró,"Febró, la",la Febró,"Febró, la",430574,43057,Baix Camp,8,BCA,Tarragona,43,332832.35,4571460.73,1.00397576,41.2772877
+la Selva del Camp,"Selva del Camp, la",la Selva del Camp,"Selva del Camp, la",431457,43145,Baix Camp,8,BCA,Tarragona,43,343833.23,4564336.4,1.137083404,41.21534896
+les Borges del Camp,"Borges del Camp, les",les Borges del Camp,"Borges del Camp, les",430311,43031,Baix Camp,8,BCA,Tarragona,43,333855.12,4559743.89,1.019367456,41.17201808
+Aldover,Aldover,Aldover,Aldover,430069,43006,Baix Ebre,9,BEB,Tarragona,43,289360.2071,4528433.58,0.500058469,40.87990045
+Alfara de Carles,Alfara de Carles,Alfara de Carles,Alfara de Carles,430081,43008,Baix Ebre,9,BEB,Tarragona,43,280954.6768,4527950.094,0.40056526,40.87334487
+Benifallet,Benifallet,Benifallet,Benifallet,430252,43025,Baix Ebre,9,BEB,Tarragona,43,291152.2724,4538827.398,0.517808189,40.97390262
+Camarles,Camarles,Camarles,Camarles,439039,43903,Baix Ebre,9,BEB,Tarragona,43,303334.48,4516075.6,0.669673104,40.77214068
+Deltebre,Deltebre,Deltebre,Deltebre,439018,43901,Baix Ebre,9,BEB,Tarragona,43,308715.4674,4509944.588,0.735259155,40.71822152
+Paüls,Paüls,Paüls,Paüls,431021,43102,Baix Ebre,9,BEB,Tarragona,43,281099.56,4533401.3,0.400361806,40.92243962
+Roquetes,Roquetes,Roquetes,Roquetes,431331,43133,Baix Ebre,9,BEB,Tarragona,43,289418.5648,4521819.876,0.50298736,40.82039282
+Tivenys,Tivenys,Tivenys,Tivenys,431495,43149,Baix Ebre,9,BEB,Tarragona,43,290490.9173,4531449.59,0.5124489,40.90733425
+Tortosa,Tortosa,Tortosa,Tortosa,431554,43155,Baix Ebre,9,BEB,Tarragona,43,290878.1765,4520735.676,0.52064304,40.81100812
+Xerta,Xerta,Xerta,Xerta,430521,43052,Baix Ebre,9,BEB,Tarragona,43,288648.47,4531402.34,0.490609099,40.90643521
+el Perelló,"Perelló, el",el Perelló,"Perelló, el",431042,43104,Baix Ebre,9,BEB,Tarragona,43,307238.26,4527453.35,0.712376156,40.87548015
+l'Aldea,"Aldea, l'",l'Aldea,"Aldea, l'",439044,43904,Baix Ebre,9,BEB,Tarragona,43,299267.25,4513421.45,0.622370716,40.74726814
+l'Ametlla de Mar,"Ametlla de Mar, l'",l'Ametlla de Mar,"Ametlla de Mar, l'",430136,43013,Baix Ebre,9,BEB,Tarragona,43,314912.65,4528198.5,0.803165906,40.88395787
+l'Ampolla,"Ampolla, l'",l'Ampolla,"Ampolla, l'",439060,43906,Baix Ebre,9,BEB,Tarragona,43,306866.32,4520438.64,0.710140873,40.81225126
+Albons,Albons,Albons,Albons,170046,17004,Baix Empordà,10,BEM,Girona,17,507051.8398,4661371.092,3.085288573,42.10439847
+Begur,Begur,Begur,Begur,170139,17013,Baix Empordà,10,BEM,Girona,17,517161.5747,4644727.142,3.20707327,41.95433767
+Bellcaire d'Empordà,Bellcaire d'Empordà,Bellcaire d'Empordà,Bellcaire d'Empordà,170182,17018,Baix Empordà,10,BEM,Girona,17,507797.4197,4658747.283,3.094270988,42.08076005
+Calonge i Sant Antoni,Calonge i Sant Antoni,Calonge,Calonge,170340,17034,Baix Empordà,10,BEM,Girona,17,506112.75,4634530.87,3.073651618,41.86266489
+Colomers,Colomers,Colomers,Colomers,170558,17055,Baix Empordà,10,BEM,Girona,17,498973.9839,4659121.896,2.987594776,42.08417207
+Corçà,Corçà,Corçà,Corçà,170577,17057,Baix Empordà,10,BEM,Girona,17,501477.3033,4648600.859,3.017835075,41.98941248
+Foixà,Foixà,Foixà,Foixà,170681,17068,Baix Empordà,10,BEM,Girona,17,499714.1248,4654179.794,2.99654599,42.0396613
+Fontanilles,Fontanilles,Fontanilles,Fontanilles,170708,17070,Baix Empordà,10,BEM,Girona,17,508868.14,4650886.24,3.107097027,42.00994757
+Garrigoles,Garrigoles,Garrigoles,Garrigoles,170767,17076,Baix Empordà,10,BEM,Girona,17,501717.46,4661331.72,3.020771738,42.10407368
+Gualta,Gualta,Gualta,Gualta,170813,17081,Baix Empordà,10,BEM,Girona,17,508572.09,4652945.87,3.103551845,42.02850116
+Jafre,Jafre,Jafre,Jafre,170852,17085,Baix Empordà,10,BEM,Girona,17,500878.29,4657767.71,3.010617083,42.07197571
+Mont-ras,Mont-ras,Mont-ras,Mont-ras,171100,17110,Baix Empordà,10,BEM,Girona,17,511878.8507,4639699.673,3.143230296,41.9091538
+Palafrugell,Palafrugell,Palafrugell,Palafrugell,171175,17117,Baix Empordà,10,BEM,Girona,17,513603.3809,4640334.14,3.164038525,41.91484048
+Palamós,Palamós,Palamós,Palamós,171181,17118,Baix Empordà,10,BEM,Girona,17,510740.4641,4632773.559,3.12937825,41.84678772
+Palau-sator,Palau-sator,Palau-sator,Palau-sator,171215,17121,Baix Empordà,10,BEM,Girona,17,509154.1812,4648601.616,3.110515817,41.98936749
+Pals,Pals,Pals,Pals,171241,17124,Baix Empordà,10,BEM,Girona,17,512009.12,4646565.73,3.144940997,41.97099258
+Parlavà,Parlavà,Parlavà,Parlavà,171267,17126,Baix Empordà,10,BEM,Girona,17,502477.7426,4652235.343,3.029928439,42.02214452
+"Castell d'Aro, Platja d'Aro i s'Agaró","Castell d'Aro, Platja d'Aro i s'Agaró",Platja d'Aro,Platja d'Aro,170486,17048,Baix Empordà,10,BEM,Girona,17,505682.37,4629512.46,3.068417874,41.81746772
+Regencós,Regencós,Regencós,Regencós,171447,17144,Baix Empordà,10,BEM,Girona,17,514080.3561,4644510.321,3.169889969,41.95244587
+Rupià,Rupià,Rupià,Rupià,171539,17153,Baix Empordà,10,BEM,Girona,17,500899.0045,4652043.21,3.010858704,42.02041743
+Sant Feliu de Guíxols,Sant Feliu de Guíxols,Sant Feliu de Guíxols,Sant Feliu de Guíxols,171609,17160,Baix Empordà,10,BEM,Girona,17,502377.31,4625393.55,3.028607211,41.78038557
+"Cruïlles, Monells i Sant Sadurní de l'Heura","Cruïlles, Monells i Sant Sadurní de l'Heura",Sant Sadurní de l'Heura,Sant Sadurní de l'Heura,179011,17901,Baix Empordà,10,BEM,Girona,17,499237.68,4644949.69,2.990801454,41.95652847
+Santa Cristina d'Aro,Santa Cristina d'Aro,Santa Cristina d'Aro,Santa Cristina d'Aro,171812,17181,Baix Empordà,10,BEM,Girona,17,499696.7,4628979.33,2.996348425,41.81268616
+Serra de Daró,Serra de Daró,Serra de Daró,Serra de Daró,171910,17191,Baix Empordà,10,BEM,Girona,17,505965.8,4652924.64,3.072067372,42.02833404
+Torrent,Torrent,Torrent,Torrent,171978,17197,Baix Empordà,10,BEM,Girona,17,510583.1748,4644455.952,3.127693016,41.95201087
+Torroella de Montgrí,Torroella de Montgrí,Torroella de Montgrí,Torroella de Montgrí,171997,17199,Baix Empordà,10,BEM,Girona,17,510436.8173,4654343.951,3.126102808,42.04107057
+Ullastret,Ullastret,Ullastret,Ullastret,172057,17205,Baix Empordà,10,BEM,Girona,17,505676.8012,4649827.054,3.068546281,42.00043733
+Ullà,Ullà,Ullà,Ullà,172044,17204,Baix Empordà,10,BEM,Girona,17,508910.6627,4655411.206,3.107679315,42.05070167
+Ultramort,Ultramort,Ultramort,Ultramort,172039,17203,Baix Empordà,10,BEM,Girona,17,502853.74,4653849.22,3.034477932,42.03667882
+Vall-llobrega,Vall-llobrega,Vall-llobrega,Vall-llobrega,172095,17209,Baix Empordà,10,BEM,Girona,17,510473.384,4636512.467,3.126227263,41.88046712
+Verges,Verges,Verges,Verges,172116,17211,Baix Empordà,10,BEM,Girona,17,503853.77,4656483.81,3.046577287,42.06040322
+Vilopriu,Vilopriu,Vilopriu,Vilopriu,172327,17232,Baix Empordà,10,BEM,Girona,17,499338.7627,4661345.417,2.992002681,42.10419864
+Forallac,Forallac,Vulpellac,Vulpellac,179026,17902,Baix Empordà,10,BEM,Girona,17,504495.6146,4645347.745,3.054249433,41.9601012
+la Bisbal d'Empordà,"Bisbal d'Empordà, la",la Bisbal d'Empordà,"Bisbal d'Empordà, la",170221,17022,Baix Empordà,10,BEM,Girona,17,503194.6559,4645302.139,3.038550275,41.95969678
+la Pera,"Pera, la",la Pera,"Pera, la",171306,17130,Baix Empordà,10,BEM,Girona,17,497790.6825,4652042.958,2.973314569,42.02041258
+la Tallada d'Empordà,"Tallada d'Empordà, la",la Tallada d'Empordà,"Tallada d'Empordà, la",171959,17195,Baix Empordà,10,BEM,Girona,17,504568.38,4658727.52,3.055231691,42.08060748
+Abrera,Abrera,Abrera,Abrera,080018,08001,Baix Llobregat,11,BLL,Barcelona,08,408430.1857,4596640.83,1.902601581,41.51617119
+Begues,Begues,Begues,Begues,080207,08020,Baix Llobregat,11,BLL,Barcelona,08,409773.9285,4576248.718,1.921745361,41.33267297
+Castelldefels,Castelldefels,Castelldefels,Castelldefels,080569,08056,Baix Llobregat,11,BLL,Barcelona,08,414330.12,4570397.49,1.97701006,41.28047213
+Castellví de Rosanes,Castellví de Rosanes,Castellví de Rosanes,Castellví de Rosanes,080667,08066,Baix Llobregat,11,BLL,Barcelona,08,408142.29,4589162.01,1.900291407,41.44878533
+Cervelló,Cervelló,Cervelló,Cervelló,080689,08068,Baix Llobregat,11,BLL,Barcelona,08,412984.6464,4583252.907,1.959104276,41.39610698
+Collbató,Collbató,Collbató,Collbató,080692,08069,Baix Llobregat,11,BLL,Barcelona,08,402300.6389,4602730.413,1.828167856,41.5702866
+Corbera de Llobregat,Corbera de Llobregat,Corbera de Llobregat,Corbera de Llobregat,080728,08072,Baix Llobregat,11,BLL,Barcelona,08,409999.88,4585697.95,1.923042237,41.41779856
+Cornellà de Llobregat,Cornellà de Llobregat,Cornellà de Llobregat,Cornellà de Llobregat,080734,08073,Baix Llobregat,11,BLL,Barcelona,08,422251.9,4578666.31,2.070534547,41.35574736
+Esparreguera,Esparreguera,Esparreguera,Esparreguera,080765,08076,Baix Llobregat,11,BLL,Barcelona,08,405777.2842,4599211.539,1.870411656,41.53901438
+Esplugues de Llobregat,Esplugues de Llobregat,Esplugues de Llobregat,Esplugues de Llobregat,080771,08077,Baix Llobregat,11,BLL,Barcelona,08,423738.7,4581068.14,2.088004774,41.37752166
+Gavà,Gavà,Gavà,Gavà,080898,08089,Baix Llobregat,11,BLL,Barcelona,08,416563.69,4572890.36,2.003335671,41.30315785
+Martorell,Martorell,Martorell,Martorell,081141,08114,Baix Llobregat,11,BLL,Barcelona,08,410711.2773,4591976.245,1.930625438,41.47442004
+Molins de Rei,Molins de Rei,Molins de Rei,Molins de Rei,081234,08123,Baix Llobregat,11,BLL,Barcelona,08,417754.56,4585173.03,2.015893753,41.41390212
+Olesa de Montserrat,Olesa de Montserrat,Olesa de Montserrat,Olesa de Montserrat,081477,08147,Baix Llobregat,11,BLL,Barcelona,08,407678.8015,4599917.397,1.89309544,41.54559277
+Pallejà,Pallejà,Pallejà,Pallejà,081574,08157,Baix Llobregat,11,BLL,Barcelona,08,416153.0241,4586027.332,1.996614979,41.42143064
+Sant Andreu de la Barca,Sant Andreu de la Barca,Sant Andreu de la Barca,Sant Andreu de la Barca,081960,08196,Baix Llobregat,11,BLL,Barcelona,08,414426.63,4588866.19,1.975556653,41.44681571
+Sant Boi de Llobregat,Sant Boi de Llobregat,Sant Boi de Llobregat,Sant Boi de Llobregat,082009,08200,Baix Llobregat,11,BLL,Barcelona,08,420122.6354,4577693.532,2.045210922,41.34677772
+Sant Climent de Llobregat,Sant Climent de Llobregat,Sant Climent de Llobregat,Sant Climent de Llobregat,082042,08204,Baix Llobregat,11,BLL,Barcelona,08,415996.9,4576729.38,1.996035705,41.3376746
+Sant Esteve Sesrovires,Sant Esteve Sesrovires,Sant Esteve Sesrovires,Sant Esteve Sesrovires,082080,08208,Baix Llobregat,11,BLL,Barcelona,08,405997.53,4594148.43,1.873842327,41.49344352
+Sant Feliu de Llobregat,Sant Feliu de Llobregat,Sant Feliu de Llobregat,Sant Feliu de Llobregat,082114,08211,Baix Llobregat,11,BLL,Barcelona,08,420192.88,4581481.41,2.045552047,41.38089988
+Sant Joan Despí,Sant Joan Despí,Sant Joan Despí,Sant Joan Despí,082172,08217,Baix Llobregat,11,BLL,Barcelona,08,421053.1188,4579931.688,2.056040487,41.36702729
+Sant Just Desvern,Sant Just Desvern,Sant Just Desvern,Sant Just Desvern,082212,08221,Baix Llobregat,11,BLL,Barcelona,08,422725.3344,4582018.683,2.075766405,41.38598602
+Sant Vicenç dels Horts,Sant Vicenç dels Horts,Sant Vicenç dels Horts,Sant Vicenç dels Horts,082634,08263,Baix Llobregat,11,BLL,Barcelona,08,417234.55,4582901.65,2.009983041,41.3933921
+Santa Coloma de Cervelló,Santa Coloma de Cervelló,Santa Coloma de Cervelló,Santa Coloma de Cervelló,082444,08244,Baix Llobregat,11,BLL,Barcelona,08,417687.6,4580010.97,2.015794152,41.36740424
+Torrelles de Llobregat,Torrelles de Llobregat,Torrelles de Llobregat,Torrelles de Llobregat,082896,08289,Baix Llobregat,11,BLL,Barcelona,08,414779.65,4579104.64,1.98115644,41.35893901
+Vallirana,Vallirana,Vallirana,Vallirana,082956,08295,Baix Llobregat,11,BLL,Barcelona,08,410698.4067,4582381.359,1.931888806,41.38800715
+Viladecans,Viladecans,Viladecans,Viladecans,083015,08301,Baix Llobregat,11,BLL,Barcelona,08,418008.1519,4574276.485,2.020400769,41.31578999
+el Papiol,"Papiol, el",el Papiol,"Papiol, el",081580,08158,Baix Llobregat,11,BLL,Barcelona,08,417345.6741,4587964.3,2.010620353,41.43899897
+el Prat de Llobregat,"Prat de Llobregat, el",el Prat de Llobregat,"Prat de Llobregat, el",081691,08169,Baix Llobregat,11,BLL,Barcelona,08,424110.46,4575844.85,2.093103274,41.33051298
+la Palma de Cervelló,"Palma de Cervelló, la",la Palma de Cervelló,"Palma de Cervelló, la",089058,08905,Baix Llobregat,11,BLL,Barcelona,08,413926.6942,4584994.822,1.970123793,41.41189631
+Albinyana,Albinyana,Albinyana,Albinyana,430022,43002,Baix Penedès,12,BPE,Tarragona,43,373172.9321,4567142.268,1.486364127,41.24574482
+Banyeres del Penedès,Banyeres del Penedès,Banyeres del Penedès,Banyeres del Penedès,430206,43020,Baix Penedès,12,BPE,Tarragona,43,381159.65,4570756.75,1.580949266,41.27950693
+Bellvei,Bellvei,Bellvei,Bellvei,430249,43024,Baix Penedès,12,BPE,Tarragona,43,380725.2525,4566520.707,1.576592377,41.24129713
+Bonastre,Bonastre,Bonastre,Bonastre,430304,43030,Baix Penedès,12,BPE,Tarragona,43,369229.53,4564442.86,1.439895627,41.22080971
+Calafell,Calafell,Calafell,Calafell,430379,43037,Baix Penedès,12,BPE,Tarragona,43,379985.6354,4562075.528,1.568641739,41.20115852
+Cunit,Cunit,Cunit,Cunit,430516,43051,Baix Penedès,12,BPE,Tarragona,43,385500.2,4561685.67,1.634466186,41.1984463
+Llorenç del Penedès,Llorenç del Penedès,Llorenç del Penedès,Llorenç del Penedès,430748,43074,Baix Penedès,12,BPE,Tarragona,43,378836.53,4571173.88,1.553134736,41.28291792
+Masllorenç,Masllorenç,Masllorenç,Masllorenç,430799,43079,Baix Penedès,12,BPE,Tarragona,43,367192.91,4569862.24,1.414427941,41.26927629
+Sant Jaume dels Domenys,Sant Jaume dels Domenys,Sant Jaume dels Domenys,Sant Jaume dels Domenys,431378,43137,Baix Penedès,12,BPE,Tarragona,43,379351.94,4572982.41,1.558929195,41.29928078
+Santa Oliva,Santa Oliva,Santa Oliva,Santa Oliva,431401,43140,Baix Penedès,12,BPE,Tarragona,43,378577.39,4567868.91,1.55069958,41.25311797
+el Vendrell,"Vendrell, el",el Vendrell,"Vendrell, el",431634,43163,Baix Penedès,12,BPE,Tarragona,43,377194.51,4564238.12,1.534929051,41.22021408
+l'Arboç,"Arboç, l'",l'Arboç,"Arboç, l'",430167,43016,Baix Penedès,12,BPE,Tarragona,43,383028.8828,4569408.425,1.60352186,41.26763802
+la Bisbal del Penedès,"Bisbal del Penedès, la",la Bisbal del Penedès,"Bisbal del Penedès, la",430287,43028,Baix Penedès,12,BPE,Tarragona,43,373365.9,4571042.72,1.487856184,41.28089741
+el Montmell,"Montmell, el",la Joncosa del Montmell,"Joncosa del Montmell, la",430901,43090,Baix Penedès,12,BPE,Tarragona,43,370470.77,4574861.17,1.452484559,41.31482135
+Badalona,Badalona,Badalona,Badalona,080155,08015,Barcelonès,13,BAR,Barcelona,08,437012.35,4589238.98,2.24587666,41.45226335
+Barcelona,Barcelona,Barcelona,Barcelona,080193,08019,Barcelonès,13,BAR,Barcelona,08,431188.81,4581570.88,2.177032927,41.38272127
+Sant Adrià de Besòs,Sant Adrià de Besòs,Sant Adrià de Besòs,Sant Adrià de Besòs,081944,08194,Barcelonès,13,BAR,Barcelona,08,434676.71,4586852.85,2.218173528,41.43058547
+Santa Coloma de Gramenet,Santa Coloma de Gramenet,Santa Coloma de Gramenet,Santa Coloma de Gramenet,082457,08245,Barcelonès,13,BAR,Barcelona,08,433859.59,4589214.14,2.208136156,41.451786
+l'Hospitalet de Llobregat,"Hospitalet de Llobregat, l'",l'Hospitalet de Llobregat,"Hospitalet de Llobregat, l'",081017,08101,Barcelonès,13,BAR,Barcelona,08,424698.24,4579079.19,2.099725367,41.35969846
+Avià,Avià,Avià,Avià,080116,08011,Berguedà,14,BER,Barcelona,08,402857.7,4659072.35,1.825611891,42.07771723
+Bagà,Bagà,Bagà,Bagà,080168,08016,Berguedà,14,BER,Barcelona,08,406120.84,4678473.64,1.861926322,42.25281558
+Berga,Berga,Berga,Berga,080229,08022,Berguedà,14,BER,Barcelona,08,404602.16,4662007.87,1.846218116,42.10436455
+Borredà,Borredà,Borredà,Borredà,080240,08024,Berguedà,14,BER,Barcelona,08,416873.68,4665318.3,1.994139922,42.13557149
+Capolat,Capolat,Capolat,Capolat,080459,08045,Berguedà,14,BER,Barcelona,08,396859.3774,4659185.558,1.753092189,42.07797169
+Casserres,Casserres,Casserres,Casserres,080497,08049,Berguedà,14,BER,Barcelona,08,404093.26,4651947.59,1.841712148,42.01371242
+Castell de l'Areny,Castell de l'Areny,Castell de l'Areny,Castell de l'Areny,080575,08057,Berguedà,14,BER,Barcelona,08,412895.5052,4669543.546,1.945378653,42.17318734
+Castellar de n'Hug,Castellar de n'Hug,Castellar de n'Hug,Castellar de n'Hug,080522,08052,Berguedà,14,BER,Barcelona,08,418967.03,4681652.36,2.017188951,42.28287917
+Cercs,Cercs,Cercs,Cercs,082687,08268,Berguedà,14,BER,Barcelona,08,405865.29,4666612.96,1.86074923,42.14598452
+Fígols,Fígols,Fígols,Fígols,080804,08080,Berguedà,14,BER,Barcelona,08,403884.8621,4670516.818,1.83614198,42.18089654
+Gironella,Gironella,Gironella,Gironella,080924,08092,Berguedà,14,BER,Barcelona,08,407526.6416,4654105.59,1.882829957,42.03355592
+Gisclareny,Gisclareny,Gisclareny,Gisclareny,080930,08093,Berguedà,14,BER,Barcelona,08,399911.8614,4678237.903,1.786712961,42.24992145
+Guardiola de Berguedà,Guardiola de Berguedà,Guardiola de Berguedà,Guardiola de Berguedà,080996,08099,Berguedà,14,BER,Barcelona,08,407515.8674,4676307.519,1.87918005,42.23347717
+Gósol,Gósol,Gósol,Gósol,251001,25100,Berguedà,14,BER,Lleida,25,389452.84,4676954.73,1.660203284,42.23695691
+Castellar del Riu,Castellar del Riu,Llinars,Llinars,080500,08050,Berguedà,14,BER,Barcelona,08,401196.81,4663466.86,1.804794078,42.11708061
+Montclar,Montclar,Montclar,Montclar,081304,08130,Berguedà,14,BER,Barcelona,08,397784.9768,4652532.112,1.765440317,42.0181818
+Montmajor,Montmajor,Montmajor,Montmajor,081326,08132,Berguedà,14,BER,Barcelona,08,395275.31,4652509.37,1.735139512,42.01764703
+Olvan,Olvan,Olvan,Olvan,081445,08144,Berguedà,14,BER,Barcelona,08,409393.57,4656693.59,1.904980123,42.05707803
+Puig-reig,Puig-reig,Puig-reig,Puig-reig,081751,08175,Berguedà,14,BER,Barcelona,08,407110.66,4647579.42,1.878837767,41.97473919
+Sagàs,Sagàs,Sagàs,Sagàs,081884,08188,Berguedà,14,BER,Barcelona,08,414188.2183,4656061.772,1.963008757,42.05192664
+Saldes,Saldes,Saldes,Saldes,081901,08190,Berguedà,14,BER,Barcelona,08,395642.56,4675938.58,1.735385192,42.22865905
+Sant Jaume de Frontanyà,Sant Jaume de Frontanyà,Sant Jaume de Frontanyà,Sant Jaume de Frontanyà,082166,08216,Berguedà,14,BER,Barcelona,08,419389.7238,4671031.999,2.023790016,42.18728679
+Sant Julià de Cerdanyola,Sant Julià de Cerdanyola,Sant Julià de Cerdanyola,Sant Julià de Cerdanyola,089030,08903,Berguedà,14,BER,Barcelona,08,408629.4841,4675203.77,1.892847282,42.2236694
+Santa Maria de Merlès,Santa Maria de Merlès,Santa Maria de Merlès,Santa Maria de Merlès,082554,08255,Berguedà,14,BER,Barcelona,08,415364.3828,4650394.095,1.978037719,42.00101566
+Viver i Serrateix,Viver i Serrateix,Serrateix,Serrateix,083089,08308,Berguedà,14,BER,Barcelona,08,398570.4004,4644512.522,1.776308276,41.94606994
+Vallcebre,Vallcebre,Vallcebre,Vallcebre,082938,08293,Berguedà,14,BER,Barcelona,08,402439.83,4673095.69,1.818215102,42.20393901
+Vilada,Vilada,Vilada,Vilada,082994,08299,Berguedà,14,BER,Barcelona,08,411702.22,4665552.06,1.931538128,42.13711088
+l'Espunyola,"Espunyola, l'",l'Espunyola,"Espunyola, l'",080787,08078,Berguedà,14,BER,Barcelona,08,398236.4988,4656394.088,1.770222278,42.05301561
+la Nou de Berguedà,"Nou de Berguedà, la",la Nou de Berguedà,"Nou de Berguedà, la",081424,08142,Berguedà,14,BER,Barcelona,08,407887.3899,4668782.458,1.8848739,42.1657606
+la Pobla de Lillet,"Pobla de Lillet, la",la Pobla de Lillet,"Pobla de Lillet, la",081666,08166,Berguedà,14,BER,Barcelona,08,415367.591,4677393.793,1.974161588,42.2441492
+la Quar,"Quar, la",la Quar,"Quar, la",081770,08177,Berguedà,14,BER,Barcelona,08,414115.0086,4659293.002,1.9616501,42.08101613
+Isòvol,Isòvol,All,All,170849,17084,Cerdanya,15,CER,Girona,17,404314.13,4694576.66,1.837361267,42.39759264
+Alp,Alp,Alp,Alp,170062,17006,Cerdanya,15,CER,Girona,17,408230.4454,4691744.49,1.885389092,42.37256346
+Bellver de Cerdanya,Bellver de Cerdanya,Bellver de Cerdanya,Bellver de Cerdanya,250518,25051,Cerdanya,15,CER,Lleida,25,399085.3352,4691658.35,1.774353422,42.37065432
+Bolvir,Bolvir,Bolvir,Bolvir,170242,17024,Cerdanya,15,CER,Girona,17,407844,4696775.71,1.879890862,42.41782046
+Das,Das,Das,Das,170617,17061,Cerdanya,15,CER,Girona,17,406956.76,4690487.35,1.87012501,42.36109232
+Ger,Ger,Ger,Ger,170789,17078,Cerdanya,15,CER,Girona,17,404897.99,4696031.71,1.844213611,42.41076591
+Guils de Cerdanya,Guils de Cerdanya,Guils de Cerdanya,Guils de Cerdanya,170828,17082,Cerdanya,15,CER,Girona,17,407849.11,4700187.04,1.879405829,42.44853757
+Lles de Cerdanya,Lles de Cerdanya,Lles de Cerdanya,Lles de Cerdanya,251272,25127,Cerdanya,15,CER,Lleida,25,391972.1419,4693950.585,1.687552467,42.39033693
+Llívia,Llívia,Llívia,Llívia,170947,17094,Cerdanya,15,CER,Girona,17,416213.04,4701851.55,1.980855351,42.46447483
+Montellà i Martinet,Montellà i Martinet,Martinet,Martinet,251399,25139,Cerdanya,15,CER,Lleida,25,392535.79,4690569.2,1.695029157,42.35997002
+Meranges,Meranges,Meranges,Meranges,170998,17099,Cerdanya,15,CER,Girona,17,400235.58,4700030.37,1.786868672,42.44618451
+Prats i Sansor,Prats i Sansor,Prats,Prats,251752,25175,Cerdanya,15,CER,Lleida,25,404228.34,4690956.17,1.836920976,42.36498242
+Prullans,Prullans,Prullans,Prullans,251790,25179,Cerdanya,15,CER,Lleida,25,396002.63,4692616.26,1.736748641,42.37887292
+Puigcerdà,Puigcerdà,Puigcerdà,Puigcerdà,171411,17141,Cerdanya,15,CER,Girona,17,411752.28,4698215.45,1.927164705,42.43123876
+Riu de Cerdanya,Riu de Cerdanya,Riu de Cerdanya,Riu de Cerdanya,259139,25913,Cerdanya,15,CER,Lleida,25,403301.3245,4688774.206,1.826031082,42.34522081
+Urús,Urús,Urús,Urús,172060,17206,Cerdanya,15,CER,Girona,17,405614.09,4689281.2,1.854020737,42.35006996
+Fontanals de Cerdanya,Fontanals de Cerdanya,el Vilar d'Urtx,"Vilar d'Urtx, el",170694,17069,Cerdanya,15,CER,Girona,17,409399.64,4693102.55,1.89937373,42.38492915
+Barberà de la Conca,Barberà de la Conca,Barberà de la Conca,Barberà de la Conca,430213,43021,Conca de Barberà,16,CBA,Tarragona,43,351925.552,4585888.811,1.228323935,41.41091586
+Blancafort,Blancafort,Blancafort,Blancafort,430290,43029,Conca de Barberà,16,CBA,Tarragona,43,346216.3518,4589000.529,1.15925662,41.43785849
+Conesa,Conesa,Conesa,Conesa,430461,43046,Conca de Barberà,16,CBA,Tarragona,43,357417.6048,4597736.838,1.291207359,41.51858251
+Forès,Forès,Forès,Forès,430614,43061,Conca de Barberà,16,CBA,Tarragona,43,352932.3226,4595147.737,1.238109362,41.49446126
+Llorac,Llorac,Llorac,Llorac,430733,43073,Conca de Barberà,16,CBA,Tarragona,43,358861.28,4601926.62,1.307518497,41.55656078
+Montblanc,Montblanc,Montblanc,Montblanc,430862,43086,Conca de Barberà,16,CBA,Tarragona,43,346259.23,4582191.14,1.161499167,41.37656212
+Passanant i Belltall,Passanant i Belltall,Passanant,Passanant,431016,43101,Conca de Barberà,16,CBA,Tarragona,43,349585.5047,4599354.758,1.196981826,41.53171585
+Pira,Pira,Pira,Pira,431074,43107,Conca de Barberà,16,CBA,Tarragona,43,349750.97,4587381.46,1.201947066,41.42395088
+Pontils,Pontils,Pontils,Pontils,431418,43141,Conca de Barberà,16,CBA,Tarragona,43,365392.7886,4592994.81,1.387808724,41.47726612
+Rocafort de Queralt,Rocafort de Queralt,Rocafort de Queralt,Rocafort de Queralt,431303,43130,Conca de Barberà,16,CBA,Tarragona,43,356517.68,4593250.67,1.281495138,41.47803104
+Santa Coloma de Queralt,Santa Coloma de Queralt,Santa Coloma de Queralt,Santa Coloma de Queralt,431397,43139,Conca de Barberà,16,CBA,Tarragona,43,365179.96,4599124.635,1.3838885,41.53242246
+Sarral,Sarral,Sarral,Sarral,431423,43142,Conca de Barberà,16,CBA,Tarragona,43,353694.1749,4589594.437,1.248578906,41.44460276
+Savallà del Comtat,Savallà del Comtat,Savallà del Comtat,Savallà del Comtat,431439,43143,Conca de Barberà,16,CBA,Tarragona,43,358115.8376,4600448.081,1.298932311,41.54311701
+Senan,Senan,Senan,Senan,431460,43146,Conca de Barberà,16,CBA,Tarragona,43,340377.31,4592691.87,1.088425982,41.46995053
+Solivella,Solivella,Solivella,Solivella,431476,43147,Conca de Barberà,16,CBA,Tarragona,43,347792.21,4590982.71,1.177610507,41.45600422
+Vallclara,Vallclara,Vallclara,Vallclara,431589,43158,Conca de Barberà,16,CBA,Tarragona,43,331271.3977,4582614.084,0.982252141,41.37736714
+Vallfogona de Riucorb,Vallfogona de Riucorb,Vallfogona de Riucorb,Vallfogona de Riucorb,431592,43159,Conca de Barberà,16,CBA,Tarragona,43,352908.6826,4602751.769,1.23596702,41.56291706
+Vilanova de Prades,Vilanova de Prades,Vilanova de Prades,Vilanova de Prades,431687,43168,Conca de Barberà,16,CBA,Tarragona,43,328953.5614,4579411.262,0.955454027,41.34804634
+Vilaverd,Vilaverd,Vilaverd,Vilaverd,431726,43172,Conca de Barberà,16,CBA,Tarragona,43,347485.8423,4577465.302,1.177348059,41.33424825
+Vimbodí i Poblet,Vimbodí i Poblet,Vimbodí,Vimbodí,431763,43176,Conca de Barberà,16,CBA,Tarragona,43,337074.0205,4585011.133,1.050959245,41.40014194
+l'Espluga de Francolí,"Espluga de Francolí, l'",l'Espluga de Francolí,"Espluga de Francolí, l'",430542,43054,Conca de Barberà,16,CBA,Tarragona,43,341536.6065,4584522.973,1.1044433,41.39663893
+les Piles de Gaià,"Piles de Gaià, les",les Piles de Gaià,"Piles de Gaià, les",431055,43105,Conca de Barberà,16,CBA,Tarragona,43,361620.4169,4596020.367,1.34195029,41.50386527
+Canyelles,Canyelles,Canyelles,Canyelles,080431,08043,Garraf,17,GAF,Barcelona,08,392997.5998,4571311.588,1.722171016,41.28615903
+Cubelles,Cubelles,Cubelles,Cubelles,080749,08074,Garraf,17,GAF,Barcelona,08,388695.4651,4562731.815,1.672372818,41.20831285
+Olivella,Olivella,Olivella,Olivella,081483,08148,Garraf,17,GAF,Barcelona,08,400472.1017,4573897.008,1.81099001,41.31039899
+Sant Pere de Ribes,Sant Pere de Ribes,Sant Pere de Ribes,Sant Pere de Ribes,082310,08231,Garraf,17,GAF,Barcelona,08,397140.35,4568598.97,1.772090811,41.26226838
+Sitges,Sitges,Sitges,Sitges,082704,08270,Garraf,17,GAF,Barcelona,08,400409.9962,4565515.377,1.811618107,41.23490746
+Vilanova i la Geltrú,Vilanova i la Geltrú,Vilanova i la Geltrú,Vilanova i la Geltrú,083073,08307,Garraf,17,GAF,Barcelona,08,393210.74,4564435.85,1.725919672,41.22426707
+Arbeca,Arbeca,Arbeca,Arbeca,250292,25029,Garrigues,18,GAR,Lleida,25,326850.59,4600968.96,0.924154304,41.54165167
+Bellaguarda,Bellaguarda,Bellaguarda,Bellaguarda,251706,25170,Garrigues,18,GAR,Lleida,25,310559.2039,4578712.864,0.735957765,41.33764555
+Bovera,Bovera,Bovera,Bovera,250560,25056,Garrigues,18,GAR,Lleida,25,302400.78,4577688.95,0.638865632,41.32647156
+Castelldans,Castelldans,Castelldans,Castelldans,250674,25067,Garrigues,18,GAR,Lleida,25,313475.41,4596424.58,0.765323867,41.49774416
+Cervià de les Garrigues,Cervià de les Garrigues,Cervià de les Garrigues,Cervià de les Garrigues,250735,25073,Garrigues,18,GAR,Lleida,25,321092.22,4588144.81,0.858969081,41.42495271
+Fulleda,Fulleda,Fulleda,Fulleda,250978,25097,Garrigues,18,GAR,Lleida,25,335008.892,4592108.773,1.024331601,41.46361529
+Granyena de les Garrigues,Granyena de les Garrigues,Granyena de les Garrigues,Granyena de les Garrigues,251057,25105,Garrigues,18,GAR,Lleida,25,303586.7654,4589475.889,0.649206595,41.43284446
+Juncosa,Juncosa,Juncosa,Juncosa,251180,25118,Garrigues,18,GAR,Lleida,25,313953.82,4582393.12,0.775369774,41.37156183
+Juneda,Juneda,Juneda,Juneda,251193,25119,Garrigues,18,GAR,Lleida,25,318609.1161,4602037.826,0.825093631,41.54944683
+Puiggròs,Puiggròs,Puiggròs,Puiggròs,251804,25180,Garrigues,18,GAR,Lleida,25,324025.3213,4602024.187,0.889995826,41.55053376
+Tarrés,Tarrés,Tarrés,Tarrés,252189,25218,Garrigues,18,GAR,Lleida,25,334513.448,4587560.652,1.019648039,41.4225704
+Vinaixa,Vinaixa,Vinaixa,Vinaixa,252555,25255,Garrigues,18,GAR,Lleida,25,330822.865,4588311.02,0.97529967,41.42855666
+el Cogul,"Cogul, el",el Cogul,"Cogul, el",250766,25076,Garrigues,18,GAR,Lleida,25,307051.1539,4593179.797,0.68945474,41.46701993
+el Soleràs,"Soleràs, el",el Soleràs,"Soleràs, el",252069,25206,Garrigues,18,GAR,Lleida,25,306239.53,4587203.25,0.681659372,41.4130345
+el Vilosell,"Vilosell, el",el Vilosell,"Vilosell, el",252537,25253,Garrigues,18,GAR,Lleida,25,328309.22,4583414.74,0.946623661,41.38394808
+els Omellons,"Omellons, els",els Omellons,"Omellons, els",251538,25153,Garrigues,18,GAR,Lleida,25,329691.89,4596438.52,0.959479049,41.50147978
+els Torms,"Torms, els",els Torms,"Torms, els",252249,25224,Garrigues,18,GAR,Lleida,25,309365.99,4585024.14,0.719724851,41.39416901
+l'Albagés,"Albagés, l'",l'Albagés,"Albagés, l'",250061,25006,Garrigues,18,GAR,Lleida,25,311138.8138,4591082.303,0.739023176,41.44911403
+l'Albi,"Albi, l'",l'Albi,"Albi, l'",250096,25009,Garrigues,18,GAR,Lleida,25,327572.41,4587758.93,0.936579849,41.42289588
+l'Espluga Calba,"Espluga Calba, l'",l'Espluga Calba,"Espluga Calba, l'",250812,25081,Garrigues,18,GAR,Lleida,25,333362.18,4595634.44,1.003650523,41.4950131
+la Floresta,"Floresta, la",la Floresta,"Floresta, la",250925,25092,Garrigues,18,GAR,Lleida,25,326386.17,4597506.59,0.91958904,41.51038466
+la Granadella,"Granadella, la",la Granadella,"Granadella, la",251018,25101,Garrigues,18,GAR,Lleida,25,304661.75,4580855.27,0.664842266,41.35552
+la Pobla de Cérvoles,"Pobla de Cérvoles, la",la Pobla de Cérvoles,"Pobla de Cérvoles, la",251692,25169,Garrigues,18,GAR,Lleida,25,325665.228,4581673.848,0.915522735,41.36770865
+les Borges Blanques,"Borges Blanques, les",les Borges Blanques,"Borges Blanques, les",250582,25058,Garrigues,18,GAR,Lleida,25,322086.89,4598818.6,0.867716983,41.52125107
+Argelaguer,Argelaguer,Argelaguer,Argelaguer,170101,17010,Garrotxa,19,GAX,Girona,17,470416.08,4673507.72,2.641583767,42.21317776
+Besalú,Besalú,Besalú,Besalú,170195,17019,Garrotxa,19,GAX,Girona,17,475191.94,4671903.04,2.699512098,42.19889185
+Beuda,Beuda,Beuda,Beuda,170216,17021,Garrotxa,19,GAX,Girona,17,476032.2898,4676137.371,2.70951599,42.23705333
+Castellfollit de la Roca,Castellfollit de la Roca,Castellfollit de la Roca,Castellfollit de la Roca,170464,17046,Garrotxa,19,GAX,Girona,17,462866.49,4674219.73,2.550075627,42.21926792
+Maià de Montcal,Maià de Montcal,Maià de Montcal,Maià de Montcal,170985,17098,Garrotxa,19,GAX,Girona,17,478718.2499,4674493.158,2.742129247,42.22232301
+Mieres,Mieres,Mieres,Mieres,171058,17105,Garrotxa,19,GAX,Girona,17,470088.19,4663502.52,2.638125319,42.12305622
+Montagut i Oix,Montagut i Oix,Montagut,Montagut,171096,17109,Garrotxa,19,GAX,Girona,17,466689.57,4675540.76,2.596320619,42.23133756
+Olot,Olot,Olot,Olot,171143,17114,Garrotxa,19,GAX,Girona,17,457862.51,4670173.9,2.489740859,42.18257737
+Riudaura,Riudaura,Riudaura,Riudaura,171498,17149,Garrotxa,19,GAX,Girona,17,451018.09,4670883.79,2.406803371,42.18857199
+Sales de Llierca,Sales de Llierca,Sales de Llierca,Sales de Llierca,171544,17154,Garrotxa,19,GAX,Girona,17,471106.0735,4675996.901,2.649819185,42.2356215
+la Vall d'en Bas,"Vall d'en Bas, la",Sant Esteve d'en Bas,Sant Esteve d'en Bas,172076,17207,Garrotxa,19,GAX,Girona,17,455283.85,4663047.72,2.459062907,42.11825566
+Sant Aniol de Finestres,Sant Aniol de Finestres,Sant Esteve de Llémena,Sant Esteve de Llémena,171833,17183,Garrotxa,19,GAX,Girona,17,468129.87,4656898.49,2.614794031,42.06350107
+Sant Feliu de Pallerols,Sant Feliu de Pallerols,Sant Feliu de Pallerols,Sant Feliu de Pallerols,171616,17161,Garrotxa,19,GAX,Girona,17,459221.21,4658285.31,2.507024176,42.07557918
+Sant Ferriol,Sant Ferriol,Sant Ferriol,Sant Ferriol,171621,17162,Garrotxa,19,GAX,Girona,17,472633,4671793,2.668522568,42.19781544
+Sant Jaume de Llierca,Sant Jaume de Llierca,Sant Jaume de Llierca,Sant Jaume de Llierca,171655,17165,Garrotxa,19,GAX,Girona,17,467692.1354,4673484.785,2.60858452,42.21286335
+Sant Joan les Fonts,Sant Joan les Fonts,Sant Joan les Fonts,Sant Joan les Fonts,171851,17185,Garrotxa,19,GAX,Girona,17,459701.6,4673501.74,2.511779666,42.21264488
+Santa Pau,Santa Pau,Santa Pau,Santa Pau,171848,17184,Garrotxa,19,GAX,Girona,17,464581.68,4665883.39,2.57136437,42.1442694
+Tortellà,Tortellà,Tortellà,Tortellà,172001,17200,Garrotxa,19,GAX,Girona,17,469469.49,4675699.61,2.630000591,42.2328818
+la Vall de Bianya,"Vall de Bianya, la",l'Hostalnou de Bianya,"Hostalnou de Bianya, l'",172082,17208,Garrotxa,19,GAX,Girona,17,454899.34,4673345.27,2.453614237,42.21097336
+les Planes d'Hostoles,"Planes d'Hostoles, les",les Planes d'Hostoles,"Planes d'Hostoles, les",171334,17133,Garrotxa,19,GAX,Girona,17,461703.34,4656045.83,2.537176248,42.05553479
+les Preses,"Preses, les",les Preses,"Preses, les",171390,17139,Garrotxa,19,GAX,Girona,17,455474.52,4665592.29,2.461175183,42.14118307
+Aiguaviva,Aiguaviva,Aiguaviva,Aiguaviva,170025,17002,Gironès,20,GIR,Girona,17,480250.4121,4642955.219,2.761759172,41.93831798
+Bescanó,Bescanó,Bescanó,Bescanó,170209,17020,Gironès,20,GIR,Girona,17,478635.5409,4645989.041,2.742168943,41.96560048
+Bordils,Bordils,Bordils,Bordils,170255,17025,Gironès,20,GIR,Girona,17,492815.3268,4654320.728,2.913191442,42.04089786
+Campllong,Campllong,Campllong,Campllong,170388,17038,Gironès,20,GIR,Girona,17,485903.26,4637661.07,2.830076097,41.89075607
+Canet d'Adri,Canet d'Adri,Canet d'Adri,Canet d'Adri,170405,17040,Gironès,20,GIR,Girona,17,478232.45,4653520.76,2.737025253,42.03342444
+Cassà de la Selva,Cassà de la Selva,Cassà de la Selva,Cassà de la Selva,170448,17044,Gironès,20,GIR,Girona,17,489566.4625,4637280.178,2.874239415,41.88738229
+Celrà,Celrà,Celrà,Celrà,170499,17049,Gironès,20,GIR,Girona,17,489978.5777,4652524.712,2.878947284,42.02469083
+Cervià de Ter,Cervià de Ter,Cervià de Ter,Cervià de Ter,170502,17050,Gironès,20,GIR,Girona,17,492525.3824,4657298.248,2.909650204,42.0677124
+Flaçà,Flaçà,Flaçà,Flaçà,170675,17067,Gironès,20,GIR,Girona,17,496502.32,4655003.67,2.957735312,42.04707389
+Fornells de la Selva,Fornells de la Selva,Fornells de la Selva,Fornells de la Selva,170736,17073,Gironès,20,GIR,Girona,17,484433.16,4642123.48,2.812237664,41.93092034
+Girona,Girona,Girona,Girona,170792,17079,Gironès,20,GIR,Girona,17,485475.46,4647924.8,2.824666339,41.98319092
+Juià,Juià,Juià,Juià,170871,17087,Gironès,20,GIR,Girona,17,492283.3739,4651680.954,2.906798884,42.0171174
+Llagostera,Llagostera,Llagostera,Llagostera,170890,17089,Gironès,20,GIR,Girona,17,491033.1978,4630786.5,2.892017103,41.82891254
+Llambilles,Llambilles,Llambilles,Llambilles,170904,17090,Gironès,20,GIR,Girona,17,488350.6427,4641026.028,2.859510637,41.9211034
+Madremanya,Madremanya,Madremanya,Madremanya,170979,17097,Gironès,20,GIR,Girona,17,496458.1825,4648675.081,2.957240173,41.99007439
+Quart,Quart,Quart,Quart,171426,17142,Gironès,20,GIR,Girona,17,486726.08,4643103.93,2.839871945,41.93979289
+Salt,Salt,Salt,Salt,171557,17155,Gironès,20,GIR,Girona,17,482856.4,4646963.77,2.793078442,41.97448263
+Sant Andreu Salou,Sant Andreu Salou,Sant Andreu Salou,Sant Andreu Salou,171576,17157,Gironès,20,GIR,Girona,17,485511.6824,4635749.887,2.825402859,41.87353532
+Sant Gregori,Sant Gregori,Sant Gregori,Sant Gregori,171637,17163,Gironès,20,GIR,Girona,17,480135.12,4648771.48,2.76017203,41.99070008
+Sant Joan de Mollet,Sant Joan de Mollet,Sant Joan de Mollet,Sant Joan de Mollet,171680,17168,Gironès,20,GIR,Girona,17,495259.5072,4654848.479,2.942718878,42.04566963
+Sant Jordi Desvalls,Sant Jordi Desvalls,Sant Jordi Desvalls,Sant Jordi Desvalls,171668,17166,Gironès,20,GIR,Girona,17,496180.8458,4657778.506,2.953832637,42.07206415
+Sant Julià de Ramis,Sant Julià de Ramis,Sant Julià de Ramis,Sant Julià de Ramis,171693,17169,Gironès,20,GIR,Girona,17,486722.049,4653623.714,2.839585635,42.03454086
+Sant Martí Vell,Sant Martí Vell,Sant Martí Vell,Sant Martí Vell,171735,17173,Gironès,20,GIR,Girona,17,494294.6277,4651974.462,2.931087857,42.01977807
+Sant Martí de Llémena,Sant Martí de Llémena,Sant Martí de Llémena,Sant Martí de Llémena,171729,17172,Gironès,20,GIR,Girona,17,470826.1208,4653877.323,2.647532744,42.03639593
+Sarrià de Ter,Sarrià de Ter,Sarrià de Ter,Sarrià de Ter,171864,17186,Gironès,20,GIR,Girona,17,485547.38,4651842.3,2.825438112,42.01847569
+Vilablareix,Vilablareix,Vilablareix,Vilablareix,172155,17215,Gironès,20,GIR,Girona,17,482927.47,4644535.24,2.79400671,41.95261121
+Viladasens,Viladasens,Viladasens,Viladasens,172168,17216,Gironès,20,GIR,Girona,17,494225.5762,4660406.667,2.930170671,42.09572281
+Alella,Alella,Alella,Alella,080039,08003,Maresme,21,MAR,Barcelona,08,441149.2947,4593808.278,2.294956934,41.49373217
+Arenys de Mar,Arenys de Mar,Arenys de Mar,Arenys de Mar,080060,08006,Maresme,21,MAR,Barcelona,08,462612.447,4603174.703,2.551497556,41.57938543
+Arenys de Munt,Arenys de Munt,Arenys de Munt,Arenys de Munt,080076,08007,Maresme,21,MAR,Barcelona,08,461703.27,4606466.69,2.54038107,41.60899336
+Argentona,Argentona,Argentona,Argentona,080095,08009,Maresme,21,MAR,Barcelona,08,450019.78,4600513.43,2.400663981,41.55472727
+Cabrera de Mar,Cabrera de Mar,Cabrera de Mar,Cabrera de Mar,080291,08029,Maresme,21,MAR,Barcelona,08,449382.9796,4597317.394,2.393297337,41.52590089
+Cabrils,Cabrils,Cabrils,Cabrils,080305,08030,Maresme,21,MAR,Barcelona,08,447309.76,4597298.86,2.368450483,41.52560018
+Caldes d'Estrac,Caldes d'Estrac,Caldes d'Estrac,Caldes d'Estrac,080327,08032,Maresme,21,MAR,Barcelona,08,460633.7549,4602420.626,2.527811321,41.5724984
+Calella,Calella,Calella,Calella,080351,08035,Maresme,21,MAR,Barcelona,08,471440.9,4606908.36,2.657224007,41.61337935
+Canet de Mar,Canet de Mar,Canet de Mar,Canet de Mar,080403,08040,Maresme,21,MAR,Barcelona,08,465218.62,4604265.14,2.582697241,41.58932479
+Dosrius,Dosrius,Dosrius,Dosrius,080752,08075,Maresme,21,MAR,Barcelona,08,450558.0278,4604907.962,2.406755957,41.59434164
+Malgrat de Mar,Malgrat de Mar,Malgrat de Mar,Malgrat de Mar,081108,08110,Maresme,21,MAR,Barcelona,08,478504.12,4610523.42,2.741868343,41.64616228
+Mataró,Mataró,Mataró,Mataró,081213,08121,Maresme,21,MAR,Barcelona,08,453812.16,4598944.69,2.446258624,41.54082572
+Montgat,Montgat,Montgat,Montgat,081265,08126,Maresme,21,MAR,Barcelona,08,439797.1181,4590807.41,2.279058431,41.46660361
+Palafolls,Palafolls,Palafolls,Palafolls,081555,08155,Maresme,21,MAR,Barcelona,08,479136.25,4612830.93,2.749378597,41.66696309
+Pineda de Mar,Pineda de Mar,Pineda de Mar,Pineda de Mar,081635,08163,Maresme,21,MAR,Barcelona,08,474122.2056,4608459.515,2.68933842,41.62744225
+Premià de Dalt,Premià de Dalt,Premià de Dalt,Premià de Dalt,082303,08230,Maresme,21,MAR,Barcelona,08,445085.63,4595280.75,2.34197767,41.50727392
+Premià de Mar,Premià de Mar,Premià de Mar,Premià de Mar,081727,08172,Maresme,21,MAR,Barcelona,08,446419.46,4593618.42,2.358107443,41.49239183
+Sant Andreu de Llavaneres,Sant Andreu de Llavaneres,Sant Andreu de Llavaneres,Sant Andreu de Llavaneres,081976,08197,Maresme,21,MAR,Barcelona,08,456921.428,4602655.396,2.483267663,41.5744215
+Sant Cebrià de Vallalta,Sant Cebrià de Vallalta,Sant Cebrià de Vallalta,Sant Cebrià de Vallalta,082037,08203,Maresme,21,MAR,Barcelona,08,466648.0835,4607636.722,2.599659686,41.61975383
+Sant Iscle de Vallalta,Sant Iscle de Vallalta,Sant Iscle de Vallalta,Sant Iscle de Vallalta,081939,08193,Maresme,21,MAR,Barcelona,08,464073.34,4608167.64,2.568722657,41.62442404
+Sant Pol de Mar,Sant Pol de Mar,Sant Pol de Mar,Sant Pol de Mar,082359,08235,Maresme,21,MAR,Barcelona,08,468451.615,4605458.73,2.62142265,41.60020983
+Sant Vicenç de Montalt,Sant Vicenç de Montalt,Sant Vicenç de Montalt,Sant Vicenç de Montalt,082649,08264,Maresme,21,MAR,Barcelona,08,459096.7679,4603077.075,2.509331421,41.57833386
+Santa Susanna,Santa Susanna,Santa Susanna,Santa Susanna,082613,08261,Maresme,21,MAR,Barcelona,08,475642.194,4609340.036,2.707549722,41.63542109
+Teià,Teià,Teià,Teià,082819,08281,Maresme,21,MAR,Barcelona,08,443205.03,4594447.1,2.319523126,41.49963426
+Tiana,Tiana,Tiana,Tiana,082824,08282,Maresme,21,MAR,Barcelona,08,438963.39,4592511.67,2.268902679,41.48189047
+Tordera,Tordera,Tordera,Tordera,082845,08284,Maresme,21,MAR,Barcelona,08,476556.7478,4616684.707,2.718241819,41.70160253
+Vilassar de Dalt,Vilassar de Dalt,Vilassar de Dalt,Vilassar de Dalt,082140,08214,Maresme,21,MAR,Barcelona,08,446464.81,4596373.02,2.358405823,41.51720521
+Vilassar de Mar,Vilassar de Mar,Vilassar de Mar,Vilassar de Mar,082191,08219,Maresme,21,MAR,Barcelona,08,449306.39,4594696.85,2.392600072,41.502293
+el Masnou,"Masnou, el",el Masnou,"Masnou, el",081189,08118,Maresme,21,MAR,Barcelona,08,442921.8159,4592183.565,2.316344462,41.47922686
+Òrrius,Òrrius,Òrrius,Òrrius,081537,08153,Maresme,21,MAR,Barcelona,08,446191.9336,4600582.934,2.35475897,41.55510488
+Alcanar,Alcanar,Alcanar,Alcanar,430043,43004,Montsià,22,MON,Tarragona,43,286662.3252,4491104.553,0.480770667,40.5432439
+Amposta,Amposta,Amposta,Amposta,430141,43014,Montsià,22,MON,Tarragona,43,295677.18,4509745.88,0.58108201,40.71330218
+Freginals,Freginals,Freginals,Freginals,430629,43062,Montsià,22,MON,Tarragona,43,290389.912,4505274.081,0.520036336,40.67172662
+Godall,Godall,Godall,Godall,430688,43068,Montsià,22,MON,Tarragona,43,286084.65,4503546.09,0.469734342,40.65506982
+Mas de Barberans,Mas de Barberans,Mas de Barberans,Mas de Barberans,430770,43077,Montsià,22,MON,Tarragona,43,278247.279,4512623.141,0.373914393,40.73468861
+Masdenverge,Masdenverge,Masdenverge,Masdenverge,430786,43078,Montsià,22,MON,Tarragona,43,291457.2262,4510141.421,0.531035324,40.71580481
+Sant Jaume d'Enveja,Sant Jaume d'Enveja,Sant Jaume d'Enveja,Sant Jaume d'Enveja,439023,43902,Montsià,22,MON,Tarragona,43,307349.5888,4508738.991,0.719470283,40.70705096
+Santa Bàrbara,Santa Bàrbara,Santa Bàrbara,Santa Bàrbara,431384,43138,Montsià,22,MON,Tarragona,43,288190.58,4510091.32,0.492412991,40.7145205
+Ulldecona,Ulldecona,Ulldecona,Ulldecona,431567,43156,Montsià,22,MON,Tarragona,43,284137.9678,4497287.78,0.448875456,40.59823916
+la Galera,"Galera, la",la Galera,"Galera, la",430635,43063,Montsià,22,MON,Tarragona,43,285631.9938,4506511.294,0.463373507,40.68163899
+la Ràpita,"Ràpita, la",la Ràpita,"Ràpita, la",431362,43136,Montsià,22,MON,Tarragona,43,296384.9413,4499366.232,0.592817384,40.62005244
+la Sénia,"Sénia, la",la Sénia,"Sénia, la",430445,43044,Montsià,22,MON,Tarragona,43,270482.07,4501568.12,0.286093403,40.63308091
+Albesa,Albesa,Albesa,Albesa,250083,25008,Noguera,23,NOG,Lleida,25,305481.87,4624816.46,0.660407593,41.75136442
+Algerri,Algerri,Algerri,Algerri,250156,25015,Noguera,23,NOG,Lleida,25,303860.9307,4632052.256,0.638537956,41.81608336
+Alòs de Balaguer,Alòs de Balaguer,Alòs de Balaguer,Alòs de Balaguer,250220,25022,Noguera,23,NOG,Lleida,25,330907.0654,4642044.593,0.961095041,41.91225793
+Artesa de Segre,Artesa de Segre,Artesa de Segre,Artesa de Segre,250349,25034,Noguera,23,NOG,Lleida,25,337851.2,4640042.52,1.045328591,41.8956921
+Balaguer,Balaguer,Balaguer,Balaguer,250404,25040,Noguera,23,NOG,Lleida,25,317637.75,4628759.6,0.805297348,41.78973778
+Bellcaire d'Urgell,Bellcaire d'Urgell,Bellcaire d'Urgell,Bellcaire d'Urgell,250479,25047,Noguera,23,NOG,Lleida,25,325942.33,4625178.68,0.906224822,41.75937145
+Bellmunt d'Urgell,Bellmunt d'Urgell,Bellmunt d'Urgell,Bellmunt d'Urgell,250498,25049,Noguera,23,NOG,Lleida,25,329795.4379,4626747.355,0.952096614,41.77432666
+Cabanabona,Cabanabona,Cabanabona,Cabanabona,250609,25060,Noguera,23,NOG,Lleida,25,351945.23,4634841.27,1.216448648,41.85163381
+Camarasa,Camarasa,Camarasa,Camarasa,250621,25062,Noguera,23,NOG,Lleida,25,323903.61,4638089.7,0.877882111,41.87513124
+Castelló de Farfanya,Castelló de Farfanya,Castelló de Farfanya,Castelló de Farfanya,250693,25069,Noguera,23,NOG,Lleida,25,311267.18,4632328.805,0.727550228,41.82037035
+Cubells,Cubells,Cubells,Cubells,250791,25079,Noguera,23,NOG,Lleida,25,330564.697,4635312.811,0.958899414,41.85159098
+Foradada,Foradada,Foradada,Foradada,250946,25094,Noguera,23,NOG,Lleida,25,335074.63,4638004.8,1.012445694,41.87677525
+la Baronia de Rialb,"Baronia de Rialb, la",Gualter,Gualter,250426,25042,Noguera,23,NOG,Lleida,25,350454.3642,4643842.384,1.196218307,41.93238493
+Ivars de Noguera,Ivars de Noguera,Ivars de Noguera,Ivars de Noguera,251121,25112,Noguera,23,NOG,Lleida,25,299593.385,4635959.71,0.585879641,41.85017882
+Menàrguens,Menàrguens,Menàrguens,Menàrguens,251348,25134,Noguera,23,NOG,Lleida,25,312332.0377,4622214.854,0.743556424,41.72959752
+Montgai,Montgai,Montgai,Montgai,251386,25138,Noguera,23,NOG,Lleida,25,330603.35,4629564.83,0.961007723,41.7998604
+Oliola,Oliola,Oliola,Oliola,251500,25150,Noguera,23,NOG,Lleida,25,348454.0221,4637583.317,1.173709403,41.87565787
+Os de Balaguer,Os de Balaguer,Os de Balaguer,Os de Balaguer,251569,25156,Noguera,23,NOG,Lleida,25,310675.5035,4638005.717,0.718616267,41.87132008
+Penelles,Penelles,Penelles,Penelles,251641,25164,Noguera,23,NOG,Lleida,25,330871.84,4624863.82,0.965575901,41.75760239
+Ponts,Ponts,Ponts,Ponts,251728,25172,Noguera,23,NOG,Lleida,25,349584.27,4642005.05,1.18619719,41.91567944
+Preixens,Preixens,Preixens,Preixens,251771,25177,Noguera,23,NOG,Lleida,25,338036.27,4628747.1,1.050648317,41.79405228
+Tiurana,Tiurana,Tiurana,Tiurana,252228,25222,Noguera,23,NOG,Lleida,25,355474.3883,4648563.862,1.255582012,41.97582543
+Torrelameu,Torrelameu,Torrelameu,Torrelameu,252311,25231,Noguera,23,NOG,Lleida,25,308808.64,4619540.64,0.702082985,41.70469051
+Térmens,Térmens,Térmens,Térmens,252206,25220,Noguera,23,NOG,Lleida,25,313711.53,4620830.76,0.760563433,41.71746482
+Vallfogona de Balaguer,Vallfogona de Balaguer,Vallfogona de Balaguer,Vallfogona de Balaguer,252402,25240,Noguera,23,NOG,Lleida,25,318234.36,4624603.66,0.813743489,41.75246935
+Vilanova de Meià,Vilanova de Meià,Vilanova de Meià,Vilanova de Meià,252509,25250,Noguera,23,NOG,Lleida,25,336227.08,4651141.63,1.022675463,41.99526464
+Vilanova de l'Aguda,Vilanova de l'Aguda,Vilanova de l'Aguda,Vilanova de l'Aguda,252496,25249,Noguera,23,NOG,Lleida,25,355083.0945,4641475.35,1.252605077,41.91193886
+la Sentiu de Sió,"Sentiu de Sió, la",la Sentiu de Sió,"Sentiu de Sió, la",250352,25035,Noguera,23,NOG,Lleida,25,323758.3906,4630279.866,0.878457386,41.80480472
+les Avellanes i Santa Linya,"Avellanes i Santa Linya, les",les Avellanes,"Avellanes, les",250371,25037,Noguera,23,NOG,Lleida,25,314547.88,4641967.93,0.764000415,41.90789713
+Àger,Àger,Àger,Àger,250024,25002,Noguera,23,NOG,Lleida,25,314786.9291,4652147.185,0.763678739,41.99956524
+Aiguafreda,Aiguafreda,Aiguafreda,Aiguafreda,080142,08014,Osona,24,OSO,Barcelona,08,437706.73,4624287.91,2.250544628,41.76798618
+Calldetenes,Calldetenes,Calldetenes,Calldetenes,080370,08037,Osona,24,OSO,Barcelona,08,440677.35,4641662.14,2.284540336,41.92468966
+Orís,Orís,Can Branques,Can Branques,081509,08150,Osona,24,OSO,Barcelona,08,437055.13,4656507.34,2.239267902,42.05810337
+Centelles,Centelles,Centelles,Centelles,080673,08067,Osona,24,OSO,Barcelona,08,435120.45,4627588.99,2.219070942,41.79750909
+Espinelves,Espinelves,Espinelves,Espinelves,170638,17063,Osona,24,OSO,Girona,17,451640.4061,4635393.59,2.417266174,41.86898053
+Folgueroles,Folgueroles,Folgueroles,Folgueroles,080832,08083,Osona,24,OSO,Barcelona,08,443541.92,4643192.92,2.318939366,41.93868614
+Gurb,Gurb,Gurb,Gurb,081000,08100,Osona,24,OSO,Barcelona,08,437364.2297,4643396,2.2444015,41.94004888
+Malla,Malla,Malla,Malla,081115,08111,Osona,24,OSO,Barcelona,08,436503.2199,4637520.545,2.234648149,41.88706572
+Manlleu,Manlleu,Manlleu,Manlleu,081120,08112,Osona,24,OSO,Barcelona,08,440699.95,4650139.14,2.283958583,42.00103541
+Montesquiu,Montesquiu,Montesquiu,Montesquiu,081311,08131,Osona,24,OSO,Barcelona,08,434665.84,4662290.75,2.209748189,42.10999187
+Muntanyola,Muntanyola,Muntanyola,Muntanyola,081290,08129,Osona,24,OSO,Barcelona,08,431779.9045,4636589.618,2.177829111,41.87828835
+Roda de Ter,Roda de Ter,Roda de Ter,Roda de Ter,081831,08183,Osona,24,OSO,Barcelona,08,442789.6,4647898.28,2.309407251,41.98100878
+Rupit i Pruit,Rupit i Pruit,Rupit,Rupit,089019,08901,Osona,24,OSO,Barcelona,08,455690.7559,4652530.565,2.464781417,42.02355956
+Sant Agustí de Lluçanès,Sant Agustí de Lluçanès,Sant Agustí de Lluçanès,Sant Agustí de Lluçanès,081957,08195,Osona,24,OSO,Barcelona,08,427828.3994,4659582.537,2.127388953,42.08500383
+Sant Bartomeu del Grau,Sant Bartomeu del Grau,Sant Bartomeu del Grau,Sant Bartomeu del Grau,081995,08199,Osona,24,OSO,Barcelona,08,431643.17,4648001.04,2.174857958,41.98104603
+Sant Boi de Lluçanès,Sant Boi de Lluçanès,Sant Boi de Lluçanès,Sant Boi de Lluçanès,082016,08201,Osona,24,OSO,Barcelona,08,429822.22,4656466.88,2.151866839,42.05712634
+Sant Hipòlit de Voltregà,Sant Hipòlit de Voltregà,Sant Hipòlit de Voltregà,Sant Hipòlit de Voltregà,082153,08215,Osona,24,OSO,Barcelona,08,436777.29,4651760.57,2.23642223,42.01533257
+Sant Julià de Vilatorta,Sant Julià de Vilatorta,Sant Julià de Vilatorta,Sant Julià de Vilatorta,082205,08220,Osona,24,OSO,Barcelona,08,444037.89,4641328.08,2.325098974,41.92192644
+Sant Martí de Centelles,Sant Martí de Centelles,Sant Martí de Centelles,Sant Martí de Centelles,082248,08224,Osona,24,OSO,Barcelona,08,433884,4624060,2.204582558,41.76562438
+Sant Pere de Torelló,Sant Pere de Torelló,Sant Pere de Torelló,Sant Pere de Torelló,082331,08233,Osona,24,OSO,Barcelona,08,441830.2262,4658344.282,2.296791299,42.07501465
+Sant Quirze de Besora,Sant Quirze de Besora,Sant Quirze de Besora,Sant Quirze de Besora,082378,08237,Osona,24,OSO,Barcelona,08,435737.5805,4661189.114,2.222831485,42.10015944
+Sant Sadurní d'Osormort,Sant Sadurní d'Osormort,Sant Sadurní d'Osormort,Sant Sadurní d'Osormort,082418,08241,Osona,24,OSO,Barcelona,08,448697.4126,4639071.304,2.381485599,41.9019178
+Sant Vicenç de Torelló,Sant Vicenç de Torelló,Sant Vicenç de Torelló,Sant Vicenç de Torelló,082652,08265,Osona,24,OSO,Barcelona,08,439913.44,4656852.46,2.273774384,42.06143523
+Santa Cecília de Voltregà,Santa Cecília de Voltregà,Santa Cecília de Voltregà,Santa Cecília de Voltregà,082439,08243,Osona,24,OSO,Barcelona,08,435584.5152,4649307.316,2.222286785,41.99314225
+Santa Eugènia de Berga,Santa Eugènia de Berga,Santa Eugènia de Berga,Santa Eugènia de Berga,082460,08246,Osona,24,OSO,Barcelona,08,440540.29,4638942.76,2.283161543,41.90018835
+Santa Eulàlia de Riuprimer,Santa Eulàlia de Riuprimer,Santa Eulàlia de Riuprimer,Santa Eulàlia de Riuprimer,082476,08247,Osona,24,OSO,Barcelona,08,432668.2178,4640214.636,2.188120418,41.91101114
+Santa Maria de Besora,Santa Maria de Besora,Santa Maria de Besora,Santa Maria de Besora,082536,08253,Osona,24,OSO,Barcelona,08,438663.9833,4664122.563,2.257911373,42.12681151
+Seva,Seva,Seva,Seva,082690,08269,Osona,24,OSO,Barcelona,08,440206.346,4632135.266,2.279824361,41.83885377
+Sora,Sora,Sora,Sora,082726,08272,Osona,24,OSO,Barcelona,08,430603.262,4662610.703,2.160576058,42.1125243
+Taradell,Taradell,Taradell,Taradell,082785,08278,Osona,24,OSO,Barcelona,08,440881.95,4636047.56,2.287570008,41.87413939
+Tavertet,Tavertet,Tavertet,Tavertet,082802,08280,Osona,24,OSO,Barcelona,08,451901.95,4649465.195,2.419269161,41.99572974
+Tavèrnoles,Tavèrnoles,Tavèrnoles,Tavèrnoles,082750,08275,Osona,24,OSO,Barcelona,08,444179.7373,4644674.133,2.326492526,41.95207151
+Tona,Tona,Tona,Tona,082830,08283,Osona,24,OSO,Barcelona,08,435961.54,4633444.41,2.228561133,41.85031212
+Torelló,Torelló,Torelló,Torelló,082858,08285,Osona,24,OSO,Barcelona,08,438991.8178,4655227.023,2.262805553,42.04672579
+Vic,Vic,Vic,Vic,082981,08298,Osona,24,OSO,Barcelona,08,438178.86,4642327.53,2.254339978,41.93049048
+Vidrà,Vidrà,Vidrà,Vidrà,172121,17212,Osona,24,OSO,Girona,17,442955.8628,4663604.686,2.30988455,42.12247168
+Viladrau,Viladrau,Viladrau,Viladrau,172207,17220,Osona,24,OSO,Girona,17,449359.26,4633026.22,2.389982465,41.84751635
+Vilanova de Sau,Vilanova de Sau,Vilanova de Sau,Vilanova de Sau,083036,08303,Osona,24,OSO,Barcelona,08,449188.7376,4644226.79,2.386964443,41.94838126
+el Brull,"Brull, el",el Brull,"Brull, el",080266,08026,Osona,24,OSO,Barcelona,08,442297.4415,4629677.849,2.305247767,41.81687675
+Balenyà,Balenyà,els Hostalets de Balenyà,"Hostalets de Balenyà, els",080174,08017,Osona,24,OSO,Barcelona,08,436527.85,4629372.97,2.235818873,41.81368983
+l'Esquirol,"Esquirol, l'",l'Esquirol,"Esquirol, l'",082541,08254,Osona,24,OSO,Barcelona,08,447861.14,4653835.06,2.370095341,42.03482801
+les Masies de Roda,"Masies de Roda, les",les Masies de Roda,"Masies de Roda, les",081167,08116,Osona,24,OSO,Barcelona,08,443476.06,4648867.82,2.317599769,41.98979005
+les Masies de Voltregà,"Masies de Voltregà, les",les Masies de Voltregà,"Masies de Voltregà, les",081173,08117,Osona,24,OSO,Barcelona,08,437926.9447,4651464.657,2.250337422,42.01275913
+Abella de la Conca,Abella de la Conca,Abella de la Conca,Abella de la Conca,250019,25001,Pallars Jussà,25,PJU,Lleida,25,342420.0463,4669462.234,1.09247165,42.16144193
+Gavet de la Conca,Gavet de la Conca,Gavet de la Conca,Gavet de la Conca,250984,25098,Pallars Jussà,25,PJU,Lleida,25,328102.4801,4665566.505,0.920409639,42.12336667
+Castell de Mur,Castell de Mur,Guàrdia de Noguera,Guàrdia de Noguera,259046,25904,Pallars Jussà,25,PJU,Lleida,25,324448.4756,4662158.987,0.877256985,42.09188848
+Isona i Conca Dellà,Isona i Conca Dellà,Isona,Isona,251155,25115,Pallars Jussà,25,PJU,Lleida,25,338270.92,4664610.7,1.04361906,42.11692648
+Llimiana,Llimiana,Llimiana,Llimiana,251288,25128,Pallars Jussà,25,PJU,Lleida,25,327619.59,4660200.79,0.916153921,42.07496634
+Salàs de Pallars,Salàs de Pallars,Salàs de Pallars,Salàs de Pallars,251902,25190,Pallars Jussà,25,PJU,Lleida,25,329258.23,4675470.46,0.931479588,42.21276002
+Sant Esteve de la Sarga,Sant Esteve de la Sarga,Sant Esteve de la Sarga,Sant Esteve de la Sarga,251961,25196,Pallars Jussà,25,PJU,Lleida,25,315020.3655,4661037.944,0.763690094,42.07963463
+Sarroca de Bellera,Sarroca de Bellera,Sarroca de Bellera,Sarroca de Bellera,252017,25201,Pallars Jussà,25,PJU,Lleida,25,325520.04,4691890.96,0.881272863,42.35972014
+Senterada,Senterada,Senterada,Senterada,252022,25202,Pallars Jussà,25,PJU,Lleida,25,330052.8956,4687915.039,0.937451098,42.32493947
+Talarn,Talarn,Talarn,Talarn,252154,25215,Pallars Jussà,25,PJU,Lleida,25,326600.56,4672512.07,0.900185083,42.18554866
+Tremp,Tremp,Tremp,Tremp,252347,25234,Pallars Jussà,25,PJU,Lleida,25,326144.0657,4670508.014,0.895259127,42.16741026
+Conca de Dalt,Conca de Dalt,el Pont de Claverol,"Pont de Claverol, el",251615,25161,Pallars Jussà,25,PJU,Lleida,25,332647.737,4678944.169,0.971516787,42.24475867
+la Pobla de Segur,"Pobla de Segur, la",la Pobla de Segur,"Pobla de Segur, la",251713,25171,Pallars Jussà,25,PJU,Lleida,25,332441.59,4679512.41,0.96885546,42.24982897
+la Torre de Cabdella,"Torre de Cabdella, la",la Torre de Capdella,"Torre de Capdella, la",252271,25227,Pallars Jussà,25,PJU,Lleida,25,334023.1466,4698593.518,0.982531466,42.42190747
+Alins,Alins,Alins,Alins,250175,25017,Pallars Sobirà,26,PSO,Lleida,25,361859.0464,4712083.008,1.317472691,42.54879499
+Farrera,Farrera,Burg,Burg,250899,25089,Pallars Sobirà,26,PSO,Lleida,25,358151.7446,4707149.267,1.273561963,42.50371096
+Espot,Espot,Espot,Espot,250827,25082,Pallars Sobirà,26,PSO,Lleida,25,343164.64,4715481.98,1.088960845,42.57581977
+Esterri d'Àneu,Esterri d'Àneu,Esterri d'Àneu,Esterri d'Àneu,250864,25086,Pallars Sobirà,26,PSO,Lleida,25,346029.0429,4721286.477,1.122276439,42.62864203
+Esterri de Cardós,Esterri de Cardós,Esterri de Cardós,Esterri de Cardós,250870,25087,Pallars Sobirà,26,PSO,Lleida,25,357381.4784,4717047.285,1.2617201,42.59266795
+Baix Pallars,Baix Pallars,Gerri de la Sal,Gerri de la Sal,250390,25039,Pallars Sobirà,26,PSO,Lleida,25,340499.41,4687497.74,1.064277037,42.32339338
+Lladorre,Lladorre,Lladorre,Lladorre,251235,25123,Pallars Sobirà,26,PSO,Lleida,25,356444.4527,4720225.466,1.249503442,42.62110254
+Llavorsí,Llavorsí,Llavorsí,Llavorsí,251266,25126,Pallars Sobirà,26,PSO,Lleida,25,353006.2915,4706363.966,1.211167277,42.49568176
+Rialp,Rialp,Rialp,Rialp,251832,25183,Pallars Sobirà,26,PSO,Lleida,25,346602.0863,4700775.042,1.134765713,42.44413236
+Vall de Cardós,Vall de Cardós,Ribera de Cardós,Ribera de Cardós,259010,25901,Pallars Sobirà,26,PSO,Lleida,25,354295.5531,4713871.505,1.22493649,42.56350469
+Sort,Sort,Sort,Sort,252094,25209,Pallars Sobirà,26,PSO,Lleida,25,346114.77,4697119.83,1.129821869,42.41113456
+Tírvia,Tírvia,Tírvia,Tírvia,252213,25221,Pallars Sobirà,26,PSO,Lleida,25,355664.4681,4708464.533,1.242971327,42.51509054
+Alt Àneu,Alt Àneu,València d'Àneu,València d'Àneu,250241,25024,Pallars Sobirà,26,PSO,Lleida,25,345029.8738,4721810.897,1.109954836,42.63316189
+Soriguera,Soriguera,Vilamur,Vilamur,252081,25208,Pallars Sobirà,26,PSO,Lleida,25,348638.7122,4693569.961,1.161413322,42.37967701
+la Guingueta d'Àneu,"Guingueta d'Àneu, la",la Guingueta d'Àneu,"Guingueta d'Àneu, la",259031,25903,Pallars Sobirà,26,PSO,Lleida,25,346688.8917,4717528.08,1.131331231,42.59494465
+Barbens,Barbens,Barbens,Barbens,250411,25041,Pla d'Urgell,27,PUR,Lleida,25,335059.0357,4616035.738,1.018357494,41.67901523
+Bell-lloc d'Urgell,Bell-lloc d'Urgell,Bell-lloc d'Urgell,Bell-lloc d'Urgell,250485,25048,Pla d'Urgell,27,PUR,Lleida,25,315029.79,4611038.57,0.779431843,41.62963892
+Bellvís,Bellvís,Bellvís,Bellvís,250523,25052,Pla d'Urgell,27,PUR,Lleida,25,318317.79,4615641.93,0.817477768,41.6718278
+Castellnou de Seana,Castellnou de Seana,Castellnou de Seana,Castellnou de Seana,250680,25068,Pla d'Urgell,27,PUR,Lleida,25,331029.08,4612719.345,0.970907309,41.64831778
+Fondarella,Fondarella,Fondarella,Fondarella,250931,25093,Pla d'Urgell,27,PUR,Lleida,25,322960.93,4611399.065,0.874474119,41.6346832
+Golmés,Golmés,Golmés,Golmés,250997,25099,Pla d'Urgell,27,PUR,Lleida,25,327790.08,4611043.07,0.932518362,41.63253599
+Ivars d'Urgell,Ivars d'Urgell,Ivars d'Urgell,Ivars d'Urgell,251137,25113,Pla d'Urgell,27,PUR,Lleida,25,332348.84,4616531.67,0.985676464,41.68291349
+Linyola,Linyola,Linyola,Linyola,251229,25122,Pla d'Urgell,27,PUR,Lleida,25,325681.7901,4619779.882,0.904673448,41.71071948
+Miralcamp,Miralcamp,Miralcamp,Miralcamp,251351,25135,Pla d'Urgell,27,PUR,Lleida,25,323253.75,4608125.47,0.878953557,41.60528225
+Mollerussa,Mollerussa,Mollerussa,Mollerussa,251370,25137,Pla d'Urgell,27,PUR,Lleida,25,324548.9631,4610821.487,0.893696867,41.62983521
+Sidamon,Sidamon,Sidamon,Sidamon,252056,25205,Pla d'Urgell,27,PUR,Lleida,25,319408.35,4610888.33,0.832005153,41.6292898
+Torregrossa,Torregrossa,Torregrossa,Torregrossa,252304,25230,Pla d'Urgell,27,PUR,Lleida,25,319261.9199,4605535.023,0.831862911,41.58107247
+Vila-sana,Vila-sana,Vila-sana,Vila-sana,252521,25252,Pla d'Urgell,27,PUR,Lleida,25,327459.39,4614468.52,0.927562392,41.6632981
+Vilanova de Bellpuig,Vilanova de Bellpuig,Vilanova de Bellpuig,Vilanova de Bellpuig,252483,25248,Pla d'Urgell,27,PUR,Lleida,25,330096.3,4609013.35,0.96076488,41.61475992
+el Palau d'Anglesola,"Palau d'Anglesola, el",el Palau d'Anglesola,"Palau d'Anglesola, el",251581,25158,Pla d'Urgell,27,PUR,Lleida,25,323482.68,4613279.26,0.88017925,41.65172257
+el Poal,"Poal, el",el Poal,"Poal, el",251689,25168,Pla d'Urgell,27,PUR,Lleida,25,321604.46,4616263.94,0.856747415,41.67816923
+Banyoles,Banyoles,Banyoles,Banyoles,170157,17015,Pla de l'Estany,28,PES,Girona,17,480604.52,4662916.12,2.765370615,42.11810557
+Camós,Camós,Camós,Camós,170353,17035,Pla de l'Estany,28,PES,Girona,17,480748.4526,4660258.268,2.767199365,42.09417137
+Cornellà del Terri,Cornellà del Terri,Cornellà del Terri,Cornellà del Terri,170561,17056,Pla de l'Estany,28,PES,Girona,17,484784.78,4659788.16,2.816020886,42.09002599
+Crespià,Crespià,Crespià,Crespià,170583,17058,Pla de l'Estany,28,PES,Girona,17,483359.56,4670572.16,2.798479828,42.18712202
+Esponellà,Esponellà,Esponellà,Esponellà,170656,17065,Pla de l'Estany,28,PES,Girona,17,483076.08,4669663.71,2.795073253,42.17893414
+Fontcoberta,Fontcoberta,Fontcoberta,Fontcoberta,170715,17071,Pla de l'Estany,28,PES,Girona,17,482571.4952,4665670.028,2.789082911,42.14295455
+Porqueres,Porqueres,Mata,Mata,171371,17137,Pla de l'Estany,28,PES,Girona,17,482100.8656,4661704.911,2.783509078,42.10723249
+Palol de Revardit,Palol de Revardit,Palol de Revardit,Palol de Revardit,171236,17123,Pla de l'Estany,28,PES,Girona,17,483140.1834,4657555.482,2.796199255,42.06988381
+Sant Miquel de Campmajor,Sant Miquel de Campmajor,Sant Miquel de Campmajor,Sant Miquel de Campmajor,171740,17174,Pla de l'Estany,28,PES,Girona,17,473919.2887,4663815.519,2.684459438,42.126012
+Serinyà,Serinyà,Serinyà,Serinyà,171903,17190,Pla de l'Estany,28,PES,Girona,17,478887.32,4668578.99,2.744392576,42.16906301
+Vilademuls,Vilademuls,Vilademuls,Vilademuls,172180,17218,Pla de l'Estany,28,PES,Girona,17,490734.201,4665181.071,2.887874229,42.13868986
+Bellmunt del Priorat,Bellmunt del Priorat,Bellmunt del Priorat,Bellmunt del Priorat,430234,43023,Priorat,29,PRI,Tarragona,43,312643.64,4559506.02,0.766749088,41.16525256
+Cabacés,Cabacés,Cabacés,Cabacés,430350,43035,Priorat,29,PRI,Tarragona,43,310104.4288,4568703.223,0.733648623,41.24744466
+Capçanes,Capçanes,Capçanes,Capçanes,430402,43040,Priorat,29,PRI,Tarragona,43,313699.3585,4552214.224,0.781537268,41.09986046
+Cornudella de Montsant,Cornudella de Montsant,Cornudella de Montsant,Cornudella de Montsant,430496,43049,Priorat,29,PRI,Tarragona,43,324579.08,4570361.95,0.905807466,41.26564638
+Falset,Falset,Falset,Falset,430555,43055,Priorat,29,PRI,Tarragona,43,317067.7,4557252.79,0.820118387,41.14598035
+Gratallops,Gratallops,Gratallops,Gratallops,430691,43069,Priorat,29,PRI,Tarragona,43,313566.3951,4562601.997,0.776797598,41.19333264
+Margalef,Margalef,Margalef,Margalef,430751,43075,Priorat,29,PRI,Tarragona,43,311915.2806,4572764.063,0.75399189,41.28441912
+Marçà,Marçà,Marçà,Marçà,430764,43076,Priorat,29,PRI,Tarragona,43,315344.37,4555087.09,0.8002487,41.12609573
+Poboleda,Poboleda,Poboleda,Poboleda,431129,43112,Priorat,29,PRI,Tarragona,43,319386.7848,4566907.775,0.844885206,41.23340985
+Porrera,Porrera,Porrera,Porrera,431140,43114,Priorat,29,PRI,Tarragona,43,320200.5511,4561949.487,0.856046971,41.18895869
+Pradell de la Teixeta,Pradell de la Teixeta,Pradell de la Teixeta,Pradell de la Teixeta,431153,43115,Priorat,29,PRI,Tarragona,43,321778.2667,4558356.307,0.875892926,41.15696234
+Torroja del Priorat,Torroja del Priorat,Torroja del Priorat,Torroja del Priorat,431541,43154,Priorat,29,PRI,Tarragona,43,316460.7821,4564755.573,0.810642279,41.21337866
+Ulldemolins,Ulldemolins,Ulldemolins,Ulldemolins,431573,43157,Priorat,29,PRI,Tarragona,43,322269.8967,4576744.08,0.876395017,41.32259103
+el Lloar,"Lloar, el",el Lloar,"Lloar, el",430727,43072,Priorat,29,PRI,Tarragona,43,311374.1425,4561836.214,0.750910385,41.18593235
+el Masroig,"Masroig, el",el Masroig,"Masroig, el",430825,43082,Priorat,29,PRI,Tarragona,43,309571.96,4555284.96,0.731472983,41.12654356
+el Molar,"Molar, el",el Molar,"Molar, el",430859,43085,Priorat,29,PRI,Tarragona,43,307533.4013,4559603.175,0.70585164,41.16493022
+els Guiamets,"Guiamets, els",els Guiamets,"Guiamets, els",430705,43070,Priorat,29,PRI,Tarragona,43,311225.1779,4552513.933,0.752004305,41.10198728
+la Bisbal de Montsant,"Bisbal de Montsant, la",la Bisbal de Montsant,"Bisbal de Montsant, la",430271,43027,Priorat,29,PRI,Tarragona,43,309338.005,4572370.259,0.72336181,41.28027021
+la Figuera,"Figuera, la",la Figuera,"Figuera, la",430580,43058,Priorat,29,PRI,Tarragona,43,309831.159,4565236.081,0.731469274,41.2161734
+la Morera de Montsant,"Morera de Montsant, la",la Morera de Montsant,"Morera de Montsant, la",430960,43096,Priorat,29,PRI,Tarragona,43,319216.8686,4570416.741,0.841819466,41.26495767
+la Torre de Fontaubella,"Torre de Fontaubella, la",la Torre de Fontaubella,"Torre de Fontaubella, la",431515,43151,Priorat,29,PRI,Tarragona,43,320716.3956,4554761.112,0.864296174,41.12436529
+la Vilella Alta,"Vilella Alta, la",la Vilella Alta,"Vilella Alta, la",431732,43173,Priorat,29,PRI,Tarragona,43,313964.8804,4566155.803,0.780464754,41.22541257
+la Vilella Baixa,"Vilella Baixa, la",la Vilella Baixa,"Vilella Baixa, la",431747,43174,Priorat,29,PRI,Tarragona,43,312387.282,4565668.891,0.761806057,41.22066563
+Ascó,Ascó,Ascó,Ascó,430192,43019,Ribera d'Ebre,30,REB,Tarragona,43,295969.5276,4561661.853,0.567443286,41.18063105
+Benissanet,Benissanet,Benissanet,Benissanet,430265,43026,Ribera d'Ebre,30,REB,Tarragona,43,301228.58,4547747.76,0.634595291,41.0567063
+Flix,Flix,Flix,Flix,430607,43060,Ribera d'Ebre,30,REB,Tarragona,43,294681.0688,4567395.02,0.550170156,41.23190229
+Garcia,Garcia,Garcia,Garcia,430653,43065,Ribera d'Ebre,30,REB,Tarragona,43,302774.14,4556625.43,0.650125375,41.13698576
+Ginestar,Ginestar,Ginestar,Ginestar,430672,43067,Ribera d'Ebre,30,REB,Tarragona,43,301163.66,4546098.15,0.634355505,41.04184318
+Miravet,Miravet,Miravet,Miravet,430846,43084,Ribera d'Ebre,30,REB,Tarragona,43,298059.6454,4545747.062,0.597571412,41.03791957
+Móra d'Ebre,Móra d'Ebre,Móra d'Ebre,Móra d'Ebre,430939,43093,Ribera d'Ebre,30,REB,Tarragona,43,301884.8701,4551708.024,0.641124373,41.09251056
+Móra la Nova,Móra la Nova,Móra la Nova,Móra la Nova,430944,43094,Ribera d'Ebre,30,REB,Tarragona,43,302724.27,4552511.21,0.650853043,41.09994376
+Rasquera,Rasquera,Rasquera,Rasquera,431212,43121,Ribera d'Ebre,30,REB,Tarragona,43,297941.177,4541701.432,0.597487437,41.00147843
+Riba-roja d'Ebre,Riba-roja d'Ebre,Riba-roja d'Ebre,Riba-roja d'Ebre,431251,43125,Ribera d'Ebre,30,REB,Tarragona,43,289498.1,4569632.44,0.487612602,41.25070535
+Tivissa,Tivissa,Tivissa,Tivissa,431508,43150,Ribera d'Ebre,30,REB,Tarragona,43,309374.8,4546042.62,0.731989555,41.04330676
+Vinebre,Vinebre,Vinebre,Vinebre,431779,43177,Ribera d'Ebre,30,REB,Tarragona,43,297939.7773,4561988.896,0.590805719,41.18406803
+la Palma d'Ebre,"Palma d'Ebre, la",la Palma d'Ebre,"Palma d'Ebre, la",430995,43099,Ribera d'Ebre,30,REB,Tarragona,43,304555.6383,4572786.298,0.666168357,41.28287156
+la Torre de l'Espanyol,"Torre de l'Espanyol, la",la Torre de l'Espanyol,"Torre de l'Espanyol, la",431520,43152,Ribera d'Ebre,30,REB,Tarragona,43,300839.6628,4562769.287,0.625098934,41.19180957
+Campdevànol,Campdevànol,Campdevànol,Campdevànol,170366,17036,Ripollès,31,RIP,Girona,17,431273.27,4675034.77,2.167213333,42.22446763
+Campelles,Campelles,Campelles,Campelles,170372,17037,Ripollès,31,RIP,Girona,17,429116.189,4682802.999,2.140128037,42.29422969
+Camprodon,Camprodon,Camprodon,Camprodon,170391,17039,Ripollès,31,RIP,Girona,17,447674.62,4684584.67,2.365078268,42.31174178
+Gombrèn,Gombrèn,Gombrèn,Gombrèn,170806,17080,Ripollès,31,RIP,Girona,17,425011.6,4677748.24,2.090996644,42.24832693
+Llanars,Llanars,Llanars,Llanars,170911,17091,Ripollès,31,RIP,Girona,17,445944.04,4685564.01,2.343988943,42.32044312
+Molló,Molló,Molló,Molló,171077,17107,Ripollès,31,RIP,Girona,17,450959.8251,4688451.057,2.404610854,42.34677493
+Ogassa,Ogassa,Ogassa,Ogassa,171122,17112,Ripollès,31,RIP,Girona,17,440360.4851,4679558.176,2.276852176,42.26595001
+Pardines,Pardines,Pardines,Pardines,171254,17125,Ripollès,31,RIP,Girona,17,435185.2332,4684742.106,2.213525583,42.31222037
+Planoles,Planoles,Planoles,Planoles,171349,17134,Ripollès,31,RIP,Girona,17,426144.7045,4685282.583,2.103769293,42.31628262
+Queralbs,Queralbs,Queralbs,Queralbs,170433,17043,Ripollès,31,RIP,Girona,17,431040.1139,4688819.614,2.162746129,42.34858311
+Ribes de Freser,Ribes de Freser,Ribes de Freser,Ribes de Freser,171450,17145,Ripollès,31,RIP,Girona,17,431396.9818,4684105.853,2.167638307,42.30616632
+Ripoll,Ripoll,Ripoll,Ripoll,171479,17147,Ripollès,31,RIP,Girona,17,433177.36,4672395.69,2.190587139,42.20086676
+Sant Joan de les Abadesses,Sant Joan de les Abadesses,Sant Joan de les Abadesses,Sant Joan de les Abadesses,171674,17167,Ripollès,31,RIP,Girona,17,440986.86,4675869.46,2.284821954,42.23277865
+Sant Pau de Segúries,Sant Pau de Segúries,Sant Pau de Segúries,Sant Pau de Segúries,171772,17177,Ripollès,31,RIP,Girona,17,447619.63,4678935.16,2.364922292,42.26086051
+Setcases,Setcases,Setcases,Setcases,171925,17192,Ripollès,31,RIP,Girona,17,442466.6,4691691.11,2.30117955,42.37537123
+Toses,Toses,Toses,Toses,172018,17201,Ripollès,31,RIP,Girona,17,419000.04,4685956.82,2.016986439,42.32164368
+Vallfogona de Ripollès,Vallfogona de Ripollès,Vallfogona de Ripollès,Vallfogona de Ripollès,171707,17170,Ripollès,31,RIP,Girona,17,442505.14,4671704.73,2.303632757,42.19538574
+Vilallonga de Ter,Vilallonga de Ter,Vilallonga de Ter,Vilallonga de Ter,172240,17224,Ripollès,31,RIP,Girona,17,443329.22,4686774.26,2.312139512,42.33115611
+les Llosses,"Llosses, les",les Llosses,"Llosses, les",170963,17096,Ripollès,31,RIP,Girona,17,427028.52,4666868.797,2.116808189,42.15054566
+Cervera,Cervera,Cervera,Cervera,250729,25072,Segarra,32,SGA,Lleida,25,356060.51,4614109,1.271020203,41.66574175
+Estaràs,Estaràs,Estaràs,Estaràs,250851,25085,Segarra,32,SGA,Lleida,25,365042.1319,4616804.882,1.37825372,41.69158637
+Granyena de Segarra,Granyena de Segarra,Granyena de Segarra,Granyena de Segarra,251044,25104,Segarra,32,SGA,Lleida,25,353953.4958,4609460.825,1.246857472,41.62351079
+Guissona,Guissona,Guissona,Guissona,251109,25110,Segarra,32,SGA,Lleida,25,357796.66,4627341.93,1.288706212,41.78519066
+Ivorra,Ivorra,Ivorra,Ivorra,251142,25114,Segarra,32,SGA,Lleida,25,366656.98,4625708.61,1.395657482,41.77202374
+Massoteres,Massoteres,Massoteres,Massoteres,251327,25132,Segarra,32,SGA,Lleida,25,359654.3509,4628670.915,1.310738284,41.7974864
+Montoliu de Segarra,Montoliu de Segarra,Montoliu de Segarra,Montoliu de Segarra,251410,25141,Segarra,32,SGA,Lleida,25,355816.3976,4605711.948,1.270111952,41.59009782
+Montornès de Segarra,Montornès de Segarra,Montornès de Segarra,Montornès de Segarra,251431,25143,Segarra,32,SGA,Lleida,25,352461.2271,4606962.587,1.229567753,41.60074469
+Sanaüja,Sanaüja,Sanaüja,Sanaüja,251919,25191,Segarra,32,SGA,Lleida,25,359831.74,4637421.11,1.310801656,41.87629584
+Ribera d'Ondara,Ribera d'Ondara,Sant Antolí i Vilanova,Sant Antolí i Vilanova,259059,25905,Segarra,32,SGA,Lleida,25,361798.088,4609535.973,1.340967564,41.62558472
+Sant Guim de Freixenet,Sant Guim de Freixenet,Sant Guim de Freixenet,Sant Guim de Freixenet,251924,25192,Segarra,32,SGA,Lleida,25,368325.81,4612754.5,1.418591093,41.65566775
+Sant Guim de la Plana,Sant Guim de la Plana,Sant Guim de la Plana,Sant Guim de la Plana,251977,25197,Segarra,32,SGA,Lleida,25,360687.77,4624813.69,1.324076516,41.76294143
+Sant Ramon,Sant Ramon,Sant Ramon,Sant Ramon,251945,25194,Segarra,32,SGA,Lleida,25,363418.28,4620494.96,1.357902627,41.72453272
+Talavera,Talavera,Talavera,Talavera,252167,25216,Segarra,32,SGA,Lleida,25,361474.7413,4604707.315,1.338203694,41.58205386
+Tarroja de Segarra,Tarroja de Segarra,Tarroja de Segarra,Tarroja de Segarra,252192,25219,Segarra,32,SGA,Lleida,25,356473.225,4621287.87,1.274248,41.73044795
+Torrefeta i Florejacs,Torrefeta i Florejacs,Torrefeta,Torrefeta,259078,25907,Segarra,32,SGA,Lleida,25,356480.1659,4623904.927,1.27370028,41.75401051
+Granyanella,Granyanella,la Curullada,"Curullada, la",251039,25103,Segarra,32,SGA,Lleida,25,352482.857,4614180.866,1.228047765,41.66573437
+les Oluges,"Oluges, les",les Oluges,"Oluges, les",251522,25152,Segarra,32,SGA,Lleida,25,360117.27,4617525.17,1.318928401,41.6972211
+els Plans de Sió,"Plans de Sió, els",les Pallargues,"Pallargues, les",259118,25911,Segarra,32,SGA,Lleida,25,350136.84,4624929.07,1.19717837,41.76205895
+Aitona,Aitona,Aitona,Aitona,250387,25038,Segrià,33,SGR,Lleida,25,287883.025,4596733.03,0.458875465,41.49415635
+Albatàrrec,Albatàrrec,Albatàrrec,Albatàrrec,250077,25007,Segrià,33,SGR,Lleida,25,300254.3652,4605149.201,0.604158956,41.57307599
+Alcanó,Alcanó,Alcanó,Alcanó,250100,25010,Segrià,33,SGR,Lleida,25,301025.065,4594923.92,0.616776692,41.48124482
+Alcarràs,Alcarràs,Alcarràs,Alcarràs,250117,25011,Segrià,33,SGR,Lleida,25,293639.32,4604230.49,0.525200819,41.56312845
+Alcoletge,Alcoletge,Alcoletge,Alcoletge,250122,25012,Segrià,33,SGR,Lleida,25,307978.95,4613186.48,0.694161884,41.64730417
+Alfarràs,Alfarràs,Alfarràs,Alfarràs,250138,25013,Segrià,33,SGR,Lleida,25,298247.48,4633701.49,0.570449974,41.82951572
+Alfés,Alfés,Alfés,Alfés,250143,25014,Segrià,33,SGR,Lleida,25,301501.1611,4599396.927,0.62100072,41.52161842
+Alguaire,Alguaire,Alguaire,Alguaire,250169,25016,Segrià,33,SGR,Lleida,25,299067.8496,4623325.835,0.583830422,41.73635395
+Almacelles,Almacelles,Almacelles,Almacelles,250194,25019,Segrià,33,SGR,Lleida,25,286848.92,4623167.21,0.437094544,41.73174426
+Almatret,Almatret,Almatret,Almatret,250208,25020,Segrià,33,SGR,Lleida,25,284359.18,4575853.07,0.424135707,41.30532865
+Almenar,Almenar,Almenar,Almenar,250215,25021,Segrià,33,SGR,Lleida,25,297935.72,4630190.78,0.567895095,41.797844
+Alpicat,Alpicat,Alpicat,Alpicat,250236,25023,Segrià,33,SGR,Lleida,25,296466.7153,4615651.819,0.555198295,41.66663438
+Artesa de Lleida,Artesa de Lleida,Artesa de Lleida,Artesa de Lleida,250334,25033,Segrià,33,SGR,Lleida,25,308488.56,4602560.29,0.70367123,41.55179061
+Aspa,Aspa,Aspa,Aspa,250365,25036,Segrià,33,SGR,Lleida,25,305706,4596390.48,0.672325006,41.49559161
+Benavent de Segrià,Benavent de Segrià,Benavent de Segrià,Benavent de Segrià,250539,25053,Segrià,33,SGR,Lleida,25,303036.32,4618723.12,0.633031977,41.6959255
+Corbins,Corbins,Corbins,Corbins,250788,25078,Segrià,33,SGR,Lleida,25,308010.1569,4617998.756,0.692989787,41.69062158
+Gimenells i el Pla de la Font,Gimenells i el Pla de la Font,Gimenells,Gimenells,259123,25912,Segrià,33,SGR,Lleida,25,282626.1493,4614467.336,0.38953973,41.65232146
+Llardecans,Llardecans,Llardecans,Llardecans,251253,25125,Segrià,33,SGR,Lleida,25,295116.78,4583175.87,0.550051577,41.37403299
+Lleida,Lleida,Lleida,Lleida,251207,25120,Segrià,33,SGR,Lleida,25,302257.02,4609731.63,0.626648769,41.61481376
+Maials,Maials,Maials,Maials,251333,25133,Segrià,33,SGR,Lleida,25,291267.09,4582261.28,0.504374083,41.36481356
+Massalcoreig,Massalcoreig,Massalcoreig,Massalcoreig,251312,25131,Segrià,33,SGR,Lleida,25,279431.8789,4593097.64,0.359062697,41.45916494
+Montoliu de Lleida,Montoliu de Lleida,Montoliu de Lleida,Montoliu de Lleida,251425,25142,Segrià,33,SGR,Lleida,25,298943.55,4603795.74,0.58890293,41.56056712
+Puigverd de Lleida,Puigverd de Lleida,Puigverd de Lleida,Puigverd de Lleida,251826,25182,Segrià,33,SGR,Lleida,25,310912.5,4601553.2,0.733030421,41.54330308
+Rosselló,Rosselló,Rosselló,Rosselló,251898,25189,Segrià,33,SGR,Lleida,25,299882.62,4618517.39,0.595233971,41.69328751
+Sarroca de Lleida,Sarroca de Lleida,Sarroca de Lleida,Sarroca de Lleida,252000,25200,Segrià,33,SGR,Lleida,25,296384.5481,4592518.658,0.562054227,41.45843438
+Seròs,Seròs,Seròs,Seròs,252043,25204,Segrià,33,SGR,Lleida,25,283662.8,4593428.35,0.409552253,41.46329226
+Soses,Soses,Soses,Soses,252108,25210,Segrià,33,SGR,Lleida,25,290397.63,4600992.31,0.487489382,41.53314601
+Sudanell,Sudanell,Sudanell,Sudanell,252115,25211,Segrià,33,SGR,Lleida,25,297127.1156,4603518.477,0.567232421,41.55761329
+Sunyer,Sunyer,Sunyer,Sunyer,252120,25212,Segrià,33,SGR,Lleida,25,299171.28,4599643.67,0.593018412,41.52325812
+Torre-serona,Torre-serona,Torre-serona,Torre-serona,252332,25233,Segrià,33,SGR,Lleida,25,302654.3,4616059.77,0.629325377,41.67186223
+Torrebesses,Torrebesses,Torrebesses,Torrebesses,252265,25226,Segrià,33,SGR,Lleida,25,299046.08,4588912.16,0.595093687,41.42664815
+Torrefarrera,Torrefarrera,Torrefarrera,Torrefarrera,252287,25228,Segrià,33,SGR,Lleida,25,300769.7948,4616262.343,0.606638548,41.67321621
+Torres de Segre,Torres de Segre,Torres de Segre,Torres de Segre,252326,25232,Segrià,33,SGR,Lleida,25,292580.903,4601164.537,0.51357715,41.53526451
+Vilanova de Segrià,Vilanova de Segrià,Vilanova de Segrià,Vilanova de Segrià,252516,25251,Segrià,33,SGR,Lleida,25,301906.195,4620612.16,0.618834708,41.71264518
+Vilanova de la Barca,Vilanova de la Barca,Vilanova de la Barca,Vilanova de la Barca,252542,25254,Segrià,33,SGR,Lleida,25,311012.01,4617967.45,0.72904341,41.69105807
+els Alamús,"Alamús, els",els Alamús,"Alamús, els",250045,25004,Segrià,33,SGR,Lleida,25,311666.3087,4609598.228,0.739536227,41.61588862
+la Granja d'Escarp,"Granja d'Escarp, la",la Granja d'Escarp,"Granja d'Escarp, la",251023,25102,Segrià,33,SGR,Lleida,25,278722.36,4588593.17,0.352225093,41.41843885
+la Portella,"Portella, la",la Portella,"Portella, la",251749,25174,Segrià,33,SGR,Lleida,25,303693.6,4623590.26,0.639320944,41.73988949
+Amer,Amer,Amer,Amer,170078,17007,Selva,34,SEL,Girona,17,467127.7,4650878.86,2.603018891,42.00924462
+Anglès,Anglès,Anglès,Anglès,170084,17008,Selva,34,SEL,Girona,17,470170.64,4645114.21,2.640058649,41.95744641
+Arbúcies,Arbúcies,Arbúcies,Arbúcies,170097,17009,Selva,34,SEL,Girona,17,459648.8377,4629470.255,2.514167946,41.81608058
+Blanes,Blanes,Blanes,Blanes,170237,17023,Selva,34,SEL,Girona,17,482720.62,4613798.78,2.79240678,41.67576646
+Sant Julià del Llor i Bonmatí,Sant Julià del Llor i Bonmatí,Bonmatí,Bonmatí,179032,17903,Selva,34,SEL,Girona,17,472169.48,4646545.46,2.664109899,41.97041015
+Breda,Breda,Breda,Breda,170274,17027,Selva,34,SEL,Girona,17,463163.6442,4621952.244,2.556951659,41.74853898
+Brunyola i Sant Martí Sapresa,Brunyola i Sant Martí Sapresa,Brunyola,Brunyola,170280,17028,Selva,34,SEL,Girona,17,473815.16,4639226.92,2.684296786,41.90455116
+Caldes de Malavella,Caldes de Malavella,Caldes de Malavella,Caldes de Malavella,170335,17033,Selva,34,SEL,Girona,17,484186.6025,4631907.305,2.809537259,41.8389004
+Riells i Viabrea,Riells i Viabrea,Can Salvà,Can Salvà,171463,17146,Selva,34,SEL,Girona,17,463251.0147,4619360.738,2.558162486,41.72520183
+Fogars de la Selva,Fogars de la Selva,Fogars de la Selva,Fogars de la Selva,080826,08082,Selva,34,SEL,Barcelona,08,472693.8175,4620407.623,2.671644331,41.7350115
+Hostalric,Hostalric,Hostalric,Hostalric,170834,17083,Selva,34,SEL,Girona,17,469804.34,4621638.41,2.636836674,41.74599253
+Lloret de Mar,Lloret de Mar,Lloret de Mar,Lloret de Mar,170950,17095,Selva,34,SEL,Girona,17,487283.39,4616420.43,2.847167472,41.69946593
+Massanes,Massanes,Massanes,Massanes,171019,17101,Selva,34,SEL,Girona,17,471055.66,4623843.73,2.65177868,41.76590217
+Maçanet de la Selva,Maçanet de la Selva,Maçanet de la Selva,Maçanet de la Selva,171030,17103,Selva,34,SEL,Girona,17,477630.9947,4625102.08,2.730836365,41.77744856
+Osor,Osor,Osor,Osor,171169,17116,Selva,34,SEL,Girona,17,463320.9108,4643816.552,2.55748816,41.94547022
+Riudarenes,Riudarenes,Riudarenes,Riudarenes,171485,17148,Selva,34,SEL,Girona,17,476501.36,4630117.27,2.717045116,41.82258709
+Riudellots de la Selva,Riudellots de la Selva,Riudellots de la Selva,Riudellots de la Selva,171501,17150,Selva,34,SEL,Girona,17,483682.15,4637894.76,2.803296238,41.89281813
+Sant Feliu de Buixalleu,Sant Feliu de Buixalleu,Sant Feliu de Buixalleu,Sant Feliu de Buixalleu,171595,17159,Selva,34,SEL,Girona,17,467367.0972,4620471.958,2.607588551,41.73539008
+Sant Hilari Sacalm,Sant Hilari Sacalm,Sant Hilari Sacalm,Sant Hilari Sacalm,171642,17164,Selva,34,SEL,Girona,17,459240.0716,4636478.24,2.508763908,41.8791776
+Susqueda,Susqueda,Sant Martí Sacalm,Sant Martí Sacalm,171946,17194,Selva,34,SEL,Girona,17,462490.2849,4651490.396,2.546977827,42.014545
+Santa Coloma de Farners,Santa Coloma de Farners,Santa Coloma de Farners,Santa Coloma de Farners,171805,17180,Selva,34,SEL,Girona,17,472002.25,4634739.98,2.662652048,41.8640765
+Sils,Sils,Sils,Sils,171931,17193,Selva,34,SEL,Girona,17,478647.46,4628805.16,2.742934015,41.81082984
+Tossa de Mar,Tossa de Mar,Tossa de Mar,Tossa de Mar,172023,17202,Selva,34,SEL,Girona,17,494279.5614,4618469.988,2.931230066,41.7180076
+Vidreres,Vidreres,Vidreres,Vidreres,172137,17213,Selva,34,SEL,Girona,17,481655.45,4626360.28,2.779222911,41.78888434
+Vilobí d'Onyar,Vilobí d'Onyar,Vilobí d'Onyar,Vilobí d'Onyar,172333,17233,Selva,34,SEL,Girona,17,478641.27,4637429.33,2.742548231,41.88850596
+la Cellera de Ter,"Cellera de Ter, la",la Cellera de Ter,"Cellera de Ter, la",171899,17189,Selva,34,SEL,Girona,17,468574.7,4646326.63,2.620736596,41.96830412
+Biosca,Biosca,Biosca,Biosca,250557,25055,Solsonès,35,SOL,Lleida,25,363738.2693,4633566.821,1.358748948,41.84227768
+Odèn,Odèn,Cambrils,Cambrils,251484,25148,Solsonès,35,SOL,Lleida,25,366716.3065,4665834.532,1.38728764,42.1332949
+Castellar de la Ribera,Castellar de la Ribera,Castellar de la Ribera,Castellar de la Ribera,250642,25064,Solsonès,35,SOL,Lleida,25,368861.6673,4653509.466,1.415999097,42.02269309
+Clariana de Cardener,Clariana de Cardener,Clariana de Cardener,Clariana de Cardener,250753,25075,Solsonès,35,SOL,Lleida,25,386009.0555,4643345.423,1.625028279,41.93384623
+Lladurs,Lladurs,Lladurs,Lladurs,251240,25124,Solsonès,35,SOL,Lleida,25,376541.841,4655812.003,1.508250669,42.04466667
+Llobera,Llobera,Llobera,Llobera,251291,25129,Solsonès,35,SOL,Lleida,25,372559.6332,4642285.091,1.463082434,41.92224253
+Navès,Navès,Navès,Navès,251462,25146,Solsonès,35,SOL,Lleida,25,387359.9919,4649648.802,1.64011245,41.990797
+Pinós,Pinós,Pinós,Pinós,251673,25167,Solsonès,35,SOL,Lleida,25,378772.8745,4632815.499,1.539931968,41.83795746
+Pinell de Solsonès,Pinell de Solsonès,Sant Climenç,Sant Climenç,251667,25166,Solsonès,35,SOL,Lleida,25,368937.5009,4645464.674,1.418708558,41.95027647
+Sant Llorenç de Morunys,Sant Llorenç de Morunys,Sant Llorenç de Morunys,Sant Llorenç de Morunys,251930,25193,Solsonès,35,SOL,Lleida,25,383633.27,4665950.66,1.591892963,42.13703473
+Solsona,Solsona,Solsona,Solsona,252075,25207,Solsonès,35,SOL,Lleida,25,377266.675,4650210.73,1.518177593,41.99434845
+Torà,Torà,Torà,Torà,252234,25223,Solsonès,35,SOL,Lleida,25,367332.76,4630221.34,1.402776614,41.81276729
+Guixers,Guixers,Valls,Valls,251116,25111,Solsonès,35,SOL,Lleida,25,389804.2403,4665355.741,1.666657653,42.13257009
+Riner,Riner,el Miracle,"Miracle, el",251863,25186,Solsonès,35,SOL,Lleida,25,377676.7096,4641335.213,1.524970684,41.91449934
+Olius,Olius,el Pi de Sant Just,"Pi de Sant Just, el",251517,25151,Solsonès,35,SOL,Lleida,25,380302.38,4648290.72,1.555208806,41.97752823
+la Coma i la Pedra,"Coma i la Pedra, la",la Coma,"Coma, la",251636,25163,Solsonès,35,SOL,Lleida,25,383527.6578,4670285.444,1.589748936,42.17604808
+la Molsosa,"Molsosa, la",la Molsosa,"Molsosa, la",251364,25136,Solsonès,35,SOL,Lleida,25,379032.6479,4627007.989,1.544244425,41.78570609
+Altafulla,Altafulla,Altafulla,Altafulla,430120,43012,Tarragonès,36,TAR,Tarragona,43,363715.93,4555874.78,1.376050084,41.14275014
+Constantí,Constantí,Constantí,Constantí,430477,43047,Tarragonès,36,TAR,Tarragona,43,350023.0785,4557376.345,1.212592424,41.15385441
+Creixell,Creixell,Creixell,Creixell,430509,43050,Tarragonès,36,TAR,Tarragona,43,369190.74,4558550.3,1.44069294,41.16774336
+Perafort,Perafort,Perafort,Perafort,431037,43103,Tarragonès,36,TAR,Tarragona,43,353691.2838,4561435.592,1.255320372,41.19107297
+Renau,Renau,Renau,Renau,431227,43122,Tarragonès,36,TAR,Tarragona,43,358449.56,4565082.86,1.311192711,41.2247584
+Roda de Berà,Roda de Berà,Roda de Berà,Roda de Berà,431310,43131,Tarragonès,36,TAR,Tarragona,43,370376.6479,4560554.251,1.45440035,41.18597879
+Salomó,Salomó,Salomó,Salomó,431359,43135,Tarragonès,36,TAR,Tarragona,43,363773.0818,4565499.631,1.374588576,41.22942497
+Salou,Salou,Salou,Salou,439057,43905,Tarragonès,36,TAR,Tarragona,43,343275.15,4549478.43,1.134226673,41.08147166
+Tarragona,Tarragona,Tarragona,Tarragona,431482,43148,Tarragonès,36,TAR,Tarragona,43,353527.125,4553204.03,1.255330426,41.1169279
+Torredembarra,Torredembarra,Torredembarra,Torredembarra,431536,43153,Tarragonès,36,TAR,Tarragona,43,365365.23,4556167.54,1.395631328,41.14566163
+Vespella de Gaià,Vespella de Gaià,Vespella de Gaià,Vespella de Gaià,431649,43164,Tarragonès,36,TAR,Tarragona,43,362694.2627,4561718.828,1.362570803,41.19519941
+Vila-seca,Vila-seca,Vila-seca,Vila-seca,431711,43171,Tarragonès,36,TAR,Tarragona,43,344253.1592,4552734.147,1.145039098,41.11097195
+Vilallonga del Camp,Vilallonga del Camp,Vilallonga del Camp,Vilallonga del Camp,431665,43166,Tarragonès,36,TAR,Tarragona,43,349580.2374,4563780.148,1.20574366,41.21142924
+el Catllar,"Catllar, el",el Catllar,"Catllar, el",430430,43043,Tarragonès,36,TAR,Tarragona,43,359606.2163,4559576.55,1.326250797,41.17538073
+el Morell,"Morell, el",el Morell,"Morell, el",430957,43095,Tarragonès,36,TAR,Tarragona,43,349798.8166,4561638.979,1.208875583,41.19219179
+els Pallaresos,"Pallaresos, els",els Pallaresos,"Pallaresos, els",431009,43100,Tarragonès,36,TAR,Tarragona,43,354847.6748,4559646.275,1.26952816,41.17517029
+la Canonja,"Canonja, la",la Canonja,"Canonja, la",439076,43907,Tarragonès,36,TAR,Tarragona,43,347141.8905,4554055.089,1.179098666,41.12341376
+la Nou de Gaià,"Nou de Gaià, la",la Nou de Gaià,"Nou de Gaià, la",430976,43097,Tarragonès,36,TAR,Tarragona,43,363607.23,4560345.32,1.373760241,41.18298618
+la Pobla de Mafumet,"Pobla de Mafumet, la",la Pobla de Mafumet,"Pobla de Mafumet, la",431093,43109,Tarragonès,36,TAR,Tarragona,43,349857.9137,4561125.317,1.209706004,41.18757797
+la Pobla de Montornès,"Pobla de Montornès, la",la Pobla de Montornès,"Pobla de Montornès, la",431114,43111,Tarragonès,36,TAR,Tarragona,43,367039.87,4559590.98,1.414836966,41.17676428
+la Riera de Gaià,"Riera de Gaià, la",la Riera de Gaià,"Riera de Gaià, la",431264,43126,Tarragonès,36,TAR,Tarragona,43,362556.2579,4558351.524,1.361681623,41.16485589
+la Secuita,"Secuita, la",la Secuita,"Secuita, la",431444,43144,Tarragonès,36,TAR,Tarragona,43,355756.73,4562901.97,1.279593598,41.20464645
+Arnes,Arnes,Arnes,Arnes,430189,43018,Terra Alta,37,TAL,Tarragona,43,269310.318,4532379.47,0.260882637,40.91000512
+Batea,Batea,Batea,Batea,430228,43022,Terra Alta,37,TAL,Tarragona,43,274197.5,4552727.03,0.311413833,41.09446232
+Bot,Bot,Bot,Bot,430326,43032,Terra Alta,37,TAL,Tarragona,43,280078.8832,4543068.129,0.384818011,41.00915666
+Caseres,Caseres,Caseres,Caseres,430419,43041,Terra Alta,37,TAL,Tarragona,43,268907.5629,4546676.96,0.250766135,41.03853899
+Corbera d'Ebre,Corbera d'Ebre,Corbera d'Ebre,Corbera d'Ebre,430483,43048,Terra Alta,37,TAL,Tarragona,43,288131.2484,4550443.224,0.477947926,41.07766046
+Gandesa,Gandesa,Gandesa,Gandesa,430640,43064,Terra Alta,37,TAL,Tarragona,43,284793.82,4547704.25,0.439214346,41.052136
+Horta de Sant Joan,Horta de Sant Joan,Horta de Sant Joan,Horta de Sant Joan,430712,43071,Terra Alta,37,TAL,Tarragona,43,274169.8728,4537107.446,0.316800183,40.95390522
+Prat de Comte,Prat de Comte,Prat de Comte,Prat de Comte,431172,43117,Terra Alta,37,TAL,Tarragona,43,281712.2064,4540198.885,0.405234861,40.98377527
+Vilalba dels Arcs,Vilalba dels Arcs,Vilalba dels Arcs,Vilalba dels Arcs,431750,43175,Terra Alta,37,TAL,Tarragona,43,282580.9752,4555423.675,0.410180932,41.12101437
+el Pinell de Brai,"Pinell de Brai, el",el Pinell de Brai,"Pinell de Brai, el",431068,43106,Terra Alta,37,TAL,Tarragona,43,290996.45,4543450.45,0.51439464,41.01546909
+la Fatarella,"Fatarella, la",la Fatarella,"Fatarella, la",430568,43056,Terra Alta,37,TAL,Tarragona,43,288009.505,4559859.57,0.473250114,41.16236913
+la Pobla de Massaluca,"Pobla de Massaluca, la",la Pobla de Massaluca,"Pobla de Massaluca, la",431107,43110,Terra Alta,37,TAL,Tarragona,43,278044.09,4562143.84,0.353761607,41.18025791
+Agramunt,Agramunt,Agramunt,Agramunt,250030,25003,Urgell,38,URG,Lleida,25,342025.3569,4627900.9,1.098859253,41.78723928
+Anglesola,Anglesola,Anglesola,Anglesola,250273,25027,Urgell,38,URG,Lleida,25,340255.05,4613680.045,1.081379442,41.6588682
+Belianes,Belianes,Belianes,Belianes,250463,25046,Urgell,38,URG,Lleida,25,334689.2196,4603015.037,1.017511477,41.56172812
+Bellpuig,Bellpuig,Bellpuig,Bellpuig,250501,25050,Urgell,38,URG,Lleida,25,334323.5,4610161.01,1.011153698,41.62597958
+Castellserà,Castellserà,Castellserà,Castellserà,250707,25070,Urgell,38,URG,Lleida,25,332621.7299,4623633.679,0.986958685,41.7469
+Ciutadilla,Ciutadilla,Ciutadilla,Ciutadilla,250740,25074,Urgell,38,URG,Lleida,25,344843.55,4602778.73,1.139284506,41.56163552
+Guimerà,Guimerà,Guimerà,Guimerà,251095,25109,Urgell,38,URG,Lleida,25,348678.38,4602993.17,1.185197254,41.56430098
+Maldà,Maldà,Maldà,Maldà,251305,25130,Urgell,38,URG,Lleida,25,336543.78,4601774.33,1.040077271,41.5509404
+Nalec,Nalec,Nalec,Nalec,251459,25145,Urgell,38,URG,Lleida,25,342828.9924,4602660.878,1.11516823,41.56018113
+Ossó de Sió,Ossó de Sió,Ossó de Sió,Ossó de Sió,251575,25157,Urgell,38,URG,Lleida,25,346982.117,4624198.456,1.159434416,41.75488003
+Preixana,Preixana,Preixana,Preixana,251765,25176,Urgell,38,URG,Lleida,25,336484.41,4608089.83,1.037644841,41.60778066
+Puigverd d'Agramunt,Puigverd d'Agramunt,Puigverd d'Agramunt,Puigverd d'Agramunt,251811,25181,Urgell,38,URG,Lleida,25,343927.0495,4626752.581,1.122034943,41.77727831
+Sant Martí de Riucorb,Sant Martí de Riucorb,Sant Martí de Maldà,Sant Martí de Maldà,259025,25902,Urgell,38,URG,Lleida,25,337769.89,4602657.9,1.054532188,41.55914404
+Tornabous,Tornabous,Tornabous,Tornabous,252252,25225,Urgell,38,URG,Lleida,25,338006.1456,4618484.061,1.053080289,41.70165983
+Tàrrega,Tàrrega,Tàrrega,Tàrrega,252173,25217,Urgell,38,URG,Lleida,25,345053.61,4612190.325,1.13936906,41.64640449
+Vallbona de les Monges,Vallbona de les Monges,Vallbona de les Monges,Vallbona de les Monges,252385,25238,Urgell,38,URG,Lleida,25,340523.98,4598805.33,1.088563444,41.52501576
+Verdú,Verdú,Verdú,Verdú,252424,25242,Urgell,38,URG,Lleida,25,345322.53,4608161,1.143637907,41.61018266
+Vilagrassa,Vilagrassa,Vilagrassa,Vilagrassa,252445,25244,Urgell,38,URG,Lleida,25,342260.17,4612490.36,1.10576315,41.64855772
+els Omells de na Gaia,"Omells de na Gaia, els",els Omells de na Gaia,"Omells de na Gaia, els",251543,25154,Urgell,38,URG,Lleida,25,339320.7897,4596038.89,1.074888402,41.49987078
+la Fuliola,"Fuliola, la",la Fuliola,"Fuliola, la",250962,25096,Urgell,38,URG,Lleida,25,335159.8829,4619809.959,1.018525477,41.71301071
+Arres,Arres,Arres de Jos,Arres de Jos,250313,25031,Val d'Aran,39,VAR,Lleida,25,312714.87,4736137.48,0.71138294,42.75490068
+Bausen,Bausen,Bausen,Bausen,250450,25045,Val d'Aran,39,VAR,Lleida,25,313404.7565,4744983.75,0.716881022,42.83466984
+Bossòst,Bossòst,Bossòst,Bossòst,250595,25059,Val d'Aran,39,VAR,Lleida,25,311223.25,4739589.18,0.692016272,42.78559396
+Canejan,Canejan,Canejan,Canejan,250637,25063,Val d'Aran,39,VAR,Lleida,25,315288.76,4745322.82,0.739804236,42.83817812
+Es Bòrdes,"Bòrdes, Es",Es Bòrdes,"Bòrdes, Es",250576,25057,Val d'Aran,39,VAR,Lleida,25,313308.21,4734245.29,0.719252514,42.73801874
+Les,Les,Les,Les,251214,25121,Val d'Aran,39,VAR,Lleida,25,312805.5577,4742268.275,0.710457379,42.81008917
+Naut Aran,Naut Aran,Salardú,Salardú,250254,25025,Val d'Aran,39,VAR,Lleida,25,328113.3,4730382.29,0.901170239,42.70671213
+Vielha e Mijaran,Vielha e Mijaran,Vielha,Vielha,252430,25243,Val d'Aran,39,VAR,Lleida,25,319457.55,4730075.89,0.795650851,42.70196997
+Vilamòs,Vilamòs,Vilamòs,Vilamòs,252477,25247,Val d'Aran,39,VAR,Lleida,25,313961.3155,4735274.88,0.726886536,42.74744196
+Badia del Vallès,Badia del Vallès,Badia del Vallès,Badia del Vallès,089045,08904,Vallès Occidental,40,VOC,Barcelona,08,426007.45,4595650.67,2.113347047,41.50907052
+Barberà del Vallès,Barberà del Vallès,Barberà del Vallès,Barberà del Vallès,082520,08252,Vallès Occidental,40,VOC,Barcelona,08,426954.05,4596419.59,2.124595576,41.51608259
+Castellar del Vallès,Castellar del Vallès,Castellar del Vallès,Castellar del Vallès,080517,08051,Vallès Occidental,40,VOC,Barcelona,08,423954.86,4607685.69,2.087229617,41.61726822
+Castellbisbal,Castellbisbal,Castellbisbal,Castellbisbal,080543,08054,Vallès Occidental,40,VOC,Barcelona,08,414881.02,4591979.79,1.980556465,41.47490537
+Cerdanyola del Vallès,Cerdanyola del Vallès,Cerdanyola del Vallès,Cerdanyola del Vallès,082665,08266,Vallès Occidental,40,VOC,Barcelona,08,428259.83,4593655.64,2.140571964,41.4913073
+Gallifa,Gallifa,Gallifa,Gallifa,080879,08087,Vallès Occidental,40,VOC,Barcelona,08,426392.7597,4616095.3,2.115452621,41.69323491
+Matadepera,Matadepera,Matadepera,Matadepera,081206,08120,Vallès Occidental,40,VOC,Barcelona,08,418861.7864,4605470.792,2.026405601,41.59681928
+Montcada i Reixac,Montcada i Reixac,Montcada,Montcada,081252,08125,Vallès Occidental,40,VOC,Barcelona,08,432213.33,4593095.35,2.18799215,41.48660514
+Palau-solità i Plegamans,Palau-solità i Plegamans,Palau-solità i Plegamans,Palau-solità i Plegamans,081568,08156,Vallès Occidental,40,VOC,Barcelona,08,431533.1614,4604290.683,2.178570418,41.58737776
+Polinyà,Polinyà,Polinyà,Polinyà,081672,08167,Vallès Occidental,40,VOC,Barcelona,08,429666.19,4601006,2.156558703,41.55763252
+Rellinars,Rellinars,Rellinars,Rellinars,081799,08179,Vallès Occidental,40,VOC,Barcelona,08,409284.9969,4610086.128,1.910811449,41.63735287
+Ripollet,Ripollet,Ripollet,Ripollet,081803,08180,Vallès Occidental,40,VOC,Barcelona,08,429477.311,4594287.39,2.155081583,41.49710519
+Rubí,Rubí,Rubí,Rubí,081846,08184,Vallès Occidental,40,VOC,Barcelona,08,419127.35,4593863.32,2.031153605,41.49230826
+Sabadell,Sabadell,Sabadell,Sabadell,081878,08187,Vallès Occidental,40,VOC,Barcelona,08,425626.86,4599779.41,2.108276488,41.54622002
+Sant Cugat del Vallès,Sant Cugat del Vallès,Sant Cugat del Vallès,Sant Cugat del Vallès,082055,08205,Vallès Occidental,40,VOC,Barcelona,08,423591.0413,4591427.145,2.084930177,41.47080525
+Sant Llorenç Savall,Sant Llorenç Savall,Sant Llorenç Savall,Sant Llorenç Savall,082233,08223,Vallès Occidental,40,VOC,Barcelona,08,421620,4614534.8,2.058309974,41.67872541
+Sant Quirze del Vallès,Sant Quirze del Vallès,Sant Quirze del Vallès,Sant Quirze del Vallès,082384,08238,Vallès Occidental,40,VOC,Barcelona,08,423318.8021,4598347.242,2.080789249,41.53310367
+Santa Perpètua de Mogoda,Santa Perpètua de Mogoda,Santa Perpètua de Mogoda,Santa Perpètua de Mogoda,082606,08260,Vallès Occidental,40,VOC,Barcelona,08,431861.47,4598463.01,2.183170164,41.53491925
+Sentmenat,Sentmenat,Sentmenat,Sentmenat,082671,08267,Vallès Occidental,40,VOC,Barcelona,08,427960.84,4606689.16,2.135427871,41.60866493
+Terrassa,Terrassa,Terrassa,Terrassa,082798,08279,Vallès Occidental,40,VOC,Barcelona,08,417479.8158,4601777.447,2.010333414,41.56341547
+Ullastrell,Ullastrell,Ullastrell,Ullastrell,082900,08290,Vallès Occidental,40,VOC,Barcelona,08,413221.5699,4597968.948,1.959821989,41.52866568
+Vacarisses,Vacarisses,Vacarisses,Vacarisses,082917,08291,Vallès Occidental,40,VOC,Barcelona,08,409834.1969,4606734.142,1.917909239,41.60722834
+Viladecavalls,Viladecavalls,Viladecavalls,Viladecavalls,083008,08300,Vallès Occidental,40,VOC,Barcelona,08,412753.05,4600883.03,1.953783969,41.55485863
+Bigues i Riells del Fai,Bigues i Riells del Fai,Bigues,Bigues,080235,08023,Vallès Oriental,41,VOR,Barcelona,08,435236.1265,4614239.463,2.221915789,41.67728941
+Caldes de Montbui,Caldes de Montbui,Caldes de Montbui,Caldes de Montbui,080333,08033,Vallès Oriental,41,VOR,Barcelona,08,430280.25,4609530.35,2.162930303,41.6344595
+Campins,Campins,Campins,Campins,080399,08039,Vallès Oriental,41,VOR,Barcelona,08,455371.4943,4619343.528,2.463430993,41.72464351
+Canovelles,Canovelles,Canovelles,Canovelles,080410,08041,Vallès Oriental,41,VOR,Barcelona,08,439784.3841,4608043.075,2.277179111,41.62183857
+Cardedeu,Cardedeu,Cardedeu,Cardedeu,080462,08046,Vallès Oriental,41,VOR,Barcelona,08,446360.6356,4609844.004,2.355953108,41.6385282
+les Franqueses del Vallès,"Franqueses del Vallès, les",Corró d'Avall,Corró d'Avall,080863,08086,Vallès Oriental,41,VOR,Barcelona,08,441488.09,4609632.19,2.297473315,41.63627782
+Cànoves i Samalús,Cànoves i Samalús,Cànoves,Cànoves,080425,08042,Vallès Oriental,41,VOR,Barcelona,08,446284.17,4615978.36,2.354483393,41.69377287
+Figaró-Montmany,Figaró-Montmany,Figaró,Figaró,081347,08134,Vallès Oriental,41,VOR,Barcelona,08,439545.46,4619148.16,2.27318706,41.721838
+Granollers,Granollers,Granollers,Granollers,080961,08096,Vallès Oriental,41,VOR,Barcelona,08,440635.62,4606494.66,2.287549966,41.60795645
+Gualba,Gualba,Gualba,Gualba,080977,08097,Vallès Oriental,41,VOR,Barcelona,08,458574.705,4620091.27,2.501889753,41.73155161
+Llinars del Vallès,Llinars del Vallès,Llinars del Vallès,Llinars del Vallès,081069,08106,Vallès Oriental,41,VOR,Barcelona,08,450400.63,4609865.8,2.404456817,41.63898605
+Lliçà d'Amunt,Lliçà d'Amunt,Lliçà d'Amunt,Lliçà d'Amunt,081075,08107,Vallès Oriental,41,VOR,Barcelona,08,436510.8211,4606878.093,2.238010433,41.61109241
+Lliçà de Vall,Lliçà de Vall,Lliçà de Vall,Lliçà de Vall,081081,08108,Vallès Oriental,41,VOR,Barcelona,08,436615.04,4604090.95,2.239555897,41.58599828
+Martorelles,Martorelles,Martorelles,Martorelles,081154,08115,Vallès Oriental,41,VOR,Barcelona,08,436865.2111,4597374.38,2.243262968,41.52552477
+Mollet del Vallès,Mollet del Vallès,Mollet del Vallès,Mollet del Vallès,081249,08124,Vallès Oriental,41,VOR,Barcelona,08,434188.2642,4598597.908,2.211045913,41.53632895
+Montmeló,Montmeló,Montmeló,Montmeló,081350,08135,Vallès Oriental,41,VOR,Barcelona,08,437291.33,4600263.26,2.248068696,41.5515773
+Montornès del Vallès,Montornès del Vallès,Montornès del Vallès,Montornès del Vallès,081363,08136,Vallès Oriental,41,VOR,Barcelona,08,438798.22,4599509.07,2.266212986,41.54490132
+Montseny,Montseny,Montseny,Montseny,081379,08137,Vallès Oriental,41,VOR,Barcelona,08,449699.264,4623213.294,2.394910036,41.75915817
+Fogars de Montclús,Fogars de Montclús,Mosqueroles,Mosqueroles,080811,08081,Vallès Oriental,41,VOR,Barcelona,08,453688.8976,4619718.023,2.443172895,41.72792023
+Parets del Vallès,Parets del Vallès,Parets del Vallès,Parets del Vallès,081593,08159,Vallès Oriental,41,VOR,Barcelona,08,436170.45,4602658.15,2.234374942,41.57305833
+Sant Antoni de Vilamajor,Sant Antoni de Vilamajor,Sant Antoni de Vilamajor,Sant Antoni de Vilamajor,081982,08198,Vallès Oriental,41,VOR,Barcelona,08,450158.13,4613702.96,2.401225232,41.67353114
+Sant Celoni,Sant Celoni,Sant Celoni,Sant Celoni,082021,08202,Vallès Oriental,41,VOR,Barcelona,08,457725.8,4615480.06,2.492009735,41.68997482
+Sant Esteve de Palautordera,Sant Esteve de Palautordera,Sant Esteve de Palautordera,Sant Esteve de Palautordera,082074,08207,Vallès Oriental,41,VOR,Barcelona,08,453142.17,4616904.9,2.436820784,41.70255129
+Sant Feliu de Codines,Sant Feliu de Codines,Sant Feliu de Codines,Sant Feliu de Codines,082107,08210,Vallès Oriental,41,VOR,Barcelona,08,430434.57,4615567.48,2.164079984,41.68884482
+Sant Fost de Campsentelles,Sant Fost de Campsentelles,Sant Fost de Campsentelles,Sant Fost de Campsentelles,082093,08209,Vallès Oriental,41,VOR,Barcelona,08,435969.19,4596635.36,2.232602775,41.51879754
+Sant Pere de Vilamajor,Sant Pere de Vilamajor,Sant Pere de Vilamajor,Sant Pere de Vilamajor,082346,08234,Vallès Oriental,41,VOR,Barcelona,08,449096.73,4614889.24,2.388373648,41.68414842
+Santa Eulàlia de Ronçana,Santa Eulàlia de Ronçana,Santa Eulàlia de Ronçana,Santa Eulàlia de Ronçana,082482,08248,Vallès Oriental,41,VOR,Barcelona,08,435846.105,4611480.33,2.22953985,41.65248899
+Santa Maria de Martorelles,Santa Maria de Martorelles,Santa Maria de Martorelles,Santa Maria de Martorelles,082567,08256,Vallès Oriental,41,VOR,Barcelona,08,437693.625,4596711.279,2.253260234,41.51961736
+Santa Maria de Palautordera,Santa Maria de Palautordera,Santa Maria de Palautordera,Santa Maria de Palautordera,082592,08259,Vallès Oriental,41,VOR,Barcelona,08,453889.92,4615865.96,2.445887832,41.69323754
+Tagamanent,Tagamanent,Tagamanent,Tagamanent,082763,08276,Vallès Oriental,41,VOR,Barcelona,08,439055.8584,4620906.017,2.267121372,41.7376325
+Vallgorguina,Vallgorguina,Vallgorguina,Vallgorguina,082943,08294,Vallès Oriental,41,VOR,Barcelona,08,459241.95,4610745.74,2.510551073,41.64741254
+Vallromanes,Vallromanes,Vallromanes,Vallromanes,082969,08296,Vallès Oriental,41,VOR,Barcelona,08,441432.49,4598006.22,2.297940997,41.53156277
+Vilalba Sasserra,Vilalba Sasserra,Vilalba Sasserra,Vilalba Sasserra,083067,08306,Vallès Oriental,41,VOR,Barcelona,08,453460.51,4611370.75,2.441078141,41.6527253
+Vilanova del Vallès,Vilanova del Vallès,Vilanova del Vallès,Vilanova del Vallès,089024,08902,Vallès Oriental,41,VOR,Barcelona,08,440719.8052,4600522.903,2.289150335,41.55417729
+l'Ametlla del Vallès,"Ametlla del Vallès, l'",l'Ametlla del Vallès,"Ametlla del Vallès, l'",080057,08005,Vallès Oriental,41,VOR,Barcelona,08,438340.32,4613769.29,2.259255578,41.67330125
+la Garriga,"Garriga, la",la Garriga,"Garriga, la",080885,08088,Vallès Oriental,41,VOR,Barcelona,08,440552.55,4615068.99,2.285700594,41.68517517
+la Llagosta,"Llagosta, la",la Llagosta,"Llagosta, la",081056,08105,Vallès Oriental,41,VOR,Barcelona,08,432655.9,4596012.58,2.192966992,41.51291665
+la Roca del Vallès,"Roca del Vallès, la",la Roca del Vallès,"Roca del Vallès, la",081810,08181,Vallès Oriental,41,VOR,Barcelona,08,443797.2799,4604191.005,2.325707417,41.58743705
+Calders,Calders,Calders,Calders,080348,08034,Moianès,42,MOI,Barcelona,08,416234.46,4626883.14,1.9918776,41.78938243
+Castellcir,Castellcir,Castellcir,Castellcir,080556,08055,Moianès,42,MOI,Barcelona,08,429317.74,4623527.88,2.14971647,41.76043865
+Castellterçol,Castellterçol,Castellterçol,Castellterçol,080641,08064,Moianès,42,MOI,Barcelona,08,426881.7352,4622557.937,2.120534702,41.75148277
+Collsuspina,Collsuspina,Collsuspina,Collsuspina,080706,08070,Moianès,42,MOI,Barcelona,08,431506.63,4630742.43,2.175212812,41.82560516
+Granera,Granera,Granera,Granera,080958,08095,Moianès,42,MOI,Barcelona,08,421540.0668,4619722.879,2.056667057,41.72544093
+Moià,Moià,Moià,Moià,081385,08138,Moianès,42,MOI,Barcelona,08,425008.845,4629414.33,2.097144427,41.81305607
+Monistrol de Calders,Monistrol de Calders,Monistrol de Calders,Monistrol de Calders,081287,08128,Moianès,42,MOI,Barcelona,08,418024.2458,4623582.846,2.013870057,41.75984801
+Sant Quirze Safaja,Sant Quirze Safaja,Sant Quirze Safaja,Sant Quirze Safaja,082397,08239,Moianès,42,MOI,Barcelona,08,429722.2609,4619920.859,2.155008262,41.72798941
+Santa Maria d'Oló,Santa Maria d'Oló,Santa Maria d'Oló,Santa Maria d'Oló,082589,08258,Moianès,42,MOI,Barcelona,08,419973.086,4636216.284,2.035604967,41.87381952
+l'Estany,"Estany, l'",l'Estany,"Estany, l'",080790,08079,Moianès,42,MOI,Barcelona,08,426332.5,4635610.23,2.112307789,41.86897946
+Alpens,Alpens,Alpens,Alpens,080044,08004,Lluçanès,43,LLU,Barcelona,08,425708.44,4663415.22,2.101272672,42.11932091
+Olost,Olost,Olost,Olost,081496,08149,Lluçanès,43,LLU,Barcelona,08,425109.1233,4648620.125,2.095915035,41.98602728
+Oristà,Oristà,Oristà,Oristà,081516,08151,Lluçanès,43,LLU,Barcelona,08,422129.63,4642680.36,2.060736976,41.93224773
+Perafita,Perafita,Perafita,Perafita,081607,08160,Lluçanès,43,LLU,Barcelona,08,426075.66,4654854.45,2.10679646,42.0422621
+Prats de Lluçanès,Prats de Lluçanès,Prats de Lluçanès,Prats de Lluçanès,081712,08171,Lluçanès,43,LLU,Barcelona,08,419641.19,4651228.14,2.029558026,42.00897465
+Sant Martí d'Albars,Sant Martí d'Albars,Sant Martí d'Albars,Sant Martí d'Albars,082251,08225,Lluçanès,43,LLU,Barcelona,08,423333.9645,4653329.552,2.073872971,42.02826716
+Lluçà,Lluçà,Santa Eulàlia de Puig-oriol,Santa Eulàlia de Puig-oriol,081094,08109,Lluçanès,43,LLU,Barcelona,08,423268.85,4657776.16,2.072504134,42.06830434
+Sobremunt,Sobremunt,Sobremunt,Sobremunt,082711,08271,Lluçanès,43,LLU,Barcelona,08,431047.6409,4654113.26,2.166952101,42.03603896
