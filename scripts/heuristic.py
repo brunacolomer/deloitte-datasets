@@ -6,26 +6,30 @@ from geopy.distance import geodesic
 file = pd.read_csv('datasets/lineas_fuzzy.csv')
 poblacion = pd.read_csv('datasets/regions.csv', sep=';') 
 
-
 w_dist = 0.2
 w_conc = 0.3       
 w_pobl = 0.3      
-w_diff = 0.9 
+w_diff = 0.15 
 
-linea_ganadora = None
-scoreGanador = 0
+estacion_anterior_ganadora = None
+scoreGanador = -math.inf
 distanciasGanadoras = []
-a = None
+first = True
 
-for linea, df_linea in file.groupby('linea'):
+for idx, fin in file[file['final'] == 1].iterrows():
+    linea_actual = fin['linea']
+
+    if first:
+        estacion_anterior = file.iloc[idx + 1]
+        first = False
+    else:
+        estacion_anterior = file.iloc[idx - 1]
+        first = True
+
+    lx = fin['lon']
+    ly = fin['lat']
+
     distancias = []
-    fin = df_linea[df_linea['final'] == 1]
-    if fin.empty or len(df_linea) < 2:
-        continue
-    
-    lx = fin['lon'].values[0]
-    ly = fin['lat'].values[0]
-
     for region in poblacion.itertuples():
         distancia = geodesic((ly, lx), (region.lat, region.lon)).meters
         distancias.append({
@@ -46,7 +50,6 @@ for linea, df_linea in file.groupby('linea'):
     diffAux= 0
 
     for punt in distancias:
-        
         distPond = (10000 - punt['distancia']) / (10000-500)
         distAux += distPond
 
@@ -56,21 +59,23 @@ for linea, df_linea in file.groupby('linea'):
         diffPond = (100 - punt['dificultad']) / (100)
         diffAux += diffPond
     
-    concPond = (fin['concurrencia'].values[0] - 100000) / (5000000-100000)
+    concPond = (fin['concurrencia'] - 100000) / (5000000-100000)
     distAux /= 5
     poblAux /= 5
     diffAux /= 5
 
     
     scoreActual = (w_dist * distAux) + (w_conc * concPond) + (w_pobl * poblAux) - (w_diff * diffAux)
-    print(f"La estación {df_linea['estacion'].values[0]} tiene un score de {scoreActual}")
 
     if scoreActual > scoreGanador:
         scoreGanador = scoreActual
-        linea_ganadora = df_linea
+        linea_ganadora = fin
         distanciasGanadoras = distancias
+        estacion_anterior_ganadora = estacion_anterior
+        direccio_lat = fin['lat'] - estacion_anterior['lat']
+        direccio_lon = fin['lon'] - estacion_anterior['lon']
 
-print(f"La mejor estación es {linea_ganadora['estacion'].values[0]} con un score de {scoreGanador}")
+print(f"La mejor estación es {linea_ganadora['estacion']} con un score de {scoreGanador} i la estación anterior es {estacion_anterior_ganadora['estacion']}")
 
 
 
