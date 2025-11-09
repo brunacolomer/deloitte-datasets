@@ -59,6 +59,13 @@ const MapPlot = ({ weights }) => {
       >
         {loading ? "Cargando..." : "Refrescar"}
       </button>
+      <button
+        className="refresh-btn"
+        onClick={fetchData}
+        disabled={loading}
+      >
+        {loading ? "Cargando..." : "Refrescar"}
+      </button>
     </div>
   );
 };
