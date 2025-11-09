@@ -7,11 +7,18 @@ from scipy.optimize import minimize_scalar
 import plotly.graph_objects as go
 import plotly.express as px
 
+<<<<<<< HEAD
 def calcular_mejor_estacion(file_path='datasets/lineas_fuzzy.csv',
                              poblacion_path='datasets/regions.csv',
                              w_dist=0.2, w_conc=0.3, w_pobl=0.3, w_diff=0.15):
     file = pd.read_csv(file_path)
     poblacion = pd.read_csv(poblacion_path, sep=';')
+=======
+w_dist = 0.2
+w_conc = 0.3       
+w_pobl = 0.3      
+w_diff = 0.15
+>>>>>>> dce912676b91c61a019c9e5b51bb50a5e532a7af
 
     estacion_anterior_ganadora = None
     linea_ganadora = None
@@ -129,4 +136,56 @@ def generar_heatmap(distanciasGanadoras, x0=2.1, y0=41.1, dx=2, dy=1, r=1):
         margin={"r":0,"t":0,"l":0,"b":0}
     )
 
+<<<<<<< HEAD
     return fig, (x_opt, y_opt)
+=======
+    fig.show()
+    print(x_opt, y_opt)
+
+densityheatmap(distanciasGanadoras)
+
+
+
+
+
+    
+
+
+
+
+'''
+fig = go.Figure()
+
+for linea, df_linea in file_mod.groupby('linea'):
+    fig.add_trace(go.Scattermapbox(
+        lat=df_linea['lat'],
+        lon=df_linea['lon'],
+        mode='markers+lines',
+        marker=dict(size=8),
+        name=f"{linea}",
+        text=df_linea['estacion'],
+        hoverinfo='text',
+        line=dict(width=4)
+    ))
+
+
+fig.add_trace(go.Scattermapbox(
+    lat=[mejor['lat']],
+    lon=[mejor['lon']],
+    mode='markers+text',
+    marker=dict(size=14, color='gold', symbol='star'),
+    text=["Nueva estación sugerida"],
+    textposition='bottom right',
+    name='Nueva parada'
+))
+
+fig.update_layout(
+    mapbox_style="open-street-map",
+    mapbox_zoom=12,
+    mapbox_center={"lat": 41.38, "lon": 2.16},
+    margin={"r":0,"t":0,"l":0,"b":0}
+)
+
+fig.show()
+'''
+>>>>>>> dce912676b91c61a019c9e5b51bb50a5e532a7af
