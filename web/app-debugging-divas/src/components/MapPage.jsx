@@ -1,5 +1,4 @@
-// src/pages/MapPage.jsx
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useRef } from "react";
 import MapPlot from "../components/MapPlot";
 
 const default_weights = {
@@ -18,57 +17,23 @@ const labels = {
 
 const MapPage = () => {
   const [weights, setWeights] = useState(default_weights);
-  const [figData, setFigData] = useState(null);
-  const [loading, setLoading] = useState(false);
-
-  // Ref para almacenar el timer del debounce
   const debounceRef = useRef(null);
-
-  const fetchMap = async (currentWeights) => {
-    try {
-      setLoading(true);
-      const response = await fetch("http://localhost:8000/calculate", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(currentWeights),
-      });
-      const data = await response.json();
-      setFigData(data);
-    } catch (err) {
-      console.error("Error fetching map:", err);
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  // Primera carga
-  useEffect(() => {
-    fetchMap(weights);
-  }, []);
 
   const handleChangeLocal = (key, value) => {
     const newWeights = { ...weights, [key]: parseFloat(value) };
     setWeights(newWeights);
 
-    // Limpiar timer anterior si existía
-    if (debounceRef.current) {
-      clearTimeout(debounceRef.current);
-    }
-
-    // Crear nuevo timer para llamar al backend después de 300ms
+    if (debounceRef.current) clearTimeout(debounceRef.current);
     debounceRef.current = setTimeout(() => {
-      fetchMap(newWeights);
+      // Nada aquí, MapPlot tomará los weights directamente
     }, 300);
   };
 
   const handleReset = () => {
     setWeights(default_weights);
-
-    // Cancelar debounce pendiente
     if (debounceRef.current) clearTimeout(debounceRef.current);
-
-    fetchMap(default_weights);
   };
+  
 
   return (
     <div className="map-page">
@@ -79,33 +44,30 @@ const MapPage = () => {
             <label>
               {labels[key]}: <strong>{value.toFixed(2)}</strong>
             </label>
-           <input
-  type="range"
-  min="0"
-  max="1"
-  step="0.01"
-  value={value}
-  onChange={(e) => handleChangeLocal(key, e.target.value)}
-  style={{
-    background: `linear-gradient(to right, var(--secondary) 0%, var(--secondary) ${
-      value * 100
-    }%, #ddd ${value * 100}%, #ddd 100%)`,
-  }}
-/>
-
+            <input
+              type="range"
+              min="0"
+              max="1"
+              step="0.01"
+              value={value}
+              onChange={(e) => handleChangeLocal(key, e.target.value)}
+              style={{
+                background: `linear-gradient(to right, var(--secondary) 0%, var(--secondary) ${
+                  value * 100
+                }%, #ddd ${value * 100}%, #ddd 100%)`,
+              }}
+            />
           </div>
         ))}
         <button className="reset-btn" onClick={handleReset}>
-          {loading ? "Cargando..." : "Reset"}
+          Reset
         </button>
-       
       </div>
 
       <div className="map-container">
-        {figData && <MapPlot figData={figData} />}
+        <MapPlot weights={weights} />
       </div>
     </div>
-
   );
 };
 

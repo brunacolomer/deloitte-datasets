@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import Body, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import pandas as pd
@@ -151,12 +151,12 @@ def generate_map(df, nueva_parada=None, arc=None, opt=None):
 
 # --- Endpoint para crear nueva parada usando heurística ---
 @app.post("/add_stop")
-def add_stop(w: Weights = weights):
+def add_stop(w: Weights = Body(...)):
     global file
     linea_ganadora, distanciasGanadoras, estacion_anterior_ganadora, dy, dx = find_best_end(
         w.w_dist, w.w_conc, w.w_pobl, w.w_diff
     )
-
+    print(w)
     x0, y0 = linea_ganadora['lon'], linea_ganadora['lat']
     r = 0.007
     angle_centre = np.arctan2(dy, dx)
@@ -202,4 +202,11 @@ def add_stop(w: Weights = weights):
 # --- Endpoint para obtener mapa actual ---
 @app.get("/map")
 def get_map():
+    return generate_map(file)
+# --- Endpoint para resetear el mapa ---
+@app.get("/reset_map")
+def reset_map():
+    global file
+    file = pd.read_csv("datasets/original.csv")  # Cargar datos originales
+    file.to_csv("datasets/lineas_fuzzy.csv", index=False)  # Sobrescribir CSV de trabajo
     return generate_map(file)
