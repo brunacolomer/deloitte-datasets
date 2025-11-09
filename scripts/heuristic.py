@@ -9,7 +9,7 @@ poblacion = pd.read_csv('datasets/regions.csv', sep=';')
 w_dist = 0.2
 w_conc = 0.3       
 w_pobl = 0.3      
-w_diff = 0.15 
+w_diff = 0.15
 
 estacion_anterior_ganadora = None
 scoreGanador = -math.inf
@@ -85,8 +85,6 @@ print(f"La mejor estación es {linea_ganadora['estacion']} con un score de {scor
 
 
 '''
-
-
 fig = go.Figure()
 
 for linea, df_linea in file_mod.groupby('linea'):
