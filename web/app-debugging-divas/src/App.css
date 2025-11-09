@@ -1,122 +1,243 @@
-/* Reset básico */
+/* ===========================
+   VARIABLES Y COLORES
+   =========================== */
+:root {
+  --primary: #0066b3;
+  --secondary: #00b388;
+  --bg-light: #f8f9fa;
+  --bg-dark: #121212;
+  --text-light: #222222;
+  --text-dark: #eeeeee;
+  --card-bg-light: #ffffff;
+  --card-bg-dark: #1f1f1f;
+  --shadow: rgba(0,0,0,0.1);
+  --shadow-hover: rgba(0,0,0,0.2);
+  --font-heading: 'Stack Sans Headline', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --border-radius: 12px;
+  --gap: 1.5rem;
+}
+
+/* ===========================
+   MODO OSCURO
+   =========================== */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--bg-dark);
+    color: var(--text-dark);
+  }
+}
+
+/* ===========================
+   RESET BASICO
+   =========================== */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-:root {
-  --primary: #4facfe;
-  --secondary: #00f2fe;
-  --bg-light: #f0f2f5;
-  --bg-dark: #1c1c1c;
-  --text-light: #ffffff;
-  --text-dark: #222222;
-}
-
-/* Detecta el modo del sistema */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-color: var(--bg-dark);
-    --text-color: var(--text-light);
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    --bg-color: var(--bg-light);
-    --text-color: var(--text-dark);
-  }
-}
-
 body, html, #root {
   height: 100%;
-  background-color: var(--bg-color);
-  color: var(--text-color);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: var(--font-body);
+  background-color: var(--bg-light);
+  color: var(--text-light);
 }
 
-/* Contenedor principal centrado */
-.app-container {
+/* ===========================
+   ANIMACIONES
+   =========================== */
+@keyframes fadeSlideIn {
+  0% { opacity: 0; transform: translateY(-20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes sliderFill {
+  0% { background-size: 0% 100%; }
+  100% { background-size: 100% 100%; }
+}
+
+/* ===========================
+   ENCABEZADOS
+   =========================== */
+h1 {
+  font-family: var(--font-heading);
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: var(--gap);
+  background: linear-gradient(90deg, var(--primary), var(--secondary), var(--primary));
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientMove 6s ease infinite, fadeSlideIn 1s ease forwards;
+}
+
+h1 span {
+  display: block;
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--secondary);
+  opacity: 0;
+  animation: fadeSlideIn 1.2s ease forwards;
+  animation-delay: 1s;
+}
+
+h2 {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+/* ===========================
+   LAYOUT PRINCIPAL
+   =========================== */
+.map-page {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  gap: var(--gap);
+  padding: var(--gap);
   height: 100%;
-  padding: 20px;
-}
-
-/* Layout mapa + gráfico */
-.content-wrapper {
-  display: flex;
-  gap: 40px;
+  justify-content: flex-start;
   align-items: flex-start;
+  background-color: var(--bg-light);
   flex-wrap: wrap;
-  justify-content: center;
-  width: 100%;
-  max-width: 1600px;
 }
 
-/* Mapa */
-.map-wrapper {
+/* ===========================
+   PANEL DE CONTROLES
+   =========================== */
+.controls {
+  flex: 0 0 300px;
+  background-color: var(--card-bg-light);
+  border-radius: var(--border-radius);
+  padding: var(--gap);
+  box-shadow: 0 4px 20px var(--shadow);
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 15px;
-  flex: 1 1 650px;
+  gap: 2rem;
+  align-self: center;
+  animation: fadeSlideIn 1s ease forwards;
 }
 
-.plotly {
-  border-radius: 15px;
-  overflow: hidden;
-  box-shadow: 0 10px 35px rgba(0,0,0,0.2);
+/* Sliders estilizados con fill animado */
+.slider-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
-/* Gráfico */
-.chart-wrapper {
-  flex: 1 1 400px;
-  min-width: 300px;
+.slider-container label {
+  font-weight: 500;
 }
 
-/* Botón moderno */
-.refresh-btn {
-  background: linear-gradient(135deg, var(--primary), var(--secondary));
-  color: #fff;
-  font-weight: bold;
-  padding: 14px 40px;
-  border: none;
-  border-radius: 50px;
+.slider-container input[type="range"] {
+  width: 100%;
+  -webkit-appearance: none;
+  height: 8px;
+  border-radius: 8px;
+  background: linear-gradient(to right, var(--secondary) 0%, var(--secondary) 50%, #ddd 50%, #ddd 100%);
+  background-size: var(--slider-fill, 50%) 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.3s ease;
   cursor: pointer;
-  font-size: 1.1rem;
-  transition: all 0.3s ease;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
-.refresh-btn:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+.slider-container input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--primary);
+  border: 2px solid #fff;
+  box-shadow: 0 2px 6px var(--shadow);
+  transition: all 0.2s ease;
+}
+
+.slider-container input[type="range"]:hover::-webkit-slider-thumb {
+  transform: scale(1.1);
+  box-shadow: 0 4px 10px var(--shadow-hover);
+}
+
+/* ===========================
+   BOTONES
+   =========================== */
+.reset-btn, .refresh-btn {
+  background-color: var(--secondary);
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  text-align: center;
+}
+
+.reset-btn:hover, .refresh-btn:hover {
+  background-color: #008f6b;
+  transform: translateY(-3px) scale(1.02);
 }
 
 .refresh-btn:disabled {
   opacity: 0.6;
   cursor: not-allowed;
   transform: none;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  background-color: var(--secondary);
 }
 
-/* Responsive móvil */
-@media (max-width: 1024px) {
-  .content-wrapper {
+/* ===========================
+   MAPA
+   =========================== */
+.map-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-width: 400px;
+  animation: fadeSlideIn 1s ease forwards;
+}
+
+.map-wrapper {
+  width: 100%;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  box-shadow: 0 6px 30px var(--shadow);
+  transition: all 0.4s ease-in-out;
+}
+
+.map-wrapper:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 35px var(--shadow-hover);
+}
+
+.plotly {
+  border-radius: var(--border-radius);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* ===========================
+   RESPONSIVE
+   =========================== */
+@media (max-width: 720px) {
+  .map-page {
     flex-direction: column;
-    gap: 25px;
-    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
   }
 
-  .map-wrapper, .chart-wrapper {
-    flex: 1 1 100%;
+  .controls {
+    width: 100%;
+    flex: unset;
   }
 
-  .refresh-btn {
-    padding: 12px 25px;
-    font-size: 1rem;
+  .map-container {
+    width: 100%;
   }
 }

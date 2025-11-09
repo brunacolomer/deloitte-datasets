@@ -1,150 +1,99 @@
-import plotly.graph_objects as go
+# scripts/heuristic.py
 import pandas as pd
 import math
 from geopy.distance import geodesic
 import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
 from scipy.optimize import minimize_scalar
-file = pd.read_csv('datasets/lineas_fuzzy.csv')
-poblacion = pd.read_csv('datasets/regions.csv', sep=';') 
+import plotly.graph_objects as go
+import plotly.express as px
 
-w_dist = 0.2
-w_conc = 0.3       
-w_pobl = 0.3      
-w_diff = 0.15 
+def calcular_mejor_estacion(file_path='datasets/lineas_fuzzy.csv',
+                             poblacion_path='datasets/regions.csv',
+                             w_dist=0.2, w_conc=0.3, w_pobl=0.3, w_diff=0.15):
+    file = pd.read_csv(file_path)
+    poblacion = pd.read_csv(poblacion_path, sep=';')
 
-estacion_anterior_ganadora = None
-scoreGanador = -math.inf
-w_diff = 0.9 
- 
-linea_ganadora = None
-scoreGanador = 0
-distanciasGanadoras = []
-first = True
+    estacion_anterior_ganadora = None
+    linea_ganadora = None
+    scoreGanador = -math.inf
+    distanciasGanadoras = []
+    first = True
 
-for idx, fin in file[file['final'] == 1].iterrows():
-    linea_actual = fin['linea']
+    for idx, fin in file[file['final'] == 1].iterrows():
+        if first:
+            estacion_anterior = file.iloc[idx + 1]
+            first = False
+        else:
+            estacion_anterior = file.iloc[idx - 1]
+            first = True
 
-    if first:
-        estacion_anterior = file.iloc[idx + 1]
-        first = False
-    else:
-        estacion_anterior = file.iloc[idx - 1]
-        first = True
+        lx = fin['lon']
+        ly = fin['lat']
 
-    lx = fin['lon']
-    ly = fin['lat']
+        distancias = []
+        for region in poblacion.itertuples():
+            distancia = geodesic((ly, lx), (region.lat, region.lon)).meters
+            distancias.append({
+                'distancia': distancia,
+                'poblacion': region.densitat,
+                'dificultad': region.dificultad,
+                'lon': region.lon,
+                'lat': region.lat
+            })
 
-    distancias = []
-    for region in poblacion.itertuples():
-        distancia = geodesic((ly, lx), (region.lat, region.lon)).meters
-        distancias.append({
-            'distancia': distancia,
-            'poblacion': region.densitat,
-            'dificultad': region.dificultad,
-            'lon': region.lon,
-            'lat': region.lat
-        })
-    #ahora ordenamos segun distancia
-    distancias.sort(key=lambda x: x['distancia'])
-    distancias = distancias[:5] # me quedo con los 5 mas cercanos  
+        # Ordenar por distancia y quedarnos con los 5 más cercanos
+        distancias.sort(key=lambda x: x['distancia'])
+        distancias = distancias[:5]
 
-    scoreActual = 0
+        distAux = sum((10000 - d['distancia'])/(10000-500) for d in distancias)/5
+        poblAux = sum((d['poblacion']-10)/(1500-10) for d in distancias)/5
+        diffAux = sum((100 - d['dificultad'])/100 for d in distancias)/5
+        concPond = (fin['concurrencia'] - 100000) / (5000000-100000)
 
-    distAux = 0
-    poblAux= 0
-    diffAux= 0
+        scoreActual = w_dist*distAux + w_conc*concPond + w_pobl*poblAux - w_diff*diffAux
 
-    for punt in distancias:
-        distPond = (10000 - punt['distancia']) / (10000-500)
-        distAux += distPond
+        if scoreActual > scoreGanador:
+            scoreGanador = scoreActual
+            linea_ganadora = fin
+            distanciasGanadoras = distancias
+            estacion_anterior_ganadora = estacion_anterior
 
-        poblPond = (punt['poblacion'] - 10) / (1500-10)
-        poblAux += poblPond
+    return file, linea_ganadora, distanciasGanadoras, estacion_anterior_ganadora
 
-        diffPond = (100 - punt['dificultad']) / (100)
-        diffAux += diffPond
-    
-    concPond = (fin['concurrencia'] - 100000) / (5000000-100000)
-    distAux /= 5
-    poblAux /= 5
-    diffAux /= 5
 
-    
-    scoreActual = (w_dist * distAux) + (w_conc * concPond) + (w_pobl * poblAux) - (w_diff * diffAux)
+def generar_heatmap(distanciasGanadoras, x0=2.1, y0=41.1, dx=2, dy=1, r=1):
+    xi = np.array([d["lon"] for d in distanciasGanadoras])
+    yi = np.array([d["lat"] for d in distanciasGanadoras])
+    d = np.array([d["poblacion"] for d in distanciasGanadoras])
 
-    if scoreActual > scoreGanador:
-        scoreGanador = scoreActual
-        linea_ganadora = fin
-        distanciasGanadoras = distancias
-        estacion_anterior_ganadora = estacion_anterior
-        direccio_lat = fin['lat'] - estacion_anterior['lat']
-        direccio_lon = fin['lon'] - estacion_anterior['lon']
-
-print(f"La mejor estación es {linea_ganadora['estacion']} con un score de {scoreGanador} i la estación anterior es {estacion_anterior_ganadora['estacion']}")
-print(f"La mejor estación es {linea_ganadora['estacion'].values[0]} con un score de {scoreGanador}")
-print(linea_ganadora)
-print(distanciasGanadoras)
-
-def densityheatmap(distanciasGanadoras):
-    dx, dy = 2,1
-    x0, y0 = 2.1, 41.1
-    xi = []
-    yi = []
-    d = []
-    r = 1
-    for regions in distanciasGanadoras:
-        xi.append(regions["lon"])
-        yi.append(regions["lat"])
-        d.append(regions["poblacion"])
-
-    xi = np.array(xi, dtype=float)
-    yi = np.array(yi, dtype=float)
-    d = np.array(d, dtype=float) 
     marge = 0.01  
     alpha = 5000
-    angle_centre = np.arctan2(dy,dx)
+    angle_centre = np.arctan2(dy, dx)
     delta = np.deg2rad(90)
-    angles =np.linspace(angle_centre -delta/2, angle_centre + delta/2, 200)
+    angles = np.linspace(angle_centre - delta/2, angle_centre + delta/2, 200)
     x_arc = x0 + r * np.cos(angles)
     y_arc = y0 + r * np.sin(angles)
+
     def F(x, y):
         return np.sum(d * np.exp(-alpha * ((x - xi)**2 + (y - yi)**2)))
 
     def f_theta(theta):
         x = x0 + r * np.cos(theta)
         y = y0 + r * np.sin(theta)
-        return -F(x, y)  # negatiu perquè minimize busca mínims
-    x_min, x_max = xi.min() - marge, xi.max() + marge
-    y_min, y_max = yi.min() - marge, yi.max() + marge
+        return -F(x, y)
+
     res = minimize_scalar(f_theta, bounds=(angle_centre - delta/2, angle_centre + delta/2), method='bounded')
     theta_opt = res.x
     x_opt = x0 + r * np.cos(theta_opt)
     y_opt = y0 + r * np.sin(theta_opt)
-    xv = np.linspace(x_min, x_max, 200)
-    yv = np.linspace(y_min, y_max, 200)
-    X, Y = np.meshgrid(xv, yv)
-    Z = np.zeros_like(X)
-    
-    fig = px.scatter_map(lat=[41.2, 41.2], lon=[2.8, 2.5])
-    fig.update_layout(
-            mapbox_style="open-street-map",
-            mapbox_zoom=12,
-            mapbox_center={"lat": 41.38, "lon": 2.16},
-            margin={"r":0,"t":0,"l":0,"b":0}
-    )
-    #fig.show()
-    fig = go.Figure()
 
-    # Add first point
+    # Crear figura Plotly
+    fig = go.Figure()
     fig.add_trace(go.Scattermap(
         lat=[y0], lon=[x0],
         mode='markers',
         marker=dict(size=12, color='red')
-        ))
-
-    # Add second point
+    ))
     fig.add_trace(go.Scattermap(
         lat=[41.2], lon=[2.5],
         mode='markers',
@@ -168,7 +117,7 @@ def densityheatmap(distanciasGanadoras):
         lat=yi,
         lon=xi,
         z=d,
-        radius=20,         # controls blur size
+        radius=20,
         colorscale="Plasma",
         opacity=0.5,
         name="Densitat"
@@ -178,56 +127,6 @@ def densityheatmap(distanciasGanadoras):
         mapbox_zoom=12,
         mapbox_center={"lat": 41.38, "lon": 2.16},
         margin={"r":0,"t":0,"l":0,"b":0}
-        )
+    )
 
-    fig.show()
-    print(x_opt, y_opt)
-
-densityheatmap(distanciasGanadoras)
-
-
-
-
-
-    
-
-
-
-
-'''
-
-
-fig = go.Figure()
-
-for linea, df_linea in file_mod.groupby('linea'):
-    fig.add_trace(go.Scattermapbox(
-        lat=df_linea['lat'],
-        lon=df_linea['lon'],
-        mode='markers+lines',
-        marker=dict(size=8),
-        name=f"{linea}",
-        text=df_linea['estacion'],
-        hoverinfo='text',
-        line=dict(width=4)
-    ))
-
-
-fig.add_trace(go.Scattermapbox(
-    lat=[mejor['lat']],
-    lon=[mejor['lon']],
-    mode='markers+text',
-    marker=dict(size=14, color='gold', symbol='star'),
-    text=["Nueva estación sugerida"],
-    textposition='bottom right',
-    name='Nueva parada'
-))
-
-fig.update_layout(
-    mapbox_style="open-street-map",
-    mapbox_zoom=12,
-    mapbox_center={"lat": 41.38, "lon": 2.16},
-    margin={"r":0,"t":0,"l":0,"b":0}
-)
-
-fig.show()
-'''
+    return fig, (x_opt, y_opt)

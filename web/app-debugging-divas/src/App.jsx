@@ -1,11 +1,12 @@
 
 import './App.css'
-import Map from './components/Map.jsx'
+import MapPage from './components/MapPage.jsx'
 function App() {
 
   return (
     <div>
-      <Map/>
+      <h1>DEBUGGING DIVAS</h1>
+      <MapPage/>
     </div>
   )
 }
