@@ -1,0 +1,940 @@
+{
+  "data": [
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "FF6CUx+sREDC3Vm77axEQJZ31QPmrURARfEqa5uuRECGAraDEa9EQMPWbOUlr0RAEtxI2SKvREC1qbpHNq9EQHSy1Hq/r0RAF0UPfAywRECEY5Y9CbBEQN8zEqERsERAKld4l4uwREBenWNA9rBEQP0xrU1jsURAcNI0KJqxRECXGqGfqbFEQCqMLQQ5skRAu38sRIeyREA2AvG6frNEQIgOgSOBtERAZY16iEa1REDZdtoaEbZEQO+usyH/tkRASkIibeO3REBMbamDvLhEQLE2xk54uURATTCca5i5REDPMSB7vblEQMbBpWPOuURA"
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "O/922a/bAEDYf52bNuMAQNoeveE+0gBA02cHXFfMAECmJyzxgNIAQBRa1v1j4QBAT3Yzox/tAEDtnGaBdgcBQCulZ3qJEQFAuW3fo/4aAUDObFfogyUBQBPThVj9MQFAF9Uiopg8AUA7Oq5GdkUBQP8+48KBUAFAnrKaridaAUByb37DRGMBQOSiWkQUcwFA2bW93ZJ8AUBmhLcHIYABQIo6cw8JfwFAvRk1XyV/AUDrjVph+n4BQFKazeMweAFAdY9srpqHAUAAkBMmjIYBQEp/L4UHjQFAc2Tll8GYAUAhHR7C+KkBQI/f2/RnvwFA"
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L1",
+      "text": [
+        "HOSPITAL DE BELLVITGE",
+        "BELLVITGE",
+        "AV. CARRILET",
+        "R.J.OLIVERAS",
+        "CAN SERRA",
+        "FLORIDA",
+        "TORRASSA",
+        "STA. EULÀLIA",
+        "MERCAT NOU",
+        "PL. DE SANTS",
+        "HOSTAFRANCS",
+        "ESPANYA",
+        "ROCAFORT",
+        "URGELL",
+        "UNIVERSITAT",
+        "CATALUNYA",
+        "URQUINAONA",
+        "ARC DEL TRIOMF",
+        "MARINA",
+        "GLÒRIES",
+        "CLOT",
+        "NAVAS",
+        "SAGRERA",
+        "FABRA I PUIG",
+        "ST. ANDREU",
+        "TORRAS I BAGES",
+        "TRINITAT VELLA",
+        "BARÓ DE VIVER",
+        "STA. COLOMA",
+        "FONDO"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "z582qtO1REC05PG0/LZEQC1A22rWt0RAZmzoZn+4REA7GRwlr7hEQA=="
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "Unx8QnZ+AUA/qfbpeIwBQL+36c9+pAFAm+jzUUa8AUCEEfsEUMwBQA=="
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L10N",
+      "text": [
+        "SAGRERA",
+        "ONZE DE SETEMBRE",
+        "BON PASTOR",
+        "LLEFIÀ",
+        "LA SALUT"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "CMkCJnCpREANxLKZQ6pEQCKI83ACq0RAp658luerREDElEiil61EQL/VOnE5rkRAc4I2OXyuREBJKlPMQa5EQOavkLkyrkRAEtxI2SKvREA="
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "YAZjRKIQAUCsxhLWxhgBQE+Q2O4eIAFA9raZCvEoAUDIeJRKeCIBQGTOM/YlGwFADRmPUgkPAUCdZ+xLNv4AQP0wQni08QBAT3Yzox/tAEA="
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L10S",
+      "text": [
+        "ZAL - RIU VELL",
+        "ECOPARC",
+        "P. COMERCIAL - LA FACTORIA",
+        "ZONA FRANCA",
+        "FOC",
+        "FONERIA",
+        "CIUTAT DE LA JUSTÍCIA",
+        "PROVENÇANA",
+        "CAN TRIES - GORNAL",
+        "TORRASSA"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "clEtIoq5RECKPh9lxLlEQOfEHtrHukRA5GiOrPy6REAuqkVEMbtEQA=="
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "+8qD9BR5AUB7ZkmAmnoBQGsMOiF0cAFAL26jAbxlAUDZrzvdeWIBQA=="
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L11",
+      "text": [
+        "TRINITAT NOVA",
+        "CASA DE L'AIGUA",
+        "TORRE BARÓ|VALLBONA",
+        "CIUTAT MERIDIANA",
+        "CAN CUIÀS"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "tMpMaf2vREBPAwZJn7BEQP0xrU1jsURAzM8NTdmxRECU2SCTjLJEQHcstklFs0RAQIhkyLGzREBIaww6IbREQIgOgSOBtERAKdAn8iS1REDzAYHOpLVEQClBf6FHtkRA4h3gSQu3REB4Qq8/ibdEQGlVSzrKt0RAZkmAmlq4REC+TurL0rhEQHOc24R7uURA"
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "WoRiK2haAUDVIMztXk4BQP8+48KBUAFA63Hfap1YAUBkWMUbmWcBQBIykGeXbwFASSwpd59jAUD7B5EMOXYBQIo6cw8JfwFAT1sjgnGQAUBCYOXQIpsBQLiQR3AjpQFAqRYRxeStAUDcErngDL4BQHaNlgM91AFA0NIVbCPeAUAmxccnZOcBQHbfMTz28wFA"
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L2",
+      "text": [
+        "PARAL.LEL",
+        "SANT ANTONI",
+        "UNIVERSITAT",
+        "PG. DE GRÀCIA",
+        "TETUAN",
+        "MONUMENTAL",
+        "SGDA. FAMÍLIA",
+        "ENCANTS",
+        "CLOT",
+        "BAC DE RODA",
+        "SANT MARTÍ",
+        "LA PAU",
+        "VERNEDA",
+        "ARTIGUES | S. ADRIÀ",
+        "SANT ROC",
+        "GORG",
+        "PEP VENTURA",
+        "BADALONA | POMPEU FABRA"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "Yf4KmSuxREBH/8u1aLFEQJT5R9+ksURAc2n8wiuxRECGWtO847BEQNKm6h7ZsERAs+xJYHOwREDfMxKhEbBEQImbU8kAsERAtMpMaf2vREBd4PJYM7BEQEyndRvUsERAcNI0KJqxREDFjPD2ILJEQLQ9esN9skRAF2TL8nWzREAU6ukj8LNEQExtqYO8tERADFhyFYu1REB+jo8WZ7ZEQD0LQnkft0RAB2ADIsS3REB6bqErEbhEQBL7BFCMuERACD4GK065REByUS0iirlEQA=="
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "pDZxcr/jAEAS3bOu0fIAQCU/4lesAQFA9ifxuRMMAUBKmGn7VxYBQLotkQvOIAFAM6ZgjbMpAUAT04VY/TEBQFK3s688SAFAWoRiK2haAUC536Eo0GcBQDoDIy9rYgFAnrKaridaAUCbIVUUr1IBQOAvZktWRQFA5L7VOnE5AUDR6Xk3FjQBQAMF3smnJwFASWk2j8MgAUAFUIwsmSMBQJtattYXKQFA2CssuB8wAUCG5GTiVkEBQLnF/NzQVAFAXVMgs7NoAUD7yoP0FHkBQA=="
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L3",
+      "text": [
+        "Z.UNIVERSITÀRIA",
+        "PALAU REIAL",
+        "MARIA CRISTINA",
+        "LES CORTS",
+        "PL. DEL CENTRE",
+        "SANTS ESTACIÓ",
+        "TARRAGONA",
+        "ESPANYA",
+        "POBLE SEC",
+        "PARAL.LEL",
+        "DRASSANES",
+        "LICEU",
+        "CATALUNYA",
+        "P. DE GRÀCIA",
+        "DIAGONAL",
+        "FONTANA",
+        "LESSEPS",
+        "VALLCARCA",
+        "PENITENTS",
+        "VALL D´HEBRON",
+        "MONTBAU",
+        "MUNDET",
+        "VALLDAURA",
+        "CANYELLES",
+        "ROQUETES",
+        "TRINITAT NOVA"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "KUF/oUe2REAt0sQ7wLVEQOJXrOEitURAlx3iH7a0REC45LhTOrREQGb6JeKts0RAAaWhRiGzREBzvALRk7JEQLPviuB/sURALquwGeCwREBVUFH1K7FEQJcaoZ+psURAgNQmTu6xREBwz/OnjbJEQA9G7BNAs0RA2SWqtwa0REB72uGvybREQEW7Cik/tURA0LTEymi2RECjdr8K8LdEQFCr6A/NuERAclEtIoq5REA="
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "uJBHcCOlAUBjCtY4m64BQFQ7w9SWugFA4KKTpda7AUDCMGDJVawBQArWOJuOoAFAXmkZqfeUAUDItgw4S4kBQIaTNH9MiwFAVAH3PH96AUBlxttKr20BQHJvfsNEYwFAGlBvRs1XAUBC6Qsh510BQNtSB3k9WAFAelBQilZOAUCXV663zVQBQIYb8PlhZAFA9RJjmX5pAUAuH0lJD2MBQNHN/kC5bQFA+8qD9BR5AUA="
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L4",
+      "text": [
+        "LA PAU",
+        "BESÒS",
+        "BESÒS MAR",
+        "MARESME - FÒRUM",
+        "SELVA DE MAR",
+        "POBLENOU",
+        "LLACUNA",
+        "BOGATELL",
+        "CIUTADELLA",
+        "BARCELONETA",
+        "JAUME I",
+        "URQUINAONA",
+        "P. DE GRÀCIA",
+        "GIRONA",
+        "VERDAGUER",
+        "JOANIC",
+        "ALFONS X",
+        "GUINARDÓ",
+        "MARAGALL",
+        "LLUCMAJOR",
+        "VIA JÚLIA",
+        "TRINITAT NOVA"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "pZ4FobytREDPnzaq061EQDkJpS+ErkRAh99Nt+yuREBQ4978hq9EQA2LUdfar0RAqdvZVx6wREBSYAFMGbBEQKiKqfQTsERAF0UPfAywREDSpuoe2bBEQN481SE3sURALQYP076xREC0PXrDfbJEQA9G7BNAs0RAVRSvsrazREBFuwopP7VEQCR7hJohtURAjILg8e21RECGcw0zNLZEQNC0xMpotkRA54nnbAG3REAWFAZlGrdEQMSzBBkBt0RAje+LS1W2REAVjErqBLZEQH6OjxZntkRA"
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "qrcGtkqQAEABofXwZaIAQM0GmWTkrABAxAlMp3W7AEAT8db5t8sAQH+hR4ye2wBAfxZLkXzlAECvtfepKvQAQPF+3H75BAFAuW3fo/4aAUC6LZELziABQHyb/uxHKgFAyZI5lnc1AUDgL2ZLVkUBQNtSB3k9WAFAVd0jm6tmAUCGG/D5YWQBQEPGo1TCcwFAMWDJVSx+AUBbJO1GH3MBQPUSY5l+aQFADFwea0ZmAUAPtAJDVlcBQEjhehSuRwFABFYOLbI9AUAXnSy13i8BQAVQjCyZIwFA"
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L5",
+      "text": [
+        "CORNELLÀ CENTRE",
+        "GAVARRA",
+        "ST. ILDEFONS",
+        "CAN BOIXERES",
+        "CAN VIDALET",
+        "PUBILLA CASAS",
+        "ERNEST LLUCH",
+        "COLLBLANC",
+        "BADAL",
+        "PL. DE SANTS",
+        "SANTS ESTACIÓ",
+        "ENTENÇA",
+        "H. CLÍNIC",
+        "DIAGONAL",
+        "VERDAGUER",
+        "SGDA. FAMÍLIA",
+        "H. DE ST. PAU",
+        "CAMP DE L´ARPA",
+        "SAGRERA",
+        "CONGRÉS",
+        "MARAGALL",
+        "VIRREI AMAT",
+        "VILAPICINA",
+        "HORTA",
+        "EL CARMEL",
+        "EL COLL | LA TEIXONERA",
+        "VALL D´HEBRON"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "z582qtO1REC05PG0/LZEQC1A22rWt0RAq3tkc9W4RECkpl1MM7lEQMbBpWPOuURAnDOitDe6REBVNNb+zrpEQMQj8fJ0ukRA"
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "Unx8QnZ+AUA/qfbpeIwBQL+36c9+pAFA1qwzvi+uAUA+6xotB7oBQI/f2/RnvwFAlSpR9payAUC5qBYRxaQBQGB0eXO4lgFA"
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L9N",
+      "text": [
+        "SAGRERA",
+        "ONZE DE SETEMBRE",
+        "BON PASTOR",
+        "CAN PEIXAUET",
+        "SANTA ROSA",
+        "FONDO",
+        "ESGLÉSIA MAJOR",
+        "SINGUERLÍN",
+        "CAN ZAM"
+      ],
+      "type": "scattermapbox"
+    },
+    {
+      "hoverinfo": "text",
+      "lat": {
+        "dtype": "f8",
+        "bdata": "clMDzeekREB/aVGf5KZEQOVfyyvXp0RAVYZxN4ioREADmDJwQKlEQLnGZ7J/qkRAnMWLhSGqREALYTWWsKpEQNUiopi8q0RAaVGf5A6tREBlNPJ5xa1EQOavkLkyrkRAEtxI2SKvREBSYAFMGbBEQGH+CpkrsURA"
+      },
+      "line": {
+        "width": 5
+      },
+      "lon": {
+        "dtype": "f8",
+        "bdata": "xAjh0caRAEBR+dfyypUAQERPyqSGlgBAVOV7RiK0AEA6BmSvd78AQLMngc05uABApb3BFybTAEBUVP1K5+MAQOzBpPj4BAFArYTukjgLAUAfMA+Z8gEBQP0wQni08QBAT3Yzox/tAECvtfepKvQAQKQ2cXK/4wBA"
+      },
+      "marker": {
+        "size": 10
+      },
+      "mode": "markers+lines",
+      "name": "L9S",
+      "text": [
+        "AEROPORT T1",
+        "AEROPORT T2",
+        "MAS BLAU",
+        "PARC NOU",
+        "CÈNTRIC",
+        "EL PRAT ESTACIÓ",
+        "LES MORERES",
+        "MERCABARNA",
+        "PARC LOGÍSTIC",
+        "FIRA",
+        "EUROPA - FIRA",
+        "CAN TRIES - GORNAL",
+        "TORRASSA",
+        "COLLBLANC",
+        "ZONA UNIVERSITÀRIA"
+      ],
+      "type": "scattermapbox"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1, "#f0f921"]
+            ]
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1, "#f0f921"]
+            ]
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1, "#f0f921"]
+            ]
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1, "#f0f921"]
+            ]
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [0, "#0d0887"],
+              [0.1111111111111111, "#46039f"],
+              [0.2222222222222222, "#7201a8"],
+              [0.3333333333333333, "#9c179e"],
+              [0.4444444444444444, "#bd3786"],
+              [0.5555555555555556, "#d8576b"],
+              [0.6666666666666666, "#ed7953"],
+              [0.7777777777777778, "#fb9f3a"],
+              [0.8888888888888888, "#fdca26"],
+              [1, "#f0f921"]
+            ]
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            }
+          }
+        ],
+        "scatter": [
+          {
+            "fillpattern": {
+              "fillmode": "overlay",
+              "size": 10,
+              "solidity": 0.2
+            },
+            "type": "scatter"
+          }
+        ],
+        "parcoords": [
+          {
+            "type": "parcoords",
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattermap": [
+          {
+            "type": "scattermap",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "white",
+              "linecolor": "white",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ],
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ]
+      },
+      "layout": {
+        "autotypenumbers": "strict",
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "hovermode": "closest",
+        "hoverlabel": {
+          "align": "left"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "#E5ECF6",
+        "polar": {
+          "bgcolor": "#E5ECF6",
+          "angularaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "radialaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "ternary": {
+          "bgcolor": "#E5ECF6",
+          "aaxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          },
+          "caxis": {
+            "gridcolor": "white",
+            "linecolor": "white",
+            "ticks": ""
+          }
+        },
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "sequential": [
+            [0, "#0d0887"],
+            [0.1111111111111111, "#46039f"],
+            [0.2222222222222222, "#7201a8"],
+            [0.3333333333333333, "#9c179e"],
+            [0.4444444444444444, "#bd3786"],
+            [0.5555555555555556, "#d8576b"],
+            [0.6666666666666666, "#ed7953"],
+            [0.7777777777777778, "#fb9f3a"],
+            [0.8888888888888888, "#fdca26"],
+            [1, "#f0f921"]
+          ],
+          "sequentialminus": [
+            [0, "#0d0887"],
+            [0.1111111111111111, "#46039f"],
+            [0.2222222222222222, "#7201a8"],
+            [0.3333333333333333, "#9c179e"],
+            [0.4444444444444444, "#bd3786"],
+            [0.5555555555555556, "#d8576b"],
+            [0.6666666666666666, "#ed7953"],
+            [0.7777777777777778, "#fb9f3a"],
+            [0.8888888888888888, "#fdca26"],
+            [1, "#f0f921"]
+          ],
+          "diverging": [
+            [0, "#8e0152"],
+            [0.1, "#c51b7d"],
+            [0.2, "#de77ae"],
+            [0.3, "#f1b6da"],
+            [0.4, "#fde0ef"],
+            [0.5, "#f7f7f7"],
+            [0.6, "#e6f5d0"],
+            [0.7, "#b8e186"],
+            [0.8, "#7fbc41"],
+            [0.9, "#4d9221"],
+            [1, "#276419"]
+          ]
+        },
+        "xaxis": {
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "gridcolor": "white",
+          "linecolor": "white",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "white",
+          "automargin": true,
+          "zerolinewidth": 2
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          },
+          "yaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          },
+          "zaxis": {
+            "backgroundcolor": "#E5ECF6",
+            "gridcolor": "white",
+            "linecolor": "white",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "white",
+            "gridwidth": 2
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "geo": {
+          "bgcolor": "white",
+          "landcolor": "#E5ECF6",
+          "subunitcolor": "white",
+          "showland": true,
+          "showlakes": true,
+          "lakecolor": "white"
+        },
+        "title": {
+          "x": 0.05
+        },
+        "mapbox": {
+          "style": "light"
+        }
+      }
+    },
+    "mapbox": {
+      "center": {
+        "lat": 41.38,
+        "lon": 2.16
+      },
+      "style": "open-street-map",
+      "zoom": 12
+    },
+    "margin": {
+      "r": 0,
+      "t": 0,
+      "l": 0,
+      "b": 0
+    }
+  }
+}
