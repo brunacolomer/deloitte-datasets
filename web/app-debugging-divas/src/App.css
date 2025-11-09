@@ -169,6 +169,7 @@ h2 {
    BOTONES
    =========================== */
 .reset-btn, .refresh-btn {
+  margin: 1rem auto;
   background-color: var(--secondary);
   border: none;
   color: #fff;
@@ -240,4 +241,17 @@ h2 {
   .map-container {
     width: 100%;
   }
+}
+.buttons-container {
+  display: flex;
+  justify-content: space-between; /* Distribuye los botones de manera uniforme */
+  gap: 4rem; /* Espacio entre botones */
+  margin-top: 1rem;
+  flex-wrap: wrap; /* Permite que se adapten en pantallas pequeñas */
+}
+
+.buttons-container button {
+  flex: 1; /* Todos los botones ocupan el mismo ancho */
+  min-width: 60px; /* Evita que sean demasiado pequeños */
+  margin: 20px 20px;
 }

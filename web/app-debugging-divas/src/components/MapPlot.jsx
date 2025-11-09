@@ -67,15 +67,18 @@ const MapPlot = ({ weights }) => {
         style={{ width: "100%", height: "500px", borderRadius: "15px" }}
         config={{ responsive: true }}
       />
-      <button className="refresh-btn" onClick={fetchData} disabled={loading}>
+      <div className="buttons-container">
+        <button className="refresh-btn" onClick={fetchData} disabled={loading}>
         {loading ? "Cargando..." : "Refrescar"}
-      </button>
-      <button className="refresh-btn" onClick={addStation} disabled={loading}>
-        {loading ? "Cargando..." : "Add Station"}
-      </button>
-      <button className="reset-btn" onClick={fetchResetMap} disabled={loading}>
-        {loading ? "Cargando..." : "Reset Stops"}
-      </button>
+        </button>
+        <button className="refresh-btn" onClick={addStation} disabled={loading}>
+          {loading ? "Cargando..." : "Add Station"}
+        </button>
+        <button className="reset-btn" onClick={fetchResetMap} disabled={loading}>
+          {loading ? "Cargando..." : "Reset Stops"}
+        </button>
+      </div>
+      
     </div>
   );
 };
